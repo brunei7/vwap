@@ -1,0 +1,1619 @@
+2026-08-07 20:33:06,195 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.80 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-07 20:33:06,195 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-07 21:28:49,505 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.80 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-07 21:28:49,505 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-07 22:01:13,617 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.80 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-07 22:01:13,617 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 00:00:11,204 - INFO - â—ˆ SOLUSDT sinyal TC Buy @ 73.53 | swingVWAP 73.4507 (atas, searah âœ”)
+2026-08-08 00:00:11,211 - INFO - ðŸ›¡ðŸŽ£ SOLUSDT SL STOP-HUNT (opsi 2) @ 73.0486 â€” di luar zona sweep kolam terdekat
+2026-08-08 00:00:11,220 - INFO - ðŸ§¯ SOLUSDT RISK CAP 5% saldo ($0.84) â€” risiko $2.29 â†’ margin $5.86
+2026-08-08 00:00:12,309 - INFO - â–² LONG SOLUSDT [TC] @ 73.48 25x TP 74.4696 SL 73.0486 m $5.86
+2026-08-08 02:58:05,217 - INFO - ðŸ”’ SOLUSDT BE terpasang @ 73.5608 (1.02R)
+2026-08-08 03:00:18,192 - INFO - â—ˆ SOLUSDT sinyal TC Buy @ 73.98 | swingVWAP 73.4622 (atas, searah âœ”)
+2026-08-08 04:59:57,677 - INFO - â–  SOLUSDT TC ditutup â€” PnL +0.21$ (ROI +3.6%)
+2026-08-08 05:16:48,198 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.80 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 05:16:48,198 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 10:33:29,899 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.08 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 10:33:29,899 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 12:00:20,690 - INFO - â—ˆ ETHUSDT sinyal MR Sell @ 1916.14 | swingVWAP 1919.61 (bawah, searah âœ”)
+2026-08-08 12:00:20,699 - INFO - ðŸ›¡ðŸŽ£ ETHUSDT SL STOP-HUNT (opsi 2) @ 1924.17 â€” di luar zona sweep kolam terdekat
+2026-08-08 12:00:20,707 - INFO - ðŸ§¯ ETHUSDT RISK CAP 5% saldo ($0.80) â€” risiko $3.41 â†’ margin $3.77
+2026-08-08 12:00:21,778 - INFO - â–¼ SHORT ETHUSDT [MR] @ 1915.99 50x TP 1914.32 SL 1924.17 m $3.77
+2026-08-08 14:32:45,364 - INFO - â–  ETHUSDT MR ditutup â€” PnL +0.10$ (ROI +2.7%)
+2026-08-08 16:31:42,665 - INFO - â–¶ VWAP BOT dimulai â€” saldo $0.00 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 16:31:42,665 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 16:31:42,691 - INFO - ðŸŒ SYMBOLS diperbarui: 101 kontrak (+98 baru, turnover â‰¥ $5jt)
+2026-08-08 16:33:14,464 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.07 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 16:33:14,464 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 16:33:14,490 - INFO - ðŸŒ SYMBOLS diperbarui: 101 kontrak (+98 baru, turnover â‰¥ $5jt)
+2026-08-08 16:35:20,806 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.07 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 16:35:20,806 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 16:35:20,831 - INFO - ðŸŒ SYMBOLS diperbarui: 101 kontrak (+98 baru, turnover â‰¥ $5jt)
+2026-08-08 16:36:58,175 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.05 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 16:36:58,176 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 16:36:58,213 - INFO - ðŸŒ SYMBOLS diperbarui: 101 kontrak (+98 baru, turnover â‰¥ $5jt)
+2026-08-08 16:37:39,728 - INFO - â—ˆ BSBUSDT sinyal MR Buy @ 0.15231 | swingVWAP 0.167316 (bawah, beda sisi âš )
+2026-08-08 16:37:39,735 - INFO - BSBUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-08 16:37:39,744 - INFO - ðŸ§¯ BSBUSDT RISK CAP 5% saldo ($0.80) â€” risiko $10.71 â†’ margin $1.20
+2026-08-08 16:37:40,798 - INFO - â–² LONG BSBUSDT [MR] @ 0.15191 10x TP 0.167911 SL 0.14177 m $1.2
+2026-08-08 16:49:13,856 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.12 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 16:49:13,856 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 16:49:13,881 - INFO - ðŸŒ SYMBOLS diperbarui: 101 kontrak (+98 baru, turnover â‰¥ $5jt)
+2026-08-08 17:00:05,380 - INFO - â—ˆ AKEUSDT sinyal MR Sell @ 0.0040932 | swingVWAP 0.00405211 (atas, beda sisi âš )
+2026-08-08 17:00:05,390 - INFO - ðŸ›¡ðŸŽ£ AKEUSDT SL STOP-HUNT (opsi 2) @ 0.00416937 â€” di luar zona sweep kolam terdekat
+2026-08-08 17:00:05,399 - INFO - ðŸ§¯ AKEUSDT RISK CAP 5% saldo ($0.81) â€” risiko $7.45 â†’ margin $1.74
+2026-08-08 17:00:06,460 - INFO - â–¼ SHORT AKEUSDT [MR] @ 0.00409317 25x TP 0.00403968 SL 0.00416937 m $1.74
+2026-08-08 17:01:22,738 - INFO - â—ˆ PUMPFUNUSDT sinyal MR Sell @ 0.0023042 | swingVWAP 0.00227576 (atas, beda sisi âš )
+2026-08-08 17:01:56,562 - INFO - â—ˆ ALLOUSDT sinyal MR Buy @ 0.3119 | swingVWAP 0.320056 (bawah, beda sisi âš )
+2026-08-08 17:14:53,055 - INFO - â–¶ VWAP BOT dimulai â€” saldo $15.98 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 17:14:53,055 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 17:14:53,079 - INFO - ðŸŒ SYMBOLS diperbarui: 100 kontrak (+97 baru, turnover â‰¥ $5jt)
+2026-08-08 17:18:23,529 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.01 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 17:18:23,529 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 17:18:23,557 - INFO - ðŸŒ SYMBOLS diperbarui: 100 kontrak (+97 baru, turnover â‰¥ $5jt)
+2026-08-08 17:27:54,021 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.05 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 17:27:54,021 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 17:27:54,048 - INFO - ðŸŒ SYMBOLS diperbarui: 99 kontrak (+96 baru, turnover â‰¥ $5jt)
+2026-08-08 17:42:52,606 - INFO - â–¶ VWAP BOT dimulai â€” saldo $15.99 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 17:42:52,606 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 17:42:52,632 - INFO - ðŸŒ SYMBOLS diperbarui: 100 kontrak (+97 baru, turnover â‰¥ $5jt)
+2026-08-08 18:00:01,053 - INFO - â—ˆ PENGUUSDT sinyal TC Buy @ 0.00622 | swingVWAP 0.00613752 (atas, searah âœ”)
+2026-08-08 18:00:01,063 - INFO - ðŸ›¡ðŸŽ£ PENGUUSDT SL STOP-HUNT (opsi 2) @ 0.00610451 â€” di luar zona sweep kolam terdekat
+2026-08-08 18:00:01,073 - INFO - ðŸ§¯ PENGUUSDT RISK CAP 5% saldo ($0.80) â€” risiko $7.43 â†’ margin $1.72
+2026-08-08 18:00:02,133 - INFO - â–² LONG PENGUUSDT [TC] @ 0.00622 25x TP 0.00630798 SL 0.00610451 m $1.72
+2026-08-08 18:01:12,523 - INFO - â—ˆ MRVLUSDT sinyal TC Sell @ 217.71 | swingVWAP 214.74 (atas, beda sisi âš )
+2026-08-08 18:01:12,530 - INFO - ðŸ›¡ðŸŽ£ MRVLUSDT SL STOP-HUNT (opsi 2) @ 220.419 â€” di luar zona sweep kolam terdekat
+2026-08-08 18:01:12,539 - INFO - ðŸ§¯ MRVLUSDT RISK CAP 5% saldo ($0.79) â€” risiko $4.98 â†’ margin $2.55
+2026-08-08 18:01:13,592 - INFO - â–¼ SHORT MRVLUSDT [TC] @ 217.55 25x TP 216.676 SL 220.419 m $2.55
+2026-08-08 18:01:14,999 - INFO - â—ˆ SHIB1000USDT sinyal TC Buy @ 0.004666 | swingVWAP 0.00464089 (atas, searah âœ”)
+2026-08-08 18:01:15,012 - INFO - ðŸ›¡ðŸŽ£ SHIB1000USDT SL STOP-HUNT (opsi 2) @ 0.00462925 â€” di luar zona sweep kolam terdekat
+2026-08-08 18:01:15,021 - INFO - ðŸ§¯ SHIB1000USDT RISK CAP 5% saldo ($0.79) â€” risiko $3.66 â†’ margin $3.47
+2026-08-08 18:01:16,089 - INFO - â–² LONG SHIB1000USDT [TC] @ 0.004673 25x TP 0.00468926 SL 0.00462925 m $3.47
+2026-08-08 18:01:17,729 - INFO - â—ˆ XAUUSDT sinyal MR Sell @ 4343.69 | swingVWAP 4344.03 (bawah, searah âœ”)
+2026-08-08 18:01:17,736 - INFO - ðŸ›¡ðŸŽ£ XAUUSDT SL STOP-HUNT (opsi 2) @ 4360.77 â€” di luar zona sweep kolam terdekat
+2026-08-08 18:01:17,736 - INFO - âŠ˜ XAUUSDT TP terlalu dekat (0.001% < 0.22% = 2x fee) â€” sinyal dilewati, tak layak fee
+2026-08-08 18:01:52,779 - INFO - â—ˆ CYSUSDT sinyal TC Buy @ 1.0572 | swingVWAP 0.901694 (atas, searah âœ”)
+2026-08-08 18:01:55,647 - INFO - â—ˆ CLUSDT sinyal TC Buy @ 77.1 | swingVWAP 76.7292 (atas, searah âœ”)
+2026-08-08 18:02:30,557 - INFO - â—ˆ BLUAIUSDT sinyal TC Buy @ 0.021358 | swingVWAP 0.0190173 (atas, searah âœ”)
+2026-08-08 18:08:23,386 - INFO - â–¶ VWAP BOT dimulai â€” saldo $15.53 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 18:08:23,386 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 18:08:23,411 - INFO - ðŸŒ SYMBOLS diperbarui: 102 kontrak (+99 baru, turnover â‰¥ $5jt)
+2026-08-08 18:12:15,937 - INFO - â–¶ VWAP BOT dimulai â€” saldo $15.57 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 18:12:15,937 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 18:12:15,960 - INFO - ðŸŒ SYMBOLS diperbarui: 103 kontrak (+100 baru, turnover â‰¥ $5jt)
+2026-08-08 18:19:41,091 - INFO - â–¶ VWAP BOT dimulai â€” saldo $15.60 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 18:19:41,091 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 18:19:41,122 - INFO - ðŸŒ SYMBOLS diperbarui: 103 kontrak (+100 baru, turnover â‰¥ $5jt)
+2026-08-08 18:35:11,633 - INFO - ðŸš€ AKEUSDT RIDE MAX! TP dilepas â€” lantai 60% profit @ 0.00406289 + trailing rapat
+2026-08-08 18:42:38,389 - INFO - ðŸš€ AKEUSDT RIDE ratchet â€” lantai naik ke 0.00405569 (60% dr puncak)
+2026-08-08 18:47:35,812 - INFO - â–  AKEUSDT MR ditutup â€” PnL +0.47$ (ROI +26.8%)
+2026-08-08 19:00:33,273 - INFO - â—ˆ NEARUSDT sinyal MR Sell @ 1.6129 | swingVWAP 1.59708 (atas, beda sisi âš )
+2026-08-08 19:00:33,281 - INFO - ðŸ›¡ðŸŽ£ NEARUSDT SL STOP-HUNT (opsi 2) @ 1.67533 â€” di luar zona sweep kolam terdekat
+2026-08-08 19:00:33,290 - INFO - ðŸ§¯ NEARUSDT RISK CAP 5% saldo ($0.80) â€” risiko $10.49 â†’ margin $1.21
+2026-08-08 19:00:34,341 - INFO - â–¼ SHORT NEARUSDT [MR] @ 1.61299 17x TP 1.6004 SL 1.67533 m $1.21
+2026-08-08 19:00:35,486 - INFO - â—ˆ EPICUSDT sinyal TC Sell @ 1.1153 | swingVWAP 1.08778 (atas, beda sisi âš )
+2026-08-08 19:00:35,494 - INFO - EPICUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-08 19:00:35,504 - INFO - ðŸ§¯ EPICUSDT RISK CAP 5% saldo ($0.80) â€” risiko $11.06 â†’ margin $1.15
+2026-08-08 19:00:36,561 - INFO - â–¼ SHORT EPICUSDT [TC] @ 1.11595 10x TP 1.07177 SL 1.19328 m $1.15
+2026-08-08 19:00:37,562 - INFO - â—ˆ ENAUSDT sinyal TC Buy @ 0.09066 | swingVWAP 0.0906336 (atas, searah âœ”)
+2026-08-08 19:00:37,571 - INFO - ðŸ›¡ðŸŽ£ ENAUSDT SL STOP-HUNT (opsi 2) @ 0.0898336 â€” di luar zona sweep kolam terdekat
+2026-08-08 19:00:37,579 - INFO - ðŸ§¯ ENAUSDT RISK CAP 5% saldo ($0.80) â€” risiko $3.56 â†’ margin $3.58
+2026-08-08 19:00:37,601 - ERROR - âœ˜ ENAUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 12:00:37).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "ENAUSDT", "side": "Buy", "orderType": "Market", "qty": "987.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-08 19:00:39,833 - INFO - â—ˆ LINKUSDT sinyal MR Sell @ 8.325 | swingVWAP 8.25333 (atas, beda sisi âš )
+2026-08-08 19:00:39,842 - INFO - ðŸ›¡ðŸŽ£ LINKUSDT SL STOP-HUNT (opsi 2) @ 8.37099 â€” di luar zona sweep kolam terdekat
+2026-08-08 19:00:39,852 - INFO - ðŸ§¯ LINKUSDT RISK CAP 5% saldo ($0.80) â€” risiko $1.87 â†’ margin $6.81
+2026-08-08 19:00:39,883 - ERROR - âœ˜ LINKUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 12:00:39).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "LINKUSDT", "side": "Sell", "orderType": "Market", "qty": "20.4", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-08 19:00:40,790 - INFO - â—ˆ BLUAIUSDT sinyal TC Buy @ 0.019315 | swingVWAP 0.0193153 (bawah, beda sisi âš )
+2026-08-08 19:00:40,790 - INFO - â›” BLUAIUSDT volatilitas ekstrem (ATR 3.7x > 2.5x) â€” entry dilewati
+2026-08-08 19:01:16,957 - INFO - â—ˆ C98USDT sinyal TC Sell @ 0.014943 | swingVWAP 0.0167246 (bawah, searah âœ”)
+2026-08-08 19:01:54,282 - INFO - â—ˆ RDWUSDT sinyal MR Sell @ 13.615 | swingVWAP 13.5793 (atas, beda sisi âš )
+2026-08-08 19:02:29,626 - INFO - â—ˆ XPLUSDT sinyal MR Sell @ 0.07567 | swingVWAP 0.0756982 (bawah, searah âœ”)
+2026-08-08 19:02:30,734 - INFO - â—ˆ SNDKUSDT sinyal TC Sell @ 1213.85 | swingVWAP 1217.24 (bawah, searah âœ”)
+2026-08-08 19:02:32,725 - INFO - â—ˆ ZECUSDT sinyal TC Sell @ 498.01 | swingVWAP 508.179 (bawah, searah âœ”)
+2026-08-08 19:46:59,916 - INFO - ðŸš€ EPICUSDT RIDE MAX! TP dilepas â€” lantai 60% profit @ 1.09246 + trailing rapat
+2026-08-08 20:00:14,050 - INFO - â—ˆ BTCUSDT sinyal TC Buy @ 64968 | swingVWAP 64974.1 (bawah, beda sisi âš )
+2026-08-08 20:00:16,417 - INFO - â—ˆ ENAUSDT sinyal TC Buy @ 0.0908 | swingVWAP 0.0906389 (atas, searah âœ”)
+2026-08-08 20:00:16,657 - INFO - â—ˆ KORUUSDT sinyal TC Sell @ 17.09 | swingVWAP 16.7749 (atas, beda sisi âš )
+2026-08-08 20:00:18,524 - INFO - â—ˆ 1000PEPEUSDT sinyal TC Buy @ 0.002854 | swingVWAP 0.00283725 (atas, searah âœ”)
+2026-08-08 20:00:52,847 - INFO - â—ˆ PUMPFUNUSDT sinyal MR Sell @ 0.0022913 | swingVWAP 0.00228393 (atas, beda sisi âš )
+2026-08-08 20:16:37,083 - INFO - â–  EPICUSDT TC ditutup â€” PnL +0.24$ (ROI +20.5%)
+2026-08-08 21:00:11,604 - INFO - â—ˆ EPICUSDT sinyal TC Sell @ 1.0883 | swingVWAP 1.11353 (bawah, searah âœ”)
+2026-08-08 21:00:11,612 - INFO - EPICUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-08 21:00:11,612 - INFO - ðŸ§¯ EPICUSDT RISK CAP 5% saldo ($0.80) â€” risiko $10.31 â†’ margin $1.24
+2026-08-08 21:00:12,673 - INFO - â–¼ SHORT EPICUSDT [TC] @ 1.0875 7x TP 1.06975 SL 1.18757 m $1.24
+2026-08-08 21:00:15,651 - INFO - â—ˆ 1000PEPEUSDT sinyal TC Buy @ 0.002854 | swingVWAP 0.00283762 (atas, searah âœ”)
+2026-08-08 21:00:15,659 - INFO - ðŸ›¡ðŸŽ£ 1000PEPEUSDT SL STOP-HUNT (opsi 2) @ 0.002818 â€” di luar zona sweep kolam terdekat
+2026-08-08 21:00:15,668 - INFO - ðŸ§¯ 1000PEPEUSDT RISK CAP 5% saldo ($0.80) â€” risiko $5.05 â†’ margin $2.53
+2026-08-08 21:00:15,699 - ERROR - âœ˜ 1000PEPEUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 14:00:15).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "1000PEPEUSDT", "side": "Buy", "orderType": "Market", "qty": "22100.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-08 21:44:40,831 - INFO - ðŸš€ PENGUUSDT RIDE MAX! TP dilepas â€” lantai 60% profit @ 0.0062668 + trailing rapat
+2026-08-08 21:46:34,298 - INFO - ðŸš€ PENGUUSDT RIDE ratchet â€” lantai naik ke 0.006271 (60% dr puncak)
+2026-08-08 22:00:23,786 - INFO - â—ˆ BNBUSDT sinyal TC Buy @ 603.2 | swingVWAP 601.702 (atas, searah âœ”)
+2026-08-08 22:00:27,593 - INFO - â—ˆ AKEUSDT sinyal MR Sell @ 0.0040762 | swingVWAP 0.00406673 (atas, beda sisi âš )
+2026-08-08 22:01:03,149 - INFO - â—ˆ BZUSDT sinyal TC Buy @ 81.92 | swingVWAP 82.165 (bawah, beda sisi âš )
+2026-08-08 22:01:03,861 - INFO - â—ˆ DOTUSDT sinyal MR Buy @ 0.8186 | swingVWAP 0.819018 (bawah, beda sisi âš )
+2026-08-08 22:01:38,054 - INFO - â—ˆ SPCXUSDT sinyal TC Buy @ 133.42 | swingVWAP 133.038 (atas, searah âœ”)
+2026-08-08 22:01:41,312 - INFO - â—ˆ SNXXUSDT sinyal TC Sell @ 9.13 | swingVWAP 9.12867 (atas, beda sisi âš )
+2026-08-08 22:01:42,674 - INFO - â—ˆ ENAUSDT sinyal TC Buy @ 0.09143 | swingVWAP 0.0906898 (atas, searah âœ”)
+2026-08-08 22:02:16,865 - INFO - â—ˆ 1000PEPEUSDT sinyal TC Buy @ 0.002881 | swingVWAP 0.0028407 (atas, searah âœ”)
+2026-08-08 22:02:17,306 - INFO - â—ˆ ONDOUSDT sinyal TC Buy @ 0.3561 | swingVWAP 0.350413 (atas, searah âœ”)
+2026-08-08 22:02:19,961 - INFO - â—ˆ TAOUSDT sinyal TC Buy @ 197.24 | swingVWAP 194.868 (atas, searah âœ”)
+2026-08-08 22:11:38,378 - INFO - ðŸ”’ PENGUUSDT BE terpasang @ 0.00623057 (1.02R)
+2026-08-08 22:11:38,389 - INFO - ðŸš€ PENGUUSDT RIDE ratchet â€” lantai naik ke 0.0062908 (60% dr puncak)
+2026-08-08 22:21:39,355 - INFO - â–  PENGUUSDT TC ditutup â€” PnL +0.57$ (ROI +33.3%)
+2026-08-08 23:00:06,059 - INFO - â—ˆ EPICUSDT sinyal TC Sell @ 1.0955 | swingVWAP 1.10141 (bawah, searah âœ”)
+2026-08-08 23:00:43,457 - INFO - ðŸ”’ BSBUSDT BE terpasang @ 0.152168 (1.10R)
+2026-08-08 23:00:47,642 - INFO - â—ˆ XPLUSDT sinyal MR Sell @ 0.07703 | swingVWAP 0.0758602 (atas, beda sisi âš )
+2026-08-08 23:00:47,650 - INFO - ðŸ›¡ðŸŽ£ XPLUSDT SL STOP-HUNT (opsi 2) @ 0.0803417 â€” di luar zona sweep kolam terdekat
+2026-08-08 23:00:47,659 - INFO - ðŸ§¯ XPLUSDT RISK CAP 5% saldo ($0.84) â€” risiko $10.29 â†’ margin $1.31
+2026-08-08 23:00:48,715 - INFO - â–¼ SHORT XPLUSDT [MR] @ 0.07704 15x TP 0.0759209 SL 0.0803417 m $1.31
+2026-08-08 23:32:06,963 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.53 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 23:32:06,963 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 23:32:06,993 - INFO - ðŸŒ SYMBOLS diperbarui: 89 kontrak (+86 baru, turnover â‰¥ $5jt)
+2026-08-08 23:33:24,641 - INFO - â—ˆ REUSDT sinyal TC Buy @ 0.4378 | swingVWAP 0.430409 (atas, searah âœ”)
+2026-08-08 23:33:24,642 - INFO - âŠ˜ REUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-08 23:34:00,521 - INFO - â—ˆ ATOMUSDT sinyal TC Buy @ 1.3905 | swingVWAP 1.37222 (atas, searah âœ”)
+2026-08-08 23:34:00,521 - INFO - âŠ˜ ATOMUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-08 23:41:03,579 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.63 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-08 23:41:03,579 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-08 23:41:03,605 - INFO - ðŸŒ SYMBOLS diperbarui: 88 kontrak (+85 baru, turnover â‰¥ $5jt)
+2026-08-09 00:00:03,205 - INFO - â—ˆ ENAUSDT sinyal TC Buy @ 0.0908 | swingVWAP 0.0907389 (atas, searah âœ”)
+2026-08-09 00:00:03,205 - INFO - âŠ˜ ENAUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 00:00:04,584 - INFO - â—ˆ PUMPFUNUSDT sinyal TC Buy @ 0.0023714 | swingVWAP 0.00229858 (atas, searah âœ”)
+2026-08-09 00:00:04,584 - INFO - âŠ˜ PUMPFUNUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 00:00:39,499 - INFO - â—ˆ LITUSDT sinyal MR Buy @ 2.2849 | swingVWAP 2.32571 (bawah, beda sisi âš )
+2026-08-09 00:00:39,499 - INFO - âŠ˜ LITUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 00:00:41,297 - INFO - â—ˆ XAUTUSDT sinyal MR Sell @ 4326 | swingVWAP 4318.73 (atas, beda sisi âš )
+2026-08-09 00:00:41,297 - INFO - âŠ˜ XAUTUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 00:00:44,462 - INFO - â—ˆ REUSDT sinyal TC Buy @ 0.4413 | swingVWAP 0.430753 (atas, searah âœ”)
+2026-08-09 00:00:44,462 - INFO - âŠ˜ REUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 00:02:18,457 - INFO - â–¶ VWAP BOT dimulai â€” saldo $16.20 | Session anchor | TF 60m | 3 simbol | cap $2.0
+2026-08-09 00:02:18,457 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-09 00:02:18,485 - INFO - ðŸŒ SYMBOLS diperbarui: 87 kontrak (+84 baru, turnover â‰¥ $5jt)
+2026-08-09 00:02:22,695 - INFO - â—ˆ XAUUSDT sinyal MR Sell @ 4346.45 | swingVWAP 4344.32 (atas, beda sisi âš )
+2026-08-09 00:02:22,695 - INFO - âŠ˜ XAUUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 00:35:56,510 - INFO - â–  MRVLUSDT TC ditutup â€” PnL -0.70$ (ROI -27.4%)
+2026-08-09 00:47:12,977 - INFO - â–  SHIB1000USDT TC ditutup â€” PnL -0.65$ (ROI -18.7%)
+2026-08-09 00:55:58,616 - INFO - ðŸ‘ 1000CATUSDT posisi diadopsi (restart) â€” risk0 6.57e-05
+2026-08-09 01:00:21,872 - INFO - â—ˆ REUSDT sinyal TC Buy @ 0.4378 | swingVWAP 0.430988 (atas, searah âœ”)
+2026-08-09 01:00:21,884 - INFO - ðŸ›¡ðŸŽ£ REUSDT SL STOP-HUNT (opsi 2) @ 0.416558 â€” di luar zona sweep kolam terdekat
+2026-08-09 01:00:21,892 - INFO - ðŸ§¯ REUSDT RISK CAP 5% saldo ($0.70) â€” risiko $10.23 â†’ margin $1.10
+2026-08-09 01:00:21,926 - ERROR - âœ˜ REUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 18:00:21).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "REUSDT", "side": "Buy", "orderType": "Market", "qty": "32.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-09 01:00:58,905 - INFO - â—ˆ HYPEUSDT sinyal TC Buy @ 55 | swingVWAP 54.3729 (atas, searah âœ”)
+2026-08-09 01:00:58,914 - INFO - ðŸ›¡ðŸŽ£ HYPEUSDT SL STOP-HUNT (opsi 2) @ 54.3764 â€” di luar zona sweep kolam terdekat
+2026-08-09 01:00:58,914 - INFO - âŠ˜ HYPEUSDT TP terlalu dekat (0.132% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-09 01:00:59,149 - INFO - â—ˆ SPCXUSDT sinyal TC Buy @ 137.41 | swingVWAP 134.191 (atas, searah âœ”)
+2026-08-09 01:00:59,156 - INFO - ðŸ›¡ðŸŽ£ SPCXUSDT SL STOP-HUNT (opsi 2) @ 130.808 â€” di luar zona sweep kolam terdekat
+2026-08-09 01:00:59,164 - INFO - ðŸ§¯ SPCXUSDT RISK CAP 5% saldo ($0.69) â€” risiko $10.42 â†’ margin $1.07
+2026-08-09 01:00:59,188 - ERROR - âœ˜ SPCXUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 18:00:59).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "SPCXUSDT", "side": "Buy", "orderType": "Market", "qty": "0.1", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-09 01:17:08,224 - INFO - â–  1000CATUSDT ADOPT ditutup â€” PnL -1.84$ (ROI -26.1%)
+2026-08-09 02:00:30,906 - INFO - â—ˆ ETHUSDT sinyal TC Buy @ 1920.43 | swingVWAP 1919.68 (atas, searah âœ”)
+2026-08-09 02:00:32,025 - INFO - â—ˆ BTCUSDT sinyal TC Buy @ 65007.7 | swingVWAP 64981.5 (atas, searah âœ”)
+2026-08-09 02:00:32,035 - INFO - BTCUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-09 02:00:32,035 - INFO - âŠ˜ BTCUSDT TP terlalu dekat (0.187% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-09 02:01:12,328 - INFO - â—ˆ PIEVERSEUSDT sinyal TC Sell @ 0.8102 | swingVWAP 0.816649 (bawah, searah âœ”)
+2026-08-09 02:01:12,336 - INFO - ðŸ›¡ðŸŽ£ PIEVERSEUSDT SL STOP-HUNT (opsi 2) @ 0.830596 â€” di luar zona sweep kolam terdekat
+2026-08-09 02:01:12,343 - INFO - ðŸ§¯ PIEVERSEUSDT RISK CAP 5% saldo ($0.63) â€” risiko $7.93 â†’ margin $1.27
+2026-08-09 02:01:13,397 - INFO - â–¼ SHORT PIEVERSEUSDT [TC] @ 0.8107 20x TP 0.758358 SL 0.830596 m $1.27
+2026-08-09 02:01:50,361 - INFO - â—ˆ KAITOUSDT sinyal TC Sell @ 0.6955 | swingVWAP 0.736252 (bawah, searah âœ”)
+2026-08-09 02:01:50,370 - INFO - KAITOUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-09 02:01:50,382 - INFO - ðŸ§¯ KAITOUSDT RISK CAP 5% saldo ($0.63) â€” risiko $10.94 â†’ margin $0.92
+2026-08-09 02:01:51,439 - INFO - â–¼ SHORT KAITOUSDT [TC] @ 0.6995 10x TP 0.659971 SL 0.747003 m $0.92
+2026-08-09 02:01:54,223 - INFO - â—ˆ SKYAI1USDT sinyal MR Sell @ 0.11587 | swingVWAP 0.112753 (atas, beda sisi âš )
+2026-08-09 02:01:54,223 - INFO - âŠ˜ SKYAI1USDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 02:02:29,155 - INFO - â—ˆ AVAXUSDT sinyal TC Buy @ 6.53 | swingVWAP 6.53114 (bawah, beda sisi âš )
+2026-08-09 02:02:29,155 - INFO - âŠ˜ AVAXUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 02:53:33,723 - INFO - â–  KAITOUSDT TC ditutup â€” PnL -0.53$ (ROI -57.8%)
+2026-08-09 02:53:34,470 - INFO - â—ˆ KAITOUSDT sinyal TC Sell @ 0.6955 | swingVWAP 0.736252 (bawah, searah âœ”)
+2026-08-09 03:00:26,919 - INFO - â—ˆ ETHUSDT sinyal TC Buy @ 1919.68 | swingVWAP 1919.68 (bawah, beda sisi âš )
+2026-08-09 03:00:28,261 - INFO - â—ˆ BTCUSDT sinyal TC Buy @ 65036.9 | swingVWAP 64981.9 (atas, searah âœ”)
+2026-08-09 03:00:28,269 - INFO - BTCUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-09 03:00:28,269 - INFO - âŠ˜ BTCUSDT TP terlalu dekat (0.154% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-09 03:00:29,185 - INFO - â—ˆ LITUSDT sinyal MR Buy @ 2.2854 | swingVWAP 2.32111 (bawah, beda sisi âš )
+2026-08-09 03:00:29,192 - INFO - ðŸ›¡ðŸŽ£ LITUSDT SL STOP-HUNT (opsi 2) @ 2.25736 â€” di luar zona sweep kolam terdekat
+2026-08-09 03:00:29,200 - INFO - ðŸ§¯ LITUSDT RISK CAP 5% saldo ($0.62) â€” risiko $4.74 â†’ margin $2.09
+2026-08-09 03:00:30,257 - INFO - â–² LONG LITUSDT [MR] @ 2.2844 25x TP 2.32077 SL 2.25736 m $2.09
+2026-08-09 03:00:35,632 - INFO - â—ˆ HUSDT sinyal MR Buy @ 0.07501 | swingVWAP 0.0771409 (bawah, beda sisi âš )
+2026-08-09 03:00:35,632 - INFO - âŠ˜ HUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 03:01:10,528 - INFO - â—ˆ INJUSDT sinyal TC Sell @ 4.404 | swingVWAP 4.4359 (bawah, searah âœ”)
+2026-08-09 03:01:10,528 - INFO - âŠ˜ INJUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 03:01:49,856 - INFO - â—ˆ 1000PEPEUSDT sinyal TC Buy @ 0.002863 | swingVWAP 0.00284536 (atas, searah âœ”)
+2026-08-09 03:01:49,857 - INFO - âŠ˜ 1000PEPEUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 03:02:24,360 - INFO - â—ˆ TAOUSDT sinyal TC Buy @ 198.39 | swingVWAP 195.802 (atas, searah âœ”)
+2026-08-09 03:02:24,360 - INFO - âŠ˜ TAOUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 03:33:52,158 - INFO - ðŸ”’ LITUSDT BE terpasang @ 2.28828 (1.01R)
+2026-08-09 03:52:44,469 - INFO - â–  LITUSDT MR ditutup â€” PnL +0.28$ (ROI +13.6%)
+2026-08-09 03:52:45,232 - INFO - â—ˆ LITUSDT sinyal MR Buy @ 2.2854 | swingVWAP 2.32111 (bawah, beda sisi âš )
+2026-08-09 04:00:13,639 - INFO - â—ˆ ETHUSDT sinyal TC Buy @ 1919.21 | swingVWAP 1919.68 (bawah, beda sisi âš )
+2026-08-09 04:01:31,334 - INFO - â—ˆ KAITOUSDT sinyal TC Sell @ 0.7079 | swingVWAP 0.734153 (bawah, searah âœ”)
+2026-08-09 04:01:31,342 - INFO - KAITOUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-09 04:01:31,342 - INFO - ðŸ§¯ KAITOUSDT RISK CAP 5% saldo ($0.63) â€” risiko $11.04 â†’ margin $0.91
+2026-08-09 04:01:32,386 - INFO - â–¼ SHORT KAITOUSDT [TC] @ 0.7066 11x TP 0.667241 SL 0.751023 m $0.91
+2026-08-09 04:01:34,627 - INFO - â—ˆ BNBUSDT sinyal TC Buy @ 602.1 | swingVWAP 602.33 (bawah, beda sisi âš )
+2026-08-09 04:01:34,627 - INFO - âŠ˜ BNBUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 05:00:07,466 - INFO - â—ˆ KAITOUSDT sinyal TC Sell @ 0.7101 | swingVWAP 0.73308 (bawah, searah âœ”)
+2026-08-09 05:00:13,462 - INFO - â—ˆ KORUUSDT sinyal MR Sell @ 17.42 | swingVWAP 16.8105 (atas, beda sisi âš )
+2026-08-09 05:00:13,462 - INFO - âŠ˜ KORUUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 05:17:48,394 - INFO - â–  XPLUSDT MR ditutup â€” PnL +0.23$ (ROI +17.3%)
+2026-08-09 06:00:22,680 - INFO - â—ˆ FILUSDT sinyal TC Buy @ 0.7096 | swingVWAP 0.715958 (bawah, beda sisi âš )
+2026-08-09 06:00:22,687 - INFO - ðŸ›¡ðŸŽ£ FILUSDT SL STOP-HUNT (opsi 2) @ 0.703465 â€” di luar zona sweep kolam terdekat
+2026-08-09 06:00:22,695 - INFO - ðŸ§¯ FILUSDT RISK CAP 5% saldo ($0.66) â€” risiko $3.23 â†’ margin $3.28
+2026-08-09 06:00:22,732 - ERROR - âœ˜ FILUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 23:00:22).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "FILUSDT", "side": "Buy", "orderType": "Market", "qty": "115.6", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-09 06:00:23,832 - INFO - â—ˆ SPCXUSDT sinyal TC Buy @ 136.42 | swingVWAP 134.723 (atas, searah âœ”)
+2026-08-09 06:00:23,840 - INFO - ðŸ›¡ðŸŽ£ SPCXUSDT SL STOP-HUNT (opsi 2) @ 130.777 â€” di luar zona sweep kolam terdekat
+2026-08-09 06:00:23,840 - INFO - ðŸ§¯ SPCXUSDT RISK CAP 5% saldo ($0.66) â€” risiko $10.61 â†’ margin $1.00
+2026-08-09 06:00:24,890 - INFO - â–² LONG SPCXUSDT [TC] @ 136.43 16x TP 139.55 SL 130.777 m $1.0
+2026-08-09 06:01:41,332 - INFO - â—ˆ WIFUSDT sinyal TC Buy @ 0.14205 | swingVWAP 0.140988 (atas, searah âœ”)
+2026-08-09 06:01:41,332 - INFO - âŠ˜ WIFUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 06:01:45,358 - INFO - â—ˆ RAVEUSDT sinyal TC Buy @ 0.35325 | swingVWAP 0.342505 (atas, searah âœ”)
+2026-08-09 06:01:45,358 - INFO - âŠ˜ RAVEUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 06:02:18,125 - INFO - â—ˆ OPUSDT sinyal TC Buy @ 0.08818 | swingVWAP 0.0877156 (atas, searah âœ”)
+2026-08-09 06:02:18,125 - INFO - âŠ˜ OPUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 06:02:54,009 - INFO - ðŸŒ SYMBOLS diperbarui: 79 kontrak (+2 baru, turnover â‰¥ $5jt)
+2026-08-09 07:00:18,915 - INFO - â—ˆ SPCXUSDT sinyal TC Buy @ 135.86 | swingVWAP 134.756 (atas, searah âœ”)
+2026-08-09 07:00:22,038 - INFO - â—ˆ AKEUSDT sinyal MR Buy @ 0.0039328 | swingVWAP 0.0040277 (bawah, beda sisi âš )
+2026-08-09 07:00:22,038 - INFO - âŠ˜ AKEUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 07:00:22,983 - INFO - â—ˆ OPUSDT sinyal TC Buy @ 0.08869 | swingVWAP 0.0877281 (atas, searah âœ”)
+2026-08-09 07:00:22,983 - INFO - âŠ˜ OPUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 07:00:24,601 - INFO - â—ˆ DEXEUSDT sinyal TC Buy @ 2.271 | swingVWAP 2.27468 (bawah, beda sisi âš )
+2026-08-09 07:00:24,601 - INFO - âŠ˜ DEXEUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 07:01:01,016 - INFO - â—ˆ SUIUSDT sinyal TC Buy @ 0.692 | swingVWAP 0.685406 (atas, searah âœ”)
+2026-08-09 07:01:01,016 - INFO - âŠ˜ SUIUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 07:01:04,166 - INFO - â—ˆ AVAXUSDT sinyal MR Buy @ 6.476 | swingVWAP 6.522 (bawah, beda sisi âš )
+2026-08-09 07:01:04,167 - INFO - âŠ˜ AVAXUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 07:01:39,959 - INFO - â—ˆ WIFUSDT sinyal TC Buy @ 0.14209 | swingVWAP 0.140999 (atas, searah âœ”)
+2026-08-09 07:01:39,960 - INFO - âŠ˜ WIFUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 07:56:28,607 - INFO - â–  ETHUSDT None ditutup â€” PnL -0.24$ (ROI -7.0%)
+2026-08-09 08:44:21,893 - INFO - â–  BSBUSDT MR ditutup â€” PnL +0.48$ (ROI +40.0%)
+2026-08-09 09:00:00,887 - INFO - â—ˆ PIEVERSEUSDT sinyal MR Sell @ 0.8168 | swingVWAP 0.815797 (atas, beda sisi âš )
+2026-08-09 09:00:01,336 - INFO - â—ˆ ETHUSDT sinyal MR Sell @ 1915.22 | swingVWAP 1919.96 (bawah, searah âœ”)
+2026-08-09 09:00:01,344 - INFO - ðŸ›¡ðŸŽ£ ETHUSDT SL STOP-HUNT (opsi 2) @ 1921.91 â€” di luar zona sweep kolam terdekat
+2026-08-09 09:00:01,344 - INFO - âŠ˜ ETHUSDT level tidak valid (px 1915.15 sl 1921.91 tp 1916.11)
+2026-08-09 09:00:02,268 - INFO - â—ˆ XMRUSDT sinyal MR Sell @ 381.45 | swingVWAP 379.109 (atas, beda sisi âš )
+2026-08-09 09:00:02,278 - INFO - ðŸ›¡ðŸŽ£ XMRUSDT SL STOP-HUNT (opsi 2) @ 383.658 â€” di luar zona sweep kolam terdekat
+2026-08-09 09:00:02,286 - INFO - ðŸ§¯ XMRUSDT RISK CAP 5% saldo ($0.63) â€” risiko $2.27 â†’ margin $4.40
+2026-08-09 09:00:03,344 - INFO - â–¼ SHORT XMRUSDT [MR] @ 381.56 25x TP 379.886 SL 383.658 m $4.4
+2026-08-09 09:00:04,789 - INFO - â—ˆ CAPUSDT sinyal MR Buy @ 0.03789 | swingVWAP 0.0372951 (atas, searah âœ”)
+2026-08-09 09:00:04,799 - INFO - CAPUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-09 09:00:04,799 - INFO - âŠ˜ CAPUSDT level tidak valid (px 0.03787 sl 0.0362834 tp 0.0374416)
+2026-08-09 09:00:05,039 - INFO - â—ˆ ZBTUSDT sinyal MR Sell @ 0.10328 | swingVWAP 0.103812 (bawah, searah âœ”)
+2026-08-09 09:00:05,048 - INFO - ðŸ›¡ðŸŽ£ ZBTUSDT SL STOP-HUNT (opsi 2) @ 0.109063 â€” di luar zona sweep kolam terdekat
+2026-08-09 09:00:05,048 - INFO - âŠ˜ ZBTUSDT level tidak valid (px 0.10351 sl 0.109063 tp 0.10388)
+2026-08-09 09:00:05,553 - INFO - â—ˆ AAVEUSDT sinyal MR Buy @ 90.86 | swingVWAP 90.2683 (atas, searah âœ”)
+2026-08-09 09:00:05,561 - INFO - ðŸ›¡ðŸŽ£ AAVEUSDT SL STOP-HUNT (opsi 2) @ 88.9585 â€” di luar zona sweep kolam terdekat
+2026-08-09 09:00:05,561 - INFO - âŠ˜ AAVEUSDT TP terlalu dekat (0.128% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-09 09:00:06,270 - INFO - â—ˆ LITUSDT sinyal MR Buy @ 2.2827 | swingVWAP 2.28248 (atas, searah âœ”)
+2026-08-09 09:00:06,279 - INFO - ðŸ›¡ðŸŽ£ LITUSDT SL STOP-HUNT (opsi 2) @ 2.26139 â€” di luar zona sweep kolam terdekat
+2026-08-09 09:00:06,279 - INFO - âŠ˜ LITUSDT level tidak valid (px 2.2825 sl 2.26139 tp 2.2814)
+2026-08-09 09:00:06,728 - INFO - â—ˆ WIFUSDT sinyal MR Sell @ 0.1421 | swingVWAP 0.141056 (atas, beda sisi âš )
+2026-08-09 09:00:06,736 - INFO - ðŸ›¡ðŸŽ£ WIFUSDT SL STOP-HUNT (opsi 2) @ 0.143117 â€” di luar zona sweep kolam terdekat
+2026-08-09 09:00:06,736 - INFO - âŠ˜ WIFUSDT TP terlalu dekat (0.013% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-09 09:00:06,982 - INFO - â—ˆ REUSDT sinyal MR Buy @ 0.4049 | swingVWAP 0.436083 (bawah, beda sisi âš )
+2026-08-09 09:00:06,991 - INFO - ðŸ›¡ðŸŽ£ REUSDT SL STOP-HUNT (opsi 2) @ 0.385726 â€” di luar zona sweep kolam terdekat
+2026-08-09 09:00:06,992 - INFO - ðŸ§¯ REUSDT RISK CAP 5% saldo ($0.63) â€” risiko $10.34 â†’ margin $0.97
+2026-08-09 09:00:08,082 - INFO - â–² LONG REUSDT [MR] @ 0.4046 14x TP 0.406147 SL 0.385726 m $0.97
+2026-08-09 09:00:09,102 - INFO - â—ˆ UNIUSDT sinyal MR Buy @ 3.98 | swingVWAP 3.99614 (bawah, beda sisi âš )
+2026-08-09 09:00:09,102 - INFO - âŠ˜ UNIUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:00:10,462 - INFO - â—ˆ XLMUSDT sinyal MR Buy @ 0.16363 | swingVWAP 0.164962 (bawah, beda sisi âš )
+2026-08-09 09:00:10,462 - INFO - âŠ˜ XLMUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:00:44,575 - INFO - â—ˆ COTIUSDT sinyal MR Sell @ 0.012225 | swingVWAP 0.0125007 (bawah, searah âœ”)
+2026-08-09 09:00:44,575 - INFO - âŠ˜ COTIUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:00:45,897 - INFO - â—ˆ DEXEUSDT sinyal MR Buy @ 2.208 | swingVWAP 2.27037 (bawah, beda sisi âš )
+2026-08-09 09:00:45,897 - INFO - âŠ˜ DEXEUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:00:46,608 - INFO - â—ˆ CYSUSDT sinyal MR Buy @ 0.8489 | swingVWAP 0.86888 (bawah, beda sisi âš )
+2026-08-09 09:00:46,609 - INFO - âŠ˜ CYSUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:00:47,733 - INFO - â—ˆ ZECUSDT sinyal MR Sell @ 512.93 | swingVWAP 506.051 (atas, beda sisi âš )
+2026-08-09 09:00:47,733 - INFO - âŠ˜ ZECUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:00:48,907 - INFO - â—ˆ XAUUSDT sinyal MR Buy @ 4350.81 | swingVWAP 4344.6 (atas, searah âœ”)
+2026-08-09 09:00:48,907 - INFO - âŠ˜ XAUUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:00:49,142 - INFO - â—ˆ MMTUSDT sinyal MR Sell @ 0.19561 | swingVWAP 0.22103 (bawah, searah âœ”)
+2026-08-09 09:00:49,142 - INFO - âŠ˜ MMTUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:01:22,229 - INFO - â—ˆ ADAUSDT sinyal MR Buy @ 0.1989 | swingVWAP 0.199534 (bawah, beda sisi âš )
+2026-08-09 09:01:22,230 - INFO - âŠ˜ ADAUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:01:22,725 - INFO - â—ˆ SUIUSDT sinyal MR Buy @ 0.6897 | swingVWAP 0.695869 (bawah, beda sisi âš )
+2026-08-09 09:01:22,725 - INFO - âŠ˜ SUIUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:01:25,141 - INFO - â—ˆ ONDOUSDT sinyal MR Sell @ 0.3478 | swingVWAP 0.351374 (bawah, searah âœ”)
+2026-08-09 09:01:25,141 - INFO - âŠ˜ ONDOUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:01:25,640 - INFO - â—ˆ CLUSDT sinyal MR Buy @ 77.46 | swingVWAP 77.2173 (atas, searah âœ”)
+2026-08-09 09:01:25,640 - INFO - âŠ˜ CLUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:01:25,883 - INFO - â—ˆ AVAXUSDT sinyal MR Sell @ 6.477 | swingVWAP 6.52026 (bawah, searah âœ”)
+2026-08-09 09:01:25,883 - INFO - âŠ˜ AVAXUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:02:04,090 - INFO - â—ˆ AKEUSDT sinyal MR Sell @ 0.0039675 | swingVWAP 0.0040145 (bawah, searah âœ”)
+2026-08-09 09:02:04,090 - INFO - âŠ˜ AKEUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 09:07:04,113 - INFO - â–  REUSDT MR ditutup â€” PnL +0.04$ (ROI +4.4%)
+2026-08-09 09:07:04,861 - INFO - â—ˆ REUSDT sinyal MR Buy @ 0.4049 | swingVWAP 0.436083 (bawah, beda sisi âš )
+2026-08-09 09:10:50,386 - INFO - â–  EPICUSDT TC ditutup â€” PnL +0.09$ (ROI +7.2%)
+2026-08-09 09:23:20,080 - INFO - â–  XMRUSDT MR ditutup â€” PnL +0.41$ (ROI +9.4%)
+2026-08-09 09:23:20,825 - INFO - â—ˆ XMRUSDT sinyal MR Sell @ 381.45 | swingVWAP 379.109 (atas, beda sisi âš )
+2026-08-09 10:00:26,416 - INFO - â—ˆ BSBUSDT sinyal MR Buy @ 0.15798 | swingVWAP 0.15734 (atas, searah âœ”)
+2026-08-09 10:00:26,426 - INFO - ðŸ›¡ðŸŽ£ BSBUSDT SL STOP-HUNT (opsi 2) @ 0.15235 â€” di luar zona sweep kolam terdekat
+2026-08-09 10:00:26,434 - INFO - ðŸ§¯ BSBUSDT RISK CAP 5% saldo ($0.65) â€” risiko $10.39 â†’ margin $1.01
+2026-08-09 10:00:27,498 - INFO - â–² LONG BSBUSDT [MR] @ 0.15771 19x TP 0.159616 SL 0.15235 m $1.01
+2026-08-09 10:00:29,555 - INFO - â—ˆ 1000BONKUSDT sinyal MR Buy @ 0.002477 | swingVWAP 0.00250772 (bawah, beda sisi âš )
+2026-08-09 10:00:29,563 - INFO - ðŸ›¡ðŸŽ£ 1000BONKUSDT SL STOP-HUNT (opsi 2) @ 0.00243253 â€” di luar zona sweep kolam terdekat
+2026-08-09 10:00:29,572 - INFO - ðŸ§¯ 1000BONKUSDT RISK CAP 5% saldo ($0.65) â€” risiko $6.86 â†’ margin $1.53
+2026-08-09 10:00:30,621 - INFO - â–² LONG 1000BONKUSDT [MR] @ 0.002475 25x TP 0.0024911 SL 0.00243253 m $1.53
+2026-08-09 10:00:31,831 - INFO - â—ˆ HOMEUSDT sinyal MR Buy @ 0.009121 | swingVWAP 0.00925531 (bawah, beda sisi âš )
+2026-08-09 10:00:31,839 - INFO - ðŸ›¡ðŸŽ£ HOMEUSDT SL STOP-HUNT (opsi 2) @ 0.0086482 â€” di luar zona sweep kolam terdekat
+2026-08-09 10:00:31,847 - INFO - ðŸ§¯ HOMEUSDT RISK CAP 5% saldo ($0.65) â€” risiko $10.17 â†’ margin $1.03
+2026-08-09 10:00:32,894 - INFO - â–² LONG HOMEUSDT [MR] @ 0.009135 12x TP 0.00934469 SL 0.0086482 m $1.03
+2026-08-09 10:00:35,210 - INFO - â—ˆ BANKUSDT sinyal MR Buy @ 0.03884 | swingVWAP 0.0395393 (bawah, beda sisi âš )
+2026-08-09 10:00:35,210 - INFO - âŠ˜ BANKUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:00:35,868 - INFO - â—ˆ SKHYNIXUSDT sinyal MR Buy @ 1018.49 | swingVWAP 1009.88 (atas, searah âœ”)
+2026-08-09 10:00:35,868 - INFO - âŠ˜ SKHYNIXUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:01:10,678 - INFO - â—ˆ SNXXUSDT sinyal MR Buy @ 9.15 | swingVWAP 9.13163 (atas, searah âœ”)
+2026-08-09 10:01:10,678 - INFO - âŠ˜ SNXXUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:01:10,913 - INFO - â—ˆ ALLOUSDT sinyal MR Buy @ 0.31176 | swingVWAP 0.320599 (bawah, beda sisi âš )
+2026-08-09 10:01:10,913 - INFO - âŠ˜ ALLOUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:01:11,822 - INFO - â—ˆ XRPUSDT sinyal MR Buy @ 1.0349 | swingVWAP 1.04114 (bawah, beda sisi âš )
+2026-08-09 10:01:11,822 - INFO - âŠ˜ XRPUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:01:13,885 - INFO - â—ˆ DOGEUSDT sinyal MR Buy @ 0.06997 | swingVWAP 0.0707393 (bawah, beda sisi âš )
+2026-08-09 10:01:13,886 - INFO - âŠ˜ DOGEUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:01:15,015 - INFO - â—ˆ GWEIUSDT sinyal MR Buy @ 0.0249 | swingVWAP 0.0254941 (bawah, beda sisi âš )
+2026-08-09 10:01:15,015 - INFO - âŠ˜ GWEIUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:01:50,477 - INFO - â—ˆ LINKUSDT sinyal MR Buy @ 8.291 | swingVWAP 8.3243 (bawah, beda sisi âš )
+2026-08-09 10:01:50,477 - INFO - âŠ˜ LINKUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:01:50,928 - INFO - â—ˆ EPICUSDT sinyal MR Buy @ 1.0732 | swingVWAP 1.10041 (bawah, beda sisi âš )
+2026-08-09 10:01:50,928 - INFO - âŠ˜ EPICUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:01:52,052 - INFO - â—ˆ ARCUSDT sinyal MR Sell @ 0.06298 | swingVWAP 0.0633849 (bawah, searah âœ”)
+2026-08-09 10:01:52,052 - INFO - âŠ˜ ARCUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:02:30,153 - INFO - â—ˆ SKHYUSDT sinyal MR Buy @ 138.51 | swingVWAP 139.145 (bawah, beda sisi âš )
+2026-08-09 10:02:30,153 - INFO - âŠ˜ SKHYUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:02:30,449 - INFO - â—ˆ INJUSDT sinyal MR Buy @ 4.396 | swingVWAP 4.40759 (bawah, beda sisi âš )
+2026-08-09 10:02:30,450 - INFO - âŠ˜ INJUSDT slot penuh (7/7) â€” sinyal dilewati
+2026-08-09 10:20:53,585 - INFO - â–¶ VWAP BOT dimulai â€” saldo $12.77 | Session anchor | TF 60m | 3 simbol | cap $2.0
+2026-08-09 10:20:53,585 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-09 10:20:53,608 - INFO - ðŸŒ SYMBOLS diperbarui: 80 kontrak (+77 baru, turnover â‰¥ $5jt)
+2026-08-09 10:22:15,955 - INFO - â—ˆ DEEPUSDT sinyal MR Buy @ 0.01707 | swingVWAP 0.0167942 (atas, searah âœ”)
+2026-08-09 10:22:15,955 - INFO - âŠ˜ DEEPUSDT slot penuh (7/1) â€” sinyal dilewati
+2026-08-09 10:30:34,658 - INFO - â–¶ VWAP BOT dimulai â€” saldo $13.17 | Session anchor | TF 60m | 3 simbol | cap $2.0
+2026-08-09 10:30:34,658 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-09 10:30:34,682 - INFO - ðŸŒ SYMBOLS diperbarui: 80 kontrak (+77 baru, turnover â‰¥ $5jt)
+2026-08-09 10:35:03,401 - INFO - â–  PIEVERSEUSDT TC ditutup â€” PnL +0.27$ (ROI +21.6%)
+2026-08-09 10:55:14,220 - INFO - â–  HOMEUSDT MR ditutup â€” PnL +0.21$ (ROI +20.3%)
+2026-08-09 10:55:14,978 - INFO - â—ˆ HOMEUSDT sinyal MR Buy @ 0.009121 | swingVWAP 0.00925531 (bawah, beda sisi âš )
+2026-08-09 11:00:14,166 - INFO - ðŸš€ 1000BONKUSDT RIDE MAX! TP dilepas â€” lantai 60% profit @ 0.0024834 + trailing rapat
+2026-08-09 11:00:15,554 - INFO - â—ˆ ZBTUSDT sinyal MR Sell @ 0.10734 | swingVWAP 0.104369 (atas, beda sisi âš )
+2026-08-09 11:00:15,554 - INFO - âŠ˜ ZBTUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-09 11:00:53,863 - INFO - â—ˆ POWERUSDT sinyal MR Sell @ 0.09792 | swingVWAP 0.102495 (bawah, searah âœ”)
+2026-08-09 11:00:53,863 - INFO - âŠ˜ POWERUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-09 11:00:55,666 - INFO - â—ˆ HYPEUSDT sinyal MR Buy @ 54.75 | swingVWAP 54.4641 (atas, searah âœ”)
+2026-08-09 11:00:55,666 - INFO - âŠ˜ HYPEUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-09 11:01:29,558 - INFO - ðŸš€ 1000BONKUSDT RIDE ratchet â€” lantai naik ke 0.0024858 (60% dr puncak)
+2026-08-09 11:01:32,886 - INFO - â—ˆ 1000PEPEUSDT sinyal MR Buy @ 0.002842 | swingVWAP 0.0028605 (bawah, beda sisi âš )
+2026-08-09 11:01:32,886 - INFO - âŠ˜ 1000PEPEUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-09 11:01:34,197 - INFO - â—ˆ PENGUUSDT sinyal MR Buy @ 0.006303 | swingVWAP 0.00621916 (atas, searah âœ”)
+2026-08-09 11:01:34,197 - INFO - âŠ˜ PENGUUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-09 11:15:17,003 - INFO - ðŸ‘ TUTUSDT posisi diadopsi (restart) â€” risk0 0.008794
+2026-08-09 11:15:51,539 - INFO - ðŸš€ 1000BONKUSDT RIDE ratchet â€” lantai naik ke 0.0024876 (60% dr puncak)
+2026-08-09 11:18:22,392 - INFO - ðŸš€ 1000BONKUSDT RIDE ratchet â€” lantai naik ke 0.0024906 (60% dr puncak)
+2026-08-09 11:22:09,019 - INFO - ðŸš€ 1000BONKUSDT RIDE ratchet â€” lantai naik ke 0.002493 (60% dr puncak)
+2026-08-09 11:25:55,671 - INFO - â–  TUTUSDT ADOPT ditutup â€” PnL -0.02$ (ROI -0.3%)
+2026-08-09 11:26:33,978 - INFO - ðŸš€ 1000BONKUSDT RIDE ratchet â€” lantai naik ke 0.0024948 (60% dr puncak)
+2026-08-09 11:27:51,583 - INFO - ðŸ‘ TUTUSDT posisi diadopsi (restart) â€” risk0 0.0219348
+2026-08-09 11:34:43,987 - INFO - â–  1000BONKUSDT MR ditutup â€” PnL +0.32$ (ROI +20.7%)
+2026-08-09 11:39:44,187 - INFO - â–  TUTUSDT ADOPT ditutup â€” PnL +0.59$ (ROI +8.2%)
+2026-08-09 11:40:25,001 - INFO - ðŸ‘ TUTUSDT posisi diadopsi (restart) â€” risk0 0.0222189
+2026-08-09 11:49:43,034 - ERROR - naked guard TUTUSDT: StopLoss:16638800 set for Buy position should lower than base_price:14375800??LastPrice (ErrCode: 10001) (ErrTime: 04:49:43).
+Request â†’ POST https://api.bybit.com/v5/position/trading-stop: {"category": "linear", "symbol": "TUTUSDT", "stopLoss": "0.1663889002", "positionIdx": 0}.
+2026-08-09 11:54:04,480 - ERROR - naked guard TUTUSDT: StopLoss:16638800 set for Buy position should lower than base_price:14445900??LastPrice (ErrCode: 10001) (ErrTime: 04:54:04).
+Request â†’ POST https://api.bybit.com/v5/position/trading-stop: {"category": "linear", "symbol": "TUTUSDT", "stopLoss": "0.1663889002", "positionIdx": 0}.
+2026-08-09 12:00:21,548 - INFO - â—ˆ MMTUSDT sinyal MR Sell @ 0.21911 | swingVWAP 0.220243 (bawah, searah âœ”)
+2026-08-09 12:00:21,548 - INFO - âŠ˜ MMTUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-09 12:00:58,692 - INFO - â—ˆ XMRUSDT sinyal MR Sell @ 382.07 | swingVWAP 380.799 (atas, beda sisi âš )
+2026-08-09 12:00:58,693 - INFO - âŠ˜ XMRUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-09 12:01:00,724 - INFO - â—ˆ APTUSDT sinyal MR Buy @ 0.6041 | swingVWAP 0.606123 (bawah, beda sisi âš )
+2026-08-09 12:01:00,724 - INFO - âŠ˜ APTUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-09 12:01:02,031 - INFO - â—ˆ LITUSDT sinyal MR Buy @ 2.2709 | swingVWAP 2.2818 (bawah, beda sisi âš )
+2026-08-09 12:01:02,031 - INFO - âŠ˜ LITUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-09 12:02:10,734 - INFO - â–  TUTUSDT ADOPT ditutup â€” PnL +0.64$ (ROI +8.1%)
+2026-08-09 12:10:53,349 - INFO - ðŸ‘ TUTUSDT posisi diadopsi (restart) â€” risk0 0.007461
+2026-08-09 12:20:10,567 - INFO - â–  TUTUSDT ADOPT ditutup â€” PnL +0.76$ (ROI +7.3%)
+2026-08-09 12:43:06,855 - INFO - ðŸ‘ TUTUSDT posisi diadopsi (restart) â€” risk0 0.010105
+2026-08-09 12:48:36,563 - INFO - â–¶ VWAP BOT dimulai â€” saldo $9.59 | Session anchor | TF 60m | 3 simbol | cap $2.0
+2026-08-09 12:48:36,564 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-09 12:48:36,591 - INFO - ðŸŒ SYMBOLS diperbarui: 79 kontrak (+76 baru, turnover â‰¥ $5jt)
+2026-08-09 12:49:14,598 - INFO - â–  TUTUSDT ADOPT ditutup â€” PnL -0.57$ (ROI -7.1%)
+2026-08-09 12:51:43,400 - INFO - â–  KAITOUSDT TC ditutup â€” PnL +0.23$ (ROI +25.5%)
+2026-08-09 12:57:13,893 - INFO - â–  SPCXUSDT TC ditutup â€” PnL +0.09$ (ROI +8.9%)
+2026-08-09 12:57:14,852 - INFO - â–  NEARUSDT MR ditutup â€” PnL +0.04$ (ROI +3.3%)
+2026-08-09 12:57:15,782 - INFO - â–  BSBUSDT MR ditutup â€” PnL -0.55$ (ROI -54.0%)
+2026-08-09 12:59:07,248 - INFO - ðŸ‘ TUTUSDT posisi diadopsi (restart) â€” risk0 0.012775
+2026-08-09 13:00:17,257 - INFO - â—ˆ FARTCOINUSDT sinyal MR Buy @ 0.1298 | swingVWAP 0.131116 (bawah, beda sisi âš )
+2026-08-09 13:00:17,257 - INFO - âŠ˜ FARTCOINUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-09 13:00:54,922 - INFO - â—ˆ PIEVERSEUSDT sinyal MR Buy @ 0.7869 | swingVWAP 0.814313 (bawah, beda sisi âš )
+2026-08-09 13:00:54,923 - INFO - âŠ˜ PIEVERSEUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-09 13:00:55,167 - INFO - â—ˆ CRVUSDT sinyal MR Sell @ 0.2274 | swingVWAP 0.226963 (atas, beda sisi âš )
+2026-08-09 13:00:55,167 - INFO - âŠ˜ CRVUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-09 13:01:29,927 - INFO - â—ˆ ADAUSDT sinyal MR Buy @ 0.1981 | swingVWAP 0.199157 (bawah, beda sisi âš )
+2026-08-09 13:01:29,927 - INFO - âŠ˜ ADAUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-09 13:13:28,966 - INFO - â–  TUTUSDT ADOPT ditutup â€” PnL -0.47$ (ROI -5.2%)
+2026-08-09 13:40:53,774 - INFO - ðŸ‘ TUTUSDT posisi diadopsi (restart) â€” risk0 0.0163244
+2026-08-09 14:00:12,595 - INFO - â—ˆ USUSDT sinyal MR Buy @ 0.046302 | swingVWAP 0.0467017 (bawah, beda sisi âš )
+2026-08-09 14:00:12,595 - INFO - âŠ˜ USUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-09 14:00:14,093 - INFO - â—ˆ CAPUSDT sinyal MR Sell @ 0.03835 | swingVWAP 0.0374188 (atas, beda sisi âš )
+2026-08-09 14:00:14,093 - INFO - âŠ˜ CAPUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-09 14:00:14,958 - INFO - â—ˆ OPUSDT sinyal MR Buy @ 0.08882 | swingVWAP 0.0888356 (bawah, beda sisi âš )
+2026-08-09 14:00:14,958 - INFO - âŠ˜ OPUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-09 14:00:47,577 - INFO - ðŸš¨ TUTUSDT POSISI TANPA SL! Dipasang ulang @ 0.20859 (1.5xATR)
+2026-08-09 14:00:50,724 - INFO - â—ˆ BLUAIUSDT sinyal MR Buy @ 0.021752 | swingVWAP 0.0212692 (atas, searah âœ”)
+2026-08-09 14:00:50,724 - INFO - âŠ˜ BLUAIUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-09 14:01:25,436 - INFO - â—ˆ GWEIUSDT sinyal MR Sell @ 0.02495 | swingVWAP 0.0255009 (bawah, searah âœ”)
+2026-08-09 14:01:25,436 - INFO - âŠ˜ GWEIUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-09 14:01:28,202 - INFO - â—ˆ APTUSDT sinyal MR Buy @ 0.6006 | swingVWAP 0.605244 (bawah, beda sisi âš )
+2026-08-09 14:01:28,202 - INFO - âŠ˜ APTUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-09 14:01:59,797 - INFO - ðŸš¨ TUTUSDT POSISI TANPA SL! Dipasang ulang @ 0.208871 (1.5xATR)
+2026-08-09 14:03:12,052 - INFO - â–  TUTUSDT ADOPT ditutup â€” PnL +0.14$ (ROI +2.5%)
+2026-08-09 14:09:12,309 - INFO - â–¶ VWAP BOT dimulai â€” saldo $1.70 | Session anchor | TF 60m | 3 simbol | cap $1.6
+2026-08-09 14:09:12,309 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-09 14:09:12,337 - INFO - ðŸŒ SYMBOLS diperbarui: 76 kontrak (+73 baru, turnover â‰¥ $5jt)
+2026-08-09 14:17:35,733 - INFO - ðŸ‘ TUTUSDT posisi diadopsi (restart) â€” risk0 0.010664
+2026-08-09 14:17:35,744 - INFO - ðŸ”’ TUTUSDT BE terpasang @ 0.156566 (1.94R)
+2026-08-09 14:17:35,755 - INFO - âš¡ TUTUSDT trailing aktif @ 1.94R
+2026-08-09 14:21:08,132 - INFO - â–  TUTUSDT ADOPT ditutup â€” PnL +1.00$ (ROI +60.1%)
+2026-08-09 19:28:22,404 - INFO - â–¶ VWAP BOT dimulai â€” saldo $11.43 | Session anchor | TF 60m | 3 simbol | cap $2.0
+2026-08-09 19:28:22,404 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-09 19:28:22,431 - INFO - ðŸŒ SYMBOLS diperbarui: 78 kontrak (+75 baru, turnover â‰¥ $5jt)
+2026-08-09 19:28:23,249 - INFO - â—ˆ TUTUSDT sinyal TC Buy @ 0.173116 | swingVWAP 0.109815 (atas, searah âœ”)
+2026-08-09 19:28:23,249 - INFO - â›” TUTUSDT volatilitas ekstrem (ATR 4.3x > 2.5x) â€” entry dilewati
+2026-08-09 19:28:25,374 - INFO - â—ˆ BLUAIUSDT sinyal MR Buy @ 0.017358 | swingVWAP 0.0207123 (bawah, beda sisi âš )
+2026-08-09 19:28:25,383 - INFO - BLUAIUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-09 19:28:25,394 - INFO - ðŸ§¯ BLUAIUSDT RISK CAP 15% saldo ($1.71) â€” risiko $5.57 â†’ margin $2.77
+2026-08-09 19:28:26,442 - INFO - â–² LONG BLUAIUSDT [MR] @ 0.0189161 4x TP 0.0209383 SL 0.0159815 m $2.77
+2026-08-09 19:28:28,019 - INFO - â—ˆ BNBUSDT sinyal MR Sell @ 603.6 | swingVWAP 603.485 (atas, beda sisi âš )
+2026-08-09 19:28:28,028 - INFO - ðŸ›¡ðŸŽ£ BNBUSDT SL STOP-HUNT (opsi 2) @ 605.705 â€” di luar zona sweep kolam terdekat
+2026-08-09 19:28:28,028 - INFO - âŠ˜ BNBUSDT TP terlalu dekat (0.257% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-09 19:28:28,894 - INFO - â—ˆ NEARUSDT sinyal MR Buy @ 1.6116 | swingVWAP 1.61954 (bawah, beda sisi âš )
+2026-08-09 19:28:28,903 - INFO - ðŸ›¡ðŸŽ£ NEARUSDT SL STOP-HUNT (opsi 2) @ 1.59764 â€” di luar zona sweep kolam terdekat
+2026-08-09 19:28:28,904 - INFO - âŠ˜ NEARUSDT TP terlalu dekat (0.185% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-09 20:01:32,374 - INFO - â—ˆ CAPUSDT sinyal TC Buy @ 0.03913 | swingVWAP 0.0376185 (atas, searah âœ”)
+2026-08-09 20:01:32,382 - INFO - CAPUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-09 20:01:32,391 - INFO - ðŸ§¯ CAPUSDT RISK CAP 15% saldo ($1.55) â€” risiko $5.12 â†’ margin $2.71
+2026-08-09 20:01:32,410 - ERROR - âœ˜ CAPUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 13:01:32).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "CAPUSDT", "side": "Buy", "orderType": "Market", "qty": "680.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-09 20:01:33,055 - INFO - â—ˆ DEXEUSDT sinyal TC Sell @ 2.177 | swingVWAP 2.20505 (bawah, searah âœ”)
+2026-08-09 20:01:33,063 - INFO - ðŸ›¡ðŸŽ£ DEXEUSDT SL STOP-HUNT (opsi 2) @ 2.25476 â€” di luar zona sweep kolam terdekat
+2026-08-09 20:01:33,072 - INFO - ðŸ§¯ DEXEUSDT RISK CAP 15% saldo ($1.55) â€” risiko $5.86 â†’ margin $2.37
+2026-08-09 20:01:33,096 - ERROR - âœ˜ DEXEUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 13:01:33).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "DEXEUSDT", "side": "Sell", "orderType": "Market", "qty": "20.6", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-09 20:31:31,281 - INFO - ðŸ‘ MUBARAKUSDT posisi diadopsi (restart) â€” risk0 0.00067803
+2026-08-09 20:39:22,416 - INFO - â–  MUBARAKUSDT ADOPT ditutup â€” PnL +1.37$ (ROI +11.3%)
+2026-08-09 20:41:15,862 - INFO - ðŸ‘ PUMPFUNUSDT posisi diadopsi (restart) â€” risk0 1.696e-05
+2026-08-09 20:42:23,728 - INFO - â–  PUMPFUNUSDT ADOPT ditutup â€” PnL +0.51$ (ROI +3.9%)
+2026-08-09 21:00:25,643 - INFO - â—ˆ XLMUSDT sinyal TC Sell @ 0.16294 | swingVWAP 0.163934 (bawah, searah âœ”)
+2026-08-09 21:00:25,651 - INFO - ðŸ›¡ðŸŽ£ XLMUSDT SL STOP-HUNT (opsi 2) @ 0.163636 â€” di luar zona sweep kolam terdekat
+2026-08-09 21:00:26,708 - INFO - â–¼ SHORT XLMUSDT [TC] @ 0.1629 25x TP 0.162312 SL 0.163636 m $9.0
+2026-08-09 21:00:28,967 - INFO - â—ˆ DEEPUSDT sinyal MR Buy @ 0.01635 | swingVWAP 0.0171101 (bawah, beda sisi âš )
+2026-08-09 21:00:28,967 - INFO - âŠ˜ DEEPUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-09 21:00:31,907 - INFO - â—ˆ HYPEUSDT sinyal MR Buy @ 54.492 | swingVWAP 54.6381 (bawah, beda sisi âš )
+2026-08-09 21:00:31,908 - INFO - âŠ˜ HYPEUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-09 21:01:05,474 - INFO - â—ˆ ADAUSDT sinyal TC Sell @ 0.1974 | swingVWAP 0.19828 (bawah, searah âœ”)
+2026-08-09 21:01:05,475 - INFO - âŠ˜ ADAUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-09 21:01:41,712 - INFO - â—ˆ MUBARAKUSDT sinyal TC Buy @ 0.019846 | swingVWAP 0.0176917 (atas, searah âœ”)
+2026-08-09 21:01:41,712 - INFO - âŠ˜ MUBARAKUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-09 21:01:44,452 - INFO - â—ˆ HFTUSDT sinyal TC Sell @ 0.01023 | swingVWAP 0.0107642 (bawah, searah âœ”)
+2026-08-09 21:01:44,452 - INFO - âŠ˜ HFTUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-09 22:00:20,654 - INFO - â—ˆ HFTUSDT sinyal TC Sell @ 0.010409 | swingVWAP 0.0107496 (bawah, searah âœ”)
+2026-08-09 22:00:20,654 - INFO - âŠ˜ HFTUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-09 22:00:23,213 - INFO - â—ˆ DEXEUSDT sinyal TC Sell @ 2.176 | swingVWAP 2.20366 (bawah, searah âœ”)
+2026-08-09 22:00:23,213 - INFO - âŠ˜ DEXEUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-09 22:00:58,981 - INFO - â—ˆ BNBUSDT sinyal MR Sell @ 608.1 | swingVWAP 604.167 (atas, beda sisi âš )
+2026-08-09 22:00:58,981 - INFO - âŠ˜ BNBUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-09 22:01:33,162 - INFO - â—ˆ BMTUSDT sinyal TC Buy @ 0.023928 | swingVWAP 0.0222525 (atas, searah âœ”)
+2026-08-09 22:01:33,162 - INFO - âŠ˜ BMTUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-09 22:16:43,020 - INFO - ðŸ‘ TUTUSDT posisi diadopsi (restart) â€” risk0 0.0489876
+2026-08-09 22:44:47,630 - INFO - â–  TUTUSDT ADOPT ditutup â€” PnL -0.43$ (ROI -7.0%)
+2026-08-09 22:47:19,338 - INFO - ðŸ‘ MUBARAKUSDT posisi diadopsi (restart) â€” risk0 0.001152
+2026-08-09 23:00:04,017 - INFO - â—ˆ XLMUSDT sinyal TC Sell @ 0.16315 | swingVWAP 0.163893 (bawah, searah âœ”)
+2026-08-09 23:00:08,969 - INFO - â—ˆ EPICUSDT sinyal TC Sell @ 1.0089 | swingVWAP 1.0645 (bawah, searah âœ”)
+2026-08-09 23:00:08,969 - INFO - âŠ˜ EPICUSDT slot penuh (3/2) â€” sinyal dilewati
+2026-08-09 23:00:09,414 - INFO - â—ˆ SKHYNIXUSDT sinyal MR Sell @ 1024.84 | swingVWAP 1021.04 (atas, beda sisi âš )
+2026-08-09 23:00:09,414 - INFO - âŠ˜ SKHYNIXUSDT slot penuh (3/2) â€” sinyal dilewati
+2026-08-09 23:00:42,029 - INFO - â—ˆ DEXEUSDT sinyal TC Sell @ 2.177 | swingVWAP 2.20277 (bawah, searah âœ”)
+2026-08-09 23:00:42,029 - INFO - âŠ˜ DEXEUSDT slot penuh (3/2) â€” sinyal dilewati
+2026-08-09 23:01:20,200 - INFO - â—ˆ ENAUSDT sinyal TC Sell @ 0.08773 | swingVWAP 0.0886828 (bawah, searah âœ”)
+2026-08-09 23:01:20,200 - INFO - âŠ˜ ENAUSDT slot penuh (3/2) â€” sinyal dilewati
+2026-08-09 23:28:49,603 - INFO - â–  MUBARAKUSDT ADOPT ditutup â€” PnL -2.64$ (ROI -66.6%)
+2026-08-10 00:00:22,282 - INFO - â—ˆ UNIUSDT sinyal MR Sell @ 4.036 | swingVWAP 4.00827 (atas, beda sisi âš )
+2026-08-10 00:00:22,282 - INFO - âŠ˜ UNIUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 00:00:22,722 - INFO - â—ˆ AKEUSDT sinyal TC Buy @ 0.00424 | swingVWAP 0.00405233 (atas, searah âœ”)
+2026-08-10 00:00:22,722 - INFO - âŠ˜ AKEUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 00:00:23,823 - INFO - â—ˆ LTCUSDT sinyal MR Sell @ 46.27 | swingVWAP 45.8609 (atas, beda sisi âš )
+2026-08-10 00:00:23,823 - INFO - âŠ˜ LTCUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 00:00:25,737 - INFO - â—ˆ DEXEUSDT sinyal TC Sell @ 2.169 | swingVWAP 2.20191 (bawah, searah âœ”)
+2026-08-10 00:00:25,737 - INFO - âŠ˜ DEXEUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 00:01:00,366 - INFO - â—ˆ ACEUSDT sinyal TC Sell @ 0.1277 | swingVWAP 0.139475 (bawah, searah âœ”)
+2026-08-10 00:01:00,366 - INFO - âŠ˜ ACEUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 00:01:01,014 - INFO - â—ˆ TSLAUSDT sinyal MR Buy @ 331.3 | swingVWAP 331.759 (bawah, beda sisi âš )
+2026-08-10 00:01:01,014 - INFO - âŠ˜ TSLAUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 00:01:02,311 - INFO - â—ˆ NEARUSDT sinyal MR Sell @ 1.6294 | swingVWAP 1.62105 (atas, beda sisi âš )
+2026-08-10 00:01:02,311 - INFO - âŠ˜ NEARUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 00:01:35,840 - INFO - â—ˆ LINKUSDT sinyal MR Sell @ 8.341 | swingVWAP 8.31538 (atas, beda sisi âš )
+2026-08-10 00:01:35,840 - INFO - âŠ˜ LINKUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 00:01:39,279 - INFO - â—ˆ PENGUUSDT sinyal TC Buy @ 0.006779 | swingVWAP 0.00651967 (atas, searah âœ”)
+2026-08-10 00:01:39,279 - INFO - âŠ˜ PENGUUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 00:01:39,511 - INFO - â—ˆ ICPUSDT sinyal MR Sell @ 2.21 | swingVWAP 2.1836 (atas, beda sisi âš )
+2026-08-10 00:01:39,511 - INFO - âŠ˜ ICPUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 00:01:39,950 - INFO - â—ˆ AVAXUSDT sinyal MR Sell @ 6.536 | swingVWAP 6.5011 (atas, beda sisi âš )
+2026-08-10 00:01:39,950 - INFO - âŠ˜ AVAXUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 01:00:20,225 - INFO - â—ˆ XLMUSDT sinyal TC Sell @ 0.16257 | swingVWAP 0.163832 (bawah, searah âœ”)
+2026-08-10 01:00:24,536 - INFO - â—ˆ EPICUSDT sinyal TC Sell @ 0.995 | swingVWAP 1.00892 (bawah, searah âœ”)
+2026-08-10 01:00:24,536 - INFO - âŠ˜ EPICUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 01:00:59,159 - INFO - â—ˆ XRPUSDT sinyal MR Sell @ 1.041 | swingVWAP 1.03915 (atas, beda sisi âš )
+2026-08-10 01:00:59,159 - INFO - âŠ˜ XRPUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 01:01:00,868 - INFO - â—ˆ CYSUSDT sinyal MR Sell @ 1.0406 | swingVWAP 0.901837 (atas, beda sisi âš )
+2026-08-10 01:01:00,868 - INFO - âŠ˜ CYSUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 01:01:35,313 - INFO - â—ˆ SKYAI1USDT sinyal MR Buy @ 0.10167 | swingVWAP 0.118712 (bawah, beda sisi âš )
+2026-08-10 01:01:35,313 - INFO - âŠ˜ SKYAI1USDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 01:01:36,388 - INFO - â—ˆ ONDOUSDT sinyal MR Sell @ 0.3521 | swingVWAP 0.351157 (atas, beda sisi âš )
+2026-08-10 01:01:36,388 - INFO - âŠ˜ ONDOUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 01:01:36,844 - INFO - â—ˆ CLUSDT sinyal MR Buy @ 77.18 | swingVWAP 77.4412 (bawah, beda sisi âš )
+2026-08-10 01:01:36,844 - INFO - âŠ˜ CLUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 01:12:28,024 - INFO - â–  XLMUSDT TC ditutup â€” PnL +0.62$ (ROI +6.9%)
+2026-08-10 01:12:28,987 - INFO - â—ˆ XLMUSDT sinyal TC Sell @ 0.16257 | swingVWAP 0.163832 (bawah, searah âœ”)
+2026-08-10 01:28:41,315 - INFO - ðŸŒ SYMBOLS diperbarui: 73 kontrak (+5 baru, turnover â‰¥ $5jt)
+2026-08-10 02:00:30,398 - INFO - â—ˆ ETHUSDT sinyal TC Buy @ 1920.55 | swingVWAP 1919.96 (atas, searah âœ”)
+2026-08-10 02:00:30,405 - INFO - ETHUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 02:00:30,405 - INFO - âŠ˜ ETHUSDT TP terlalu dekat (0.309% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 02:01:43,536 - INFO - â—ˆ 1000CATUSDT sinyal TC Sell @ 0.0019329 | swingVWAP 0.00210323 (bawah, searah âœ”)
+2026-08-10 02:01:43,544 - INFO - 1000CATUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 02:01:43,551 - INFO - ðŸ§¯ 1000CATUSDT RISK CAP 15% saldo ($1.88) â€” risiko $5.92 â†’ margin $2.85
+2026-08-10 02:01:44,623 - INFO - â–¼ SHORT 1000CATUSDT [TC] @ 0.0019304 13x TP 0.00171973 SL 0.00202973 m $2.85
+2026-08-10 02:01:45,801 - INFO - â—ˆ EPICUSDT sinyal TC Sell @ 0.5717 | swingVWAP 0.871059 (bawah, searah âœ”)
+2026-08-10 02:01:45,801 - INFO - âŠ˜ EPICUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 03:00:01,613 - INFO - â—ˆ LITUSDT sinyal TC Buy @ 2.342 | swingVWAP 2.31834 (atas, searah âœ”)
+2026-08-10 03:00:01,613 - INFO - âŠ˜ LITUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 03:00:35,187 - INFO - â—ˆ 1000CATUSDT sinyal TC Sell @ 0.0019215 | swingVWAP 0.00184561 (atas, beda sisi âš )
+2026-08-10 03:00:37,121 - INFO - â—ˆ NEARUSDT sinyal MR Sell @ 1.6342 | swingVWAP 1.62451 (atas, beda sisi âš )
+2026-08-10 03:00:37,121 - INFO - âŠ˜ NEARUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 03:01:26,089 - INFO - â—ˆ XLMUSDT sinyal TC Sell @ 0.16268 | swingVWAP 0.163623 (bawah, searah âœ”)
+2026-08-10 03:01:26,089 - INFO - âŠ˜ XLMUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 04:00:38,288 - INFO - â—ˆ 1000BONKUSDT sinyal MR Sell @ 0.002514 | swingVWAP 0.00249638 (atas, beda sisi âš )
+2026-08-10 04:00:38,288 - INFO - âŠ˜ 1000BONKUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 04:01:24,852 - INFO - â—ˆ XAUUSDT sinyal TC Buy @ 4363.46 | swingVWAP 4346.33 (atas, searah âœ”)
+2026-08-10 04:01:24,853 - INFO - âŠ˜ XAUUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 04:01:30,353 - INFO - â—ˆ SKYAI1USDT sinyal MR Buy @ 0.10084 | swingVWAP 0.115821 (bawah, beda sisi âš )
+2026-08-10 04:01:30,354 - INFO - âŠ˜ SKYAI1USDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 05:00:32,809 - INFO - â—ˆ ETHUSDT sinyal TC Buy @ 1923.87 | swingVWAP 1920.08 (atas, searah âœ”)
+2026-08-10 05:00:32,809 - INFO - âŠ˜ ETHUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 05:00:35,155 - INFO - â—ˆ XAUUSDT sinyal MR Sell @ 4350.9 | swingVWAP 4346.41 (atas, beda sisi âš )
+2026-08-10 05:00:35,155 - INFO - âŠ˜ XAUUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 05:00:35,818 - INFO - â—ˆ ENAUSDT sinyal TC Sell @ 0.08773 | swingVWAP 0.0884938 (bawah, searah âœ”)
+2026-08-10 05:00:35,818 - INFO - âŠ˜ ENAUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 05:01:13,409 - INFO - â—ˆ HOMEUSDT sinyal MR Buy @ 0.008771 | swingVWAP 0.00921244 (bawah, beda sisi âš )
+2026-08-10 05:01:13,409 - INFO - âŠ˜ HOMEUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 05:01:14,081 - INFO - â—ˆ BROCCOLIUSDT sinyal TC Buy @ 0.019874 | swingVWAP 0.0193695 (atas, searah âœ”)
+2026-08-10 05:01:14,081 - INFO - âŠ˜ BROCCOLIUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:00:30,583 - INFO - â—ˆ BTCUSDT sinyal TC Buy @ 65041.3 | swingVWAP 65061 (bawah, beda sisi âš )
+2026-08-10 06:00:30,583 - INFO - âŠ˜ BTCUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:00:31,047 - INFO - â—ˆ SOLUSDT sinyal TC Buy @ 76.77 | swingVWAP 76.7384 (atas, searah âœ”)
+2026-08-10 06:00:31,048 - INFO - âŠ˜ SOLUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:00:33,585 - INFO - â—ˆ APTUSDT sinyal TC Sell @ 0.5942 | swingVWAP 0.597915 (bawah, searah âœ”)
+2026-08-10 06:00:33,585 - INFO - âŠ˜ APTUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:01:08,186 - INFO - â—ˆ SNDKUSDT sinyal MR Sell @ 1227.29 | swingVWAP 1225.06 (atas, beda sisi âš )
+2026-08-10 06:01:08,187 - INFO - âŠ˜ SNDKUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:01:08,439 - INFO - â—ˆ TRUMPUSDT sinyal TC Buy @ 1.5 | swingVWAP 1.50613 (bawah, beda sisi âš )
+2026-08-10 06:01:08,440 - INFO - âŠ˜ TRUMPUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:01:44,935 - INFO - â—ˆ ENAUSDT sinyal TC Sell @ 0.08689 | swingVWAP 0.0883933 (bawah, searah âœ”)
+2026-08-10 06:01:44,935 - INFO - âŠ˜ ENAUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:01:46,650 - INFO - â—ˆ 1000PEPEUSDT sinyal TC Buy @ 0.002902 | swingVWAP 0.00289675 (atas, searah âœ”)
+2026-08-10 06:01:46,650 - INFO - âŠ˜ 1000PEPEUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:01:47,088 - INFO - â—ˆ SOXLUSDT sinyal TC Sell @ 139.79 | swingVWAP 141.443 (bawah, searah âœ”)
+2026-08-10 06:01:47,088 - INFO - âŠ˜ SOXLUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:39:36,888 - INFO - â–¶ VWAP BOT dimulai â€” saldo $10.64 | Session anchor | TF 60m | 3 simbol | cap $2.0
+2026-08-10 06:39:36,888 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-10 06:39:36,913 - INFO - ðŸŒ SYMBOLS diperbarui: 82 kontrak (+79 baru, turnover â‰¥ $5jt)
+2026-08-10 06:40:19,266 - INFO - â—ˆ XAGUSDT sinyal MR Buy @ 63.74 | swingVWAP 63.7891 (bawah, beda sisi âš )
+2026-08-10 06:40:19,266 - INFO - âŠ˜ XAGUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:40:53,249 - INFO - â—ˆ ARBUSDT sinyal MR Sell @ 0.07885 | swingVWAP 0.0785881 (atas, beda sisi âš )
+2026-08-10 06:40:53,249 - INFO - âŠ˜ ARBUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:40:54,360 - INFO - â—ˆ SKHYNIXUSDT sinyal TC Buy @ 1025.2 | swingVWAP 1022.85 (atas, searah âœ”)
+2026-08-10 06:40:54,360 - INFO - âŠ˜ SKHYNIXUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:40:54,593 - INFO - â—ˆ OPUSDT sinyal MR Sell @ 0.08896 | swingVWAP 0.0889977 (bawah, searah âœ”)
+2026-08-10 06:40:54,594 - INFO - âŠ˜ OPUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:40:55,248 - INFO - â—ˆ SKHYUSDT sinyal TC Buy @ 139.92 | swingVWAP 139.413 (atas, searah âœ”)
+2026-08-10 06:40:55,248 - INFO - âŠ˜ SKHYUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:40:55,900 - INFO - â—ˆ SNXXUSDT sinyal MR Sell @ 9.26 | swingVWAP 9.24199 (atas, beda sisi âš )
+2026-08-10 06:40:55,900 - INFO - âŠ˜ SNXXUSDT slot penuh (2/2) â€” sinyal dilewati
+2026-08-10 06:43:29,134 - INFO - â–¶ VWAP BOT dimulai â€” saldo $10.57 | Session anchor | TF 60m | 3 simbol | cap $2.0
+2026-08-10 06:43:29,134 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-10 06:43:29,158 - INFO - ðŸŒ SYMBOLS diperbarui: 83 kontrak (+80 baru, turnover â‰¥ $5jt)
+2026-08-10 07:01:04,335 - INFO - â—ˆ BTWUSDT sinyal MR Sell @ 0.21472 | swingVWAP 0.18545 (atas, beda sisi âš )
+2026-08-10 07:01:04,344 - INFO - BTWUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 07:01:04,351 - INFO - ðŸ§¯ BTWUSDT RISK CAP 15% saldo ($1.66) â€” risiko $4.20 â†’ margin $3.55
+2026-08-10 07:01:05,405 - INFO - â–¼ SHORT BTWUSDT [MR] @ 0.215 10x TP 0.188021 SL 0.225058 m $3.55
+2026-08-10 07:01:08,496 - INFO - â—ˆ TSLAUSDT sinyal TC Sell @ 329.88 | swingVWAP 331.08 (bawah, searah âœ”)
+2026-08-10 07:01:08,496 - INFO - âŠ˜ TSLAUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 07:01:10,669 - INFO - â—ˆ XLMUSDT sinyal MR Buy @ 0.16244 | swingVWAP 0.163287 (bawah, beda sisi âš )
+2026-08-10 07:01:10,670 - INFO - âŠ˜ XLMUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 07:10:15,303 - INFO - â–  1000CATUSDT TC ditutup â€” PnL -1.79$ (ROI -62.8%)
+2026-08-10 09:00:01,211 - INFO - â—ˆ BLESSUSDT sinyal MR Sell @ 0.012211 | swingVWAP 0.0129892 (bawah, searah âœ”)
+2026-08-10 09:00:01,219 - INFO - BLESSUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 09:00:01,226 - INFO - ðŸ§¯ BLESSUSDT RISK CAP 15% saldo ($1.53) â€” risiko $3.27 â†’ margin $4.21
+2026-08-10 09:00:02,286 - INFO - â–¼ SHORT BLESSUSDT [MR] @ 0.012208 12x TP 0.0119957 SL 0.0125852 m $4.21
+2026-08-10 09:00:03,485 - INFO - â—ˆ SUIUSDT sinyal MR Sell @ 0.6944 | swingVWAP 0.694079 (atas, beda sisi âš )
+2026-08-10 09:00:03,485 - INFO - âŠ˜ SUIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:00:04,777 - INFO - â—ˆ COOKIEUSDT sinyal MR Buy @ 0.013998 | swingVWAP 0.0131672 (atas, searah âœ”)
+2026-08-10 09:00:04,777 - INFO - âŠ˜ COOKIEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:00:05,652 - INFO - â—ˆ BANKUSDT sinyal MR Sell @ 0.0398 | swingVWAP 0.0426648 (bawah, searah âœ”)
+2026-08-10 09:00:05,652 - INFO - âŠ˜ BANKUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:00:05,921 - INFO - â—ˆ FARTCOINUSDT sinyal MR Sell @ 0.13339 | swingVWAP 0.133716 (bawah, searah âœ”)
+2026-08-10 09:00:05,921 - INFO - âŠ˜ FARTCOINUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:00:36,596 - INFO - â—ˆ BTWUSDT sinyal MR Buy @ 0.21361 | swingVWAP 0.186456 (atas, searah âœ”)
+2026-08-10 09:00:38,533 - INFO - â—ˆ APTUSDT sinyal MR Sell @ 0.5944 | swingVWAP 0.596545 (bawah, searah âœ”)
+2026-08-10 09:00:38,533 - INFO - âŠ˜ APTUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:00:38,771 - INFO - â—ˆ XLMUSDT sinyal MR Buy @ 0.16337 | swingVWAP 0.163285 (atas, searah âœ”)
+2026-08-10 09:00:38,771 - INFO - âŠ˜ XLMUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:00:39,236 - INFO - â—ˆ LTCUSDT sinyal MR Sell @ 45.6 | swingVWAP 45.8419 (bawah, searah âœ”)
+2026-08-10 09:00:39,236 - INFO - âŠ˜ LTCUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:00:39,470 - INFO - â—ˆ XAGUSDT sinyal MR Buy @ 63.56 | swingVWAP 63.7185 (bawah, beda sisi âš )
+2026-08-10 09:00:39,470 - INFO - âŠ˜ XAGUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:00:40,143 - INFO - â—ˆ WIFUSDT sinyal MR Sell @ 0.14392 | swingVWAP 0.14427 (bawah, searah âœ”)
+2026-08-10 09:00:40,143 - INFO - âŠ˜ WIFUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:00:40,587 - INFO - â—ˆ HOMEUSDT sinyal MR Sell @ 0.009276 | swingVWAP 0.00917225 (atas, beda sisi âš )
+2026-08-10 09:00:40,587 - INFO - âŠ˜ HOMEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:00:41,719 - INFO - â—ˆ ZBTUSDT sinyal MR Buy @ 0.10087 | swingVWAP 0.104725 (bawah, beda sisi âš )
+2026-08-10 09:00:41,719 - INFO - âŠ˜ ZBTUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:01:14,908 - INFO - â—ˆ SKHYNIXUSDT sinyal MR Buy @ 1024.55 | swingVWAP 1026.43 (bawah, beda sisi âš )
+2026-08-10 09:01:14,908 - INFO - âŠ˜ SKHYNIXUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:01:15,373 - INFO - â—ˆ LITUSDT sinyal MR Sell @ 2.3298 | swingVWAP 2.32278 (atas, beda sisi âš )
+2026-08-10 09:01:15,373 - INFO - âŠ˜ LITUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:01:16,045 - INFO - â—ˆ SKHYUSDT sinyal MR Buy @ 139.19 | swingVWAP 139.647 (bawah, beda sisi âš )
+2026-08-10 09:01:16,045 - INFO - âŠ˜ SKHYUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:01:16,279 - INFO - â—ˆ 1000RATSUSDT sinyal MR Buy @ 0.04548 | swingVWAP 0.0454292 (atas, searah âœ”)
+2026-08-10 09:01:16,279 - INFO - âŠ˜ 1000RATSUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:01:16,521 - INFO - â—ˆ SNXXUSDT sinyal MR Buy @ 9.21 | swingVWAP 9.22543 (bawah, beda sisi âš )
+2026-08-10 09:01:16,521 - INFO - âŠ˜ SNXXUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:01:17,615 - INFO - â—ˆ TUTUSDT sinyal MR Buy @ 0.200472 | swingVWAP 0.180595 (atas, searah âœ”)
+2026-08-10 09:01:17,616 - INFO - âŠ˜ TUTUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:01:19,807 - INFO - â—ˆ DOGEUSDT sinyal MR Sell @ 0.06996 | swingVWAP 0.0700176 (bawah, searah âœ”)
+2026-08-10 09:01:19,807 - INFO - âŠ˜ DOGEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:01:52,347 - INFO - â—ˆ NEARUSDT sinyal MR Sell @ 1.6161 | swingVWAP 1.6209 (bawah, searah âœ”)
+2026-08-10 09:01:52,347 - INFO - âŠ˜ NEARUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:01:53,225 - INFO - â—ˆ BNBUSDT sinyal MR Buy @ 604.6 | swingVWAP 607.055 (bawah, beda sisi âš )
+2026-08-10 09:01:53,225 - INFO - âŠ˜ BNBUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 09:12:14,225 - INFO - â–  BLESSUSDT MR ditutup â€” PnL +0.74$ (ROI +17.5%)
+2026-08-10 09:12:14,967 - INFO - â—ˆ BLESSUSDT sinyal MR Sell @ 0.012211 | swingVWAP 0.0129892 (bawah, searah âœ”)
+2026-08-10 10:00:08,141 - INFO - â—ˆ ETHUSDT sinyal MR Sell @ 1922.61 | swingVWAP 1919.01 (atas, beda sisi âš )
+2026-08-10 10:00:08,149 - INFO - ðŸ›¡ðŸŽ£ ETHUSDT SL STOP-HUNT (opsi 2) @ 1931 â€” di luar zona sweep kolam terdekat
+2026-08-10 10:00:08,149 - INFO - âŠ˜ ETHUSDT TP terlalu dekat (0.291% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 10:00:08,417 - INFO - â—ˆ SOLUSDT sinyal MR Sell @ 76.79 | swingVWAP 76.7036 (atas, beda sisi âš )
+2026-08-10 10:00:08,425 - INFO - ðŸ›¡ðŸŽ£ SOLUSDT SL STOP-HUNT (opsi 2) @ 77.8972 â€” di luar zona sweep kolam terdekat
+2026-08-10 10:00:08,425 - INFO - âŠ˜ SOLUSDT TP terlalu dekat (0.190% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 10:00:08,864 - INFO - â—ˆ XRPUSDT sinyal MR Sell @ 1.0343 | swingVWAP 1.03645 (bawah, searah âœ”)
+2026-08-10 10:00:08,872 - INFO - ðŸ›¡ðŸŽ£ XRPUSDT SL STOP-HUNT (opsi 2) @ 1.04286 â€” di luar zona sweep kolam terdekat
+2026-08-10 10:00:08,872 - INFO - âŠ˜ XRPUSDT TP terlalu dekat (0.085% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 10:00:09,108 - INFO - â—ˆ ZECUSDT sinyal MR Sell @ 510.83 | swingVWAP 519.341 (bawah, searah âœ”)
+2026-08-10 10:00:09,116 - INFO - ðŸ›¡ðŸŽ£ ZECUSDT SL STOP-HUNT (opsi 2) @ 515.343 â€” di luar zona sweep kolam terdekat
+2026-08-10 10:00:09,116 - INFO - âŠ˜ ZECUSDT TP terlalu dekat (0.094% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 10:00:09,382 - INFO - â—ˆ HYPEUSDT sinyal MR Sell @ 54.351 | swingVWAP 54.3353 (atas, beda sisi âš )
+2026-08-10 10:00:09,390 - INFO - ðŸ›¡ðŸŽ£ HYPEUSDT SL STOP-HUNT (opsi 2) @ 55.1138 â€” di luar zona sweep kolam terdekat
+2026-08-10 10:00:09,390 - INFO - âŠ˜ HYPEUSDT TP terlalu dekat (0.335% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 10:00:09,833 - INFO - â—ˆ BEATUSDT sinyal MR Buy @ 2.801 | swingVWAP 2.90735 (bawah, beda sisi âš )
+2026-08-10 10:00:09,842 - INFO - BEATUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 10:00:09,850 - INFO - ðŸ§¯ BEATUSDT RISK CAP 15% saldo ($1.73) â€” risiko $5.94 â†’ margin $2.62
+2026-08-10 10:00:10,902 - INFO - â–² LONG BEATUSDT [MR] @ 2.80834 14x TP 3.09921 SL 2.67424 m $2.62
+2026-08-10 10:00:13,166 - INFO - â—ˆ ADAUSDT sinyal MR Sell @ 0.1978 | swingVWAP 0.196523 (atas, beda sisi âš )
+2026-08-10 10:00:13,166 - INFO - âŠ˜ ADAUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:00:13,400 - INFO - â—ˆ TAOUSDT sinyal MR Sell @ 203.73 | swingVWAP 204.591 (bawah, searah âœ”)
+2026-08-10 10:00:13,400 - INFO - âŠ˜ TAOUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:00:14,072 - INFO - â—ˆ MUBARAKUSDT sinyal MR Buy @ 0.02286 | swingVWAP 0.0218342 (atas, searah âœ”)
+2026-08-10 10:00:14,072 - INFO - âŠ˜ MUBARAKUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:00:48,980 - INFO - â—ˆ ONDOUSDT sinyal MR Sell @ 0.35 | swingVWAP 0.351586 (bawah, searah âœ”)
+2026-08-10 10:00:48,981 - INFO - âŠ˜ ONDOUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:00:50,321 - INFO - â—ˆ AVAXUSDT sinyal MR Sell @ 6.507 | swingVWAP 6.49199 (atas, beda sisi âš )
+2026-08-10 10:00:50,321 - INFO - âŠ˜ AVAXUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:00:50,556 - INFO - â—ˆ AAVEUSDT sinyal MR Sell @ 91.82 | swingVWAP 91.2153 (atas, beda sisi âš )
+2026-08-10 10:00:50,556 - INFO - âŠ˜ AAVEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:01:24,874 - INFO - â—ˆ 1000CATUSDT sinyal MR Buy @ 0.0019096 | swingVWAP 0.00187138 (atas, searah âœ”)
+2026-08-10 10:01:24,874 - INFO - âŠ˜ 1000CATUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:01:25,107 - INFO - â—ˆ BROCCOLIUSDT sinyal MR Buy @ 0.018586 | swingVWAP 0.0200859 (bawah, beda sisi âš )
+2026-08-10 10:01:25,107 - INFO - âŠ˜ BROCCOLIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:01:25,570 - INFO - â—ˆ 1000BONKUSDT sinyal MR Sell @ 0.002492 | swingVWAP 0.00246633 (atas, beda sisi âš )
+2026-08-10 10:01:25,570 - INFO - âŠ˜ 1000BONKUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:01:26,009 - INFO - â—ˆ SNDKUSDT sinyal MR Sell @ 1220.26 | swingVWAP 1223.35 (bawah, searah âœ”)
+2026-08-10 10:01:26,009 - INFO - âŠ˜ SNDKUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:01:27,750 - INFO - â—ˆ OPUSDT sinyal MR Sell @ 0.08946 | swingVWAP 0.088876 (atas, beda sisi âš )
+2026-08-10 10:01:27,750 - INFO - âŠ˜ OPUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:01:28,427 - INFO - â—ˆ CATIUSDT sinyal MR Buy @ 0.04569 | swingVWAP 0.0502449 (bawah, beda sisi âš )
+2026-08-10 10:01:28,427 - INFO - âŠ˜ CATIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 10:26:27,556 - INFO - â–  BEATUSDT MR ditutup â€” PnL -0.89$ (ROI -34.1%)
+2026-08-10 10:26:28,296 - INFO - â—ˆ BEATUSDT sinyal MR Buy @ 2.801 | swingVWAP 2.90735 (bawah, beda sisi âš )
+2026-08-10 11:00:28,797 - INFO - â—ˆ KAITOUSDT sinyal MR Sell @ 0.681 | swingVWAP 0.679677 (atas, beda sisi âš )
+2026-08-10 11:00:28,809 - INFO - ðŸ›¡ðŸŽ£ KAITOUSDT SL STOP-HUNT (opsi 2) @ 0.709488 â€” di luar zona sweep kolam terdekat
+2026-08-10 11:00:28,809 - INFO - âŠ˜ KAITOUSDT level tidak valid (px 0.6807 sl 0.709488 tp 0.690729)
+2026-08-10 11:00:30,325 - INFO - â—ˆ NEARUSDT sinyal MR Sell @ 1.6108 | swingVWAP 1.62044 (bawah, searah âœ”)
+2026-08-10 11:00:30,333 - INFO - ðŸ›¡ðŸŽ£ NEARUSDT SL STOP-HUNT (opsi 2) @ 1.62308 â€” di luar zona sweep kolam terdekat
+2026-08-10 11:00:30,333 - INFO - âŠ˜ NEARUSDT level tidak valid (px 1.6098 sl 1.62308 tp 1.61368)
+2026-08-10 11:00:30,802 - INFO - â—ˆ ENAUSDT sinyal MR Sell @ 0.08716 | swingVWAP 0.0881307 (bawah, searah âœ”)
+2026-08-10 11:00:30,812 - INFO - ðŸ›¡ðŸŽ£ ENAUSDT SL STOP-HUNT (opsi 2) @ 0.0887618 â€” di luar zona sweep kolam terdekat
+2026-08-10 11:00:30,812 - INFO - âŠ˜ ENAUSDT TP terlalu dekat (0.110% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 11:01:03,522 - INFO - â—ˆ BLESSUSDT sinyal MR Buy @ 0.012013 | swingVWAP 0.0129127 (bawah, beda sisi âš )
+2026-08-10 11:01:03,531 - INFO - ðŸ›¡ðŸŽ£ BLESSUSDT SL STOP-HUNT (opsi 2) @ 0.0113563 â€” di luar zona sweep kolam terdekat
+2026-08-10 11:01:03,531 - INFO - âŠ˜ BLESSUSDT level tidak valid (px 0.012007 sl 0.0113563 tp 0.0119416)
+2026-08-10 11:01:04,642 - INFO - â—ˆ SKYAI1USDT sinyal MR Sell @ 0.10727 | swingVWAP 0.100751 (atas, beda sisi âš )
+2026-08-10 11:01:04,659 - INFO - SKYAI1USDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 11:01:04,667 - INFO - ðŸ§¯ SKYAI1USDT RISK CAP 15% saldo ($1.38) â€” risiko $5.12 â†’ margin $2.43
+2026-08-10 11:01:05,730 - INFO - â–¼ SHORT SKYAI1USDT [MR] @ 0.10705 10x TP 0.100599 SL 0.113262 m $2.43
+2026-08-10 11:01:06,887 - INFO - â—ˆ CLUSDT sinyal MR Sell @ 78.56 | swingVWAP 78.253 (atas, beda sisi âš )
+2026-08-10 11:01:06,887 - INFO - âŠ˜ CLUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 11:01:07,561 - INFO - â—ˆ TSLAUSDT sinyal MR Sell @ 331.1 | swingVWAP 330.9 (atas, beda sisi âš )
+2026-08-10 11:01:07,561 - INFO - âŠ˜ TSLAUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 11:01:08,461 - INFO - â—ˆ USUSDT sinyal MR Sell @ 0.045798 | swingVWAP 0.0451887 (atas, beda sisi âš )
+2026-08-10 11:01:08,462 - INFO - âŠ˜ USUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 11:01:44,212 - INFO - â—ˆ TRUMPUSDT sinyal MR Sell @ 1.489 | swingVWAP 1.50781 (bawah, searah âœ”)
+2026-08-10 11:01:44,212 - INFO - âŠ˜ TRUMPUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 11:01:44,444 - INFO - â—ˆ ARBUSDT sinyal MR Sell @ 0.07836 | swingVWAP 0.0784881 (bawah, searah âœ”)
+2026-08-10 11:01:44,445 - INFO - âŠ˜ ARBUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 11:01:44,703 - INFO - â—ˆ ESPORTSUSDT sinyal MR Sell @ 0.017703 | swingVWAP 0.0178847 (bawah, searah âœ”)
+2026-08-10 11:01:44,703 - INFO - âŠ˜ ESPORTSUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 11:01:46,002 - INFO - â—ˆ LITUSDT sinyal MR Sell @ 2.3292 | swingVWAP 2.32424 (atas, beda sisi âš )
+2026-08-10 11:01:46,002 - INFO - âŠ˜ LITUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 12:00:36,182 - INFO - â—ˆ TUTUSDT sinyal MR Sell @ 0.192477 | swingVWAP 0.182475 (atas, beda sisi âš )
+2026-08-10 12:00:36,182 - INFO - âŠ˜ TUTUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 12:01:12,422 - INFO - â—ˆ SOXLUSDT sinyal MR Sell @ 141.82 | swingVWAP 141.514 (atas, beda sisi âš )
+2026-08-10 12:01:12,422 - INFO - âŠ˜ SOXLUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 12:01:46,036 - INFO - â—ˆ ONDOUSDT sinyal MR Buy @ 0.3501 | swingVWAP 0.3515 (bawah, beda sisi âš )
+2026-08-10 12:01:46,036 - INFO - âŠ˜ ONDOUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 12:01:48,429 - INFO - â—ˆ XLMUSDT sinyal MR Buy @ 0.16305 | swingVWAP 0.163264 (bawah, beda sisi âš )
+2026-08-10 12:01:48,429 - INFO - âŠ˜ XLMUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 12:37:54,674 - INFO - ðŸš¨ BLUAIUSDT POSISI TANPA SL! Dipasang ulang @ 0.0164926 (1.5xATR)
+2026-08-10 12:40:58,170 - INFO - â–  BLUAIUSDT MR ditutup â€” PnL -1.14$ (ROI -41.1%)
+2026-08-10 12:44:00,145 - INFO - ðŸŒ SYMBOLS diperbarui: 86 kontrak (+8 baru, turnover â‰¥ $5jt)
+2026-08-10 12:48:53,568 - INFO - ðŸ‘ BLUAIUSDT posisi diadopsi (restart) â€” risk0 0.001509
+2026-08-10 13:00:28,188 - INFO - â—ˆ SPCXUSDT sinyal MR Buy @ 134.78 | swingVWAP 135.372 (bawah, beda sisi âš )
+2026-08-10 13:00:28,188 - INFO - âŠ˜ SPCXUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:00:28,647 - INFO - â—ˆ SKHYNIXUSDT sinyal MR Buy @ 1004.39 | swingVWAP 1020.91 (bawah, beda sisi âš )
+2026-08-10 13:00:28,647 - INFO - âŠ˜ SKHYNIXUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:00:30,132 - INFO - â—ˆ BNBUSDT sinyal MR Buy @ 602.7 | swingVWAP 606.454 (bawah, beda sisi âš )
+2026-08-10 13:00:30,132 - INFO - âŠ˜ BNBUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:00:31,646 - INFO - â—ˆ KORUUSDT sinyal MR Buy @ 16.92 | swingVWAP 17.1933 (bawah, beda sisi âš )
+2026-08-10 13:00:31,646 - INFO - âŠ˜ KORUUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:01:05,875 - INFO - â—ˆ SNDKUSDT sinyal MR Buy @ 1222.55 | swingVWAP 1222.34 (atas, searah âœ”)
+2026-08-10 13:01:05,875 - INFO - âŠ˜ SNDKUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:01:08,009 - INFO - â—ˆ MUUSDT sinyal MR Buy @ 879.05 | swingVWAP 878.936 (atas, searah âœ”)
+2026-08-10 13:01:08,009 - INFO - âŠ˜ MUUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:01:08,676 - INFO - â—ˆ HOMEUSDT sinyal MR Sell @ 0.009721 | swingVWAP 0.00926225 (atas, beda sisi âš )
+2026-08-10 13:01:08,676 - INFO - âŠ˜ HOMEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:01:08,907 - INFO - â—ˆ SNXXUSDT sinyal MR Buy @ 9.2 | swingVWAP 9.21236 (bawah, beda sisi âš )
+2026-08-10 13:01:08,907 - INFO - âŠ˜ SNXXUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:01:41,836 - INFO - â—ˆ INJUSDT sinyal MR Sell @ 4.42 | swingVWAP 4.38456 (atas, beda sisi âš )
+2026-08-10 13:01:41,836 - INFO - âŠ˜ INJUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:01:42,699 - INFO - â—ˆ CATIUSDT sinyal MR Buy @ 0.04544 | swingVWAP 0.0501256 (bawah, beda sisi âš )
+2026-08-10 13:01:42,699 - INFO - âŠ˜ CATIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:01:43,990 - INFO - â—ˆ DOTUSDT sinyal MR Sell @ 0.8097 | swingVWAP 0.810869 (bawah, searah âœ”)
+2026-08-10 13:01:43,990 - INFO - âŠ˜ DOTUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 13:09:34,735 - INFO - â–  SKYAI1USDT MR ditutup â€” PnL +0.23$ (ROI +9.5%)
+2026-08-10 13:25:54,684 - INFO - â–  BTWUSDT MR ditutup â€” PnL +1.52$ (ROI +42.8%)
+2026-08-10 14:00:04,857 - INFO - â—ˆ BLUAIUSDT sinyal MR Buy @ 0.015263 | swingVWAP 0.0181078 (bawah, beda sisi âš )
+2026-08-10 14:00:08,196 - INFO - â—ˆ TSLAUSDT sinyal MR Sell @ 331.63 | swingVWAP 330.988 (atas, beda sisi âš )
+2026-08-10 14:00:08,202 - INFO - ðŸ›¡ðŸŽ£ TSLAUSDT SL STOP-HUNT (opsi 2) @ 333.228 â€” di luar zona sweep kolam terdekat
+2026-08-10 14:00:08,202 - INFO - âŠ˜ TSLAUSDT TP terlalu dekat (0.222% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 14:00:42,212 - INFO - â—ˆ APTUSDT sinyal MR Sell @ 0.5987 | swingVWAP 0.596444 (atas, beda sisi âš )
+2026-08-10 14:00:42,219 - INFO - ðŸ›¡ðŸŽ£ APTUSDT SL STOP-HUNT (opsi 2) @ 0.604715 â€” di luar zona sweep kolam terdekat
+2026-08-10 14:00:42,226 - INFO - ðŸ§¯ APTUSDT RISK CAP 15% saldo ($1.40) â€” risiko $2.26 â†’ margin $5.57
+2026-08-10 14:00:43,284 - INFO - â–¼ SHORT APTUSDT [MR] @ 0.5987 25x TP 0.594517 SL 0.604715 m $5.57
+2026-08-10 14:00:48,206 - INFO - â—ˆ SOXLUSDT sinyal MR Sell @ 144.05 | swingVWAP 141.849 (atas, beda sisi âš )
+2026-08-10 14:00:48,213 - INFO - ðŸ›¡ðŸŽ£ SOXLUSDT SL STOP-HUNT (opsi 2) @ 146.218 â€” di luar zona sweep kolam terdekat
+2026-08-10 14:00:48,220 - INFO - ðŸ§¯ SOXLUSDT RISK CAP 15% saldo ($1.40) â€” risiko $2.93 â†’ margin $4.31
+2026-08-10 14:00:48,236 - ERROR - âœ˜ SOXLUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 07:00:48).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "SOXLUSDT", "side": "Sell", "orderType": "Market", "qty": "0.74", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 14:01:20,088 - INFO - â—ˆ CYSUSDT sinyal MR Buy @ 0.942 | swingVWAP 0.961862 (bawah, beda sisi âš )
+2026-08-10 14:01:20,094 - INFO - CYSUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 14:01:20,101 - INFO - ðŸ§¯ CYSUSDT RISK CAP 15% saldo ($1.42) â€” risiko $5.68 â†’ margin $2.24
+2026-08-10 14:01:20,124 - ERROR - âœ˜ CYSUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 07:01:20).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "CYSUSDT", "side": "Buy", "orderType": "Market", "qty": "19.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 14:01:23,342 - INFO - â—ˆ SKHYUSDT sinyal MR Buy @ 138.12 | swingVWAP 139.24 (bawah, beda sisi âš )
+2026-08-10 14:01:23,351 - INFO - ðŸ›¡ðŸŽ£ SKHYUSDT SL STOP-HUNT (opsi 2) @ 137.164 â€” di luar zona sweep kolam terdekat
+2026-08-10 14:01:23,360 - INFO - ðŸ§¯ SKHYUSDT RISK CAP 15% saldo ($1.42) â€” risiko $1.52 â†’ margin $8.36
+2026-08-10 14:01:23,383 - ERROR - âœ˜ SKHYUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 07:01:23).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "SKHYUSDT", "side": "Buy", "orderType": "Market", "qty": "1.51", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 14:01:24,291 - INFO - â—ˆ CLUSDT sinyal MR Buy @ 77.73 | swingVWAP 78.2143 (bawah, beda sisi âš )
+2026-08-10 14:01:24,300 - INFO - ðŸ›¡ðŸŽ£ CLUSDT SL STOP-HUNT (opsi 2) @ 77.4339 â€” di luar zona sweep kolam terdekat
+2026-08-10 14:01:24,308 - INFO - ðŸ§¯ CLUSDT RISK CAP 15% saldo ($1.42) â€” risiko $1.55 â†’ margin $8.24
+2026-08-10 14:01:24,330 - ERROR - âœ˜ CLUSDT gagal entry: You must agree to the Crude Oil Trading Terms before trading this contract. (ErrCode: 110125) (ErrTime: 07:01:24).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "CLUSDT", "side": "Buy", "orderType": "Market", "qty": "2.64", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 15:00:08,717 - INFO - â—ˆ BTCUSDT sinyal MR Sell @ 65183.8 | swingVWAP 65061.3 (atas, beda sisi âš )
+2026-08-10 15:00:08,725 - INFO - ðŸ›¡ðŸŽ£ BTCUSDT SL STOP-HUNT (opsi 2) @ 65424.4 â€” di luar zona sweep kolam terdekat
+2026-08-10 15:00:08,725 - INFO - âŠ˜ BTCUSDT TP terlalu dekat (0.155% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 15:00:08,959 - INFO - â—ˆ ETHUSDT sinyal MR Sell @ 1924.47 | swingVWAP 1919.39 (atas, beda sisi âš )
+2026-08-10 15:00:08,967 - INFO - ðŸ›¡ðŸŽ£ ETHUSDT SL STOP-HUNT (opsi 2) @ 1932.16 â€” di luar zona sweep kolam terdekat
+2026-08-10 15:00:08,967 - INFO - âŠ˜ ETHUSDT TP terlalu dekat (0.268% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 15:00:09,229 - INFO - â—ˆ SOLUSDT sinyal MR Sell @ 76.95 | swingVWAP 76.7071 (atas, beda sisi âš )
+2026-08-10 15:00:09,237 - INFO - ðŸ›¡ðŸŽ£ SOLUSDT SL STOP-HUNT (opsi 2) @ 77.8712 â€” di luar zona sweep kolam terdekat
+2026-08-10 15:00:09,237 - INFO - âŠ˜ SOLUSDT TP terlalu dekat (0.334% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 15:00:09,677 - INFO - â—ˆ XAUUSDT sinyal MR Sell @ 4356.45 | swingVWAP 4340.81 (atas, beda sisi âš )
+2026-08-10 15:00:09,686 - INFO - ðŸ›¡ðŸŽ£ XAUUSDT SL STOP-HUNT (opsi 2) @ 4370.48 â€” di luar zona sweep kolam terdekat
+2026-08-10 15:00:09,696 - INFO - âŠ˜ XAUUSDT saldo tidak cukup
+2026-08-10 15:00:10,169 - INFO - â—ˆ DOGEUSDT sinyal MR Sell @ 0.06999 | swingVWAP 0.0699809 (atas, beda sisi âš )
+2026-08-10 15:00:10,178 - INFO - ðŸ›¡ðŸŽ£ DOGEUSDT SL STOP-HUNT (opsi 2) @ 0.0705994 â€” di luar zona sweep kolam terdekat
+2026-08-10 15:00:10,186 - INFO - ðŸ§¯ DOGEUSDT RISK CAP 15% saldo ($1.42) â€” risiko $1.96 â†’ margin $6.54
+2026-08-10 15:00:10,219 - ERROR - âœ˜ DOGEUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 08:00:10).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "DOGEUSDT", "side": "Sell", "orderType": "Market", "qty": "2336.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 15:00:11,308 - INFO - â—ˆ SPCXUSDT sinyal MR Sell @ 135.78 | swingVWAP 135.389 (atas, beda sisi âš )
+2026-08-10 15:00:11,318 - INFO - ðŸ›¡ðŸŽ£ SPCXUSDT SL STOP-HUNT (opsi 2) @ 137.677 â€” di luar zona sweep kolam terdekat
+2026-08-10 15:00:11,318 - INFO - âŠ˜ SPCXUSDT TP terlalu dekat (0.237% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 15:00:46,565 - INFO - â—ˆ XAUTUSDT sinyal MR Sell @ 4332.9 | swingVWAP 4317.82 (atas, beda sisi âš )
+2026-08-10 15:00:46,574 - INFO - XAUTUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 15:00:46,582 - INFO - âŠ˜ XAUTUSDT saldo tidak cukup
+2026-08-10 15:00:46,833 - INFO - â—ˆ ACEUSDT sinyal MR Buy @ 0.12008 | swingVWAP 0.122655 (bawah, beda sisi âš )
+2026-08-10 15:00:46,841 - INFO - ðŸ›¡ðŸŽ£ ACEUSDT SL STOP-HUNT (opsi 2) @ 0.115344 â€” di luar zona sweep kolam terdekat
+2026-08-10 15:00:46,841 - INFO - âŠ˜ ACEUSDT level tidak valid (px 0.12039 sl 0.115344 tp 0.117933)
+2026-08-10 15:00:48,569 - INFO - â—ˆ ONDOUSDT sinyal MR Sell @ 0.3524 | swingVWAP 0.351599 (atas, beda sisi âš )
+2026-08-10 15:00:48,578 - INFO - ðŸ›¡ðŸŽ£ ONDOUSDT SL STOP-HUNT (opsi 2) @ 0.356454 â€” di luar zona sweep kolam terdekat
+2026-08-10 15:00:48,578 - INFO - âŠ˜ ONDOUSDT TP terlalu dekat (0.305% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 15:01:59,024 - INFO - â—ˆ XRPUSDT sinyal MR Sell @ 1.0369 | swingVWAP 1.036 (atas, beda sisi âš )
+2026-08-10 15:01:59,034 - INFO - ðŸ›¡ðŸŽ£ XRPUSDT SL STOP-HUNT (opsi 2) @ 1.04271 â€” di luar zona sweep kolam terdekat
+2026-08-10 15:01:59,042 - INFO - âŠ˜ XRPUSDT saldo tidak cukup
+2026-08-10 15:01:59,481 - INFO - â—ˆ HYPEUSDT sinyal MR Sell @ 54.759 | swingVWAP 54.3588 (atas, beda sisi âš )
+2026-08-10 15:01:59,489 - INFO - ðŸ›¡ðŸŽ£ HYPEUSDT SL STOP-HUNT (opsi 2) @ 55.1216 â€” di luar zona sweep kolam terdekat
+2026-08-10 15:01:59,498 - INFO - âŠ˜ HYPEUSDT saldo tidak cukup
+2026-08-10 15:07:25,383 - INFO - â–  BLUAIUSDT ADOPT ditutup â€” PnL +0.47$ (ROI +23.4%)
+2026-08-10 15:09:55,916 - INFO - ðŸ‘ BLUAIUSDT posisi diadopsi (restart) â€” risk0 0.0012
+2026-08-10 16:00:13,254 - INFO - â—ˆ XLMUSDT sinyal MR Sell @ 0.16475 | swingVWAP 0.163435 (atas, beda sisi âš )
+2026-08-10 16:00:13,263 - INFO - ðŸ›¡ðŸŽ£ XLMUSDT SL STOP-HUNT (opsi 2) @ 0.165719 â€” di luar zona sweep kolam terdekat
+2026-08-10 16:00:13,279 - INFO - âŠ˜ XLMUSDT saldo tidak cukup
+2026-08-10 16:00:15,210 - INFO - â—ˆ SNXXUSDT sinyal MR Sell @ 9.3 | swingVWAP 9.22977 (atas, beda sisi âš )
+2026-08-10 16:00:15,219 - INFO - ðŸ›¡ðŸŽ£ SNXXUSDT SL STOP-HUNT (opsi 2) @ 9.48122 â€” di luar zona sweep kolam terdekat
+2026-08-10 16:00:15,228 - INFO - ðŸ§¯ SNXXUSDT RISK CAP 15% saldo ($1.48) â€” risiko $4.63 â†’ margin $2.87
+2026-08-10 16:00:15,268 - ERROR - âœ˜ SNXXUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 09:00:15).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "SNXXUSDT", "side": "Sell", "orderType": "Market", "qty": "7.72", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 16:00:16,129 - INFO - â—ˆ CRVUSDT sinyal MR Buy @ 0.2382 | swingVWAP 0.239678 (bawah, beda sisi âš )
+2026-08-10 16:00:16,140 - INFO - ðŸ›¡ðŸŽ£ CRVUSDT SL STOP-HUNT (opsi 2) @ 0.234131 â€” di luar zona sweep kolam terdekat
+2026-08-10 16:00:16,148 - INFO - ðŸ§¯ CRVUSDT RISK CAP 15% saldo ($1.48) â€” risiko $3.84 â†’ margin $3.45
+2026-08-10 16:00:16,172 - ERROR - âœ˜ CRVUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 09:00:16).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "CRVUSDT", "side": "Buy", "orderType": "Market", "qty": "362.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 16:01:28,262 - INFO - â—ˆ XMRUSDT sinyal MR Buy @ 394.09 | swingVWAP 397.457 (bawah, beda sisi âš )
+2026-08-10 16:01:28,270 - INFO - ðŸ›¡ðŸŽ£ XMRUSDT SL STOP-HUNT (opsi 2) @ 387.312 â€” di luar zona sweep kolam terdekat
+2026-08-10 16:01:28,279 - INFO - ðŸ§¯ XMRUSDT RISK CAP 15% saldo ($1.48) â€” risiko $3.77 â†’ margin $3.52
+2026-08-10 16:01:28,299 - ERROR - âœ˜ XMRUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 09:01:28).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "XMRUSDT", "side": "Buy", "orderType": "Market", "qty": "0.22", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 16:02:03,205 - INFO - â—ˆ SNDKUSDT sinyal MR Sell @ 1228.26 | swingVWAP 1223.74 (atas, beda sisi âš )
+2026-08-10 16:02:03,218 - INFO - ðŸ›¡ðŸŽ£ SNDKUSDT SL STOP-HUNT (opsi 2) @ 1232.72 â€” di luar zona sweep kolam terdekat
+2026-08-10 16:02:03,218 - INFO - âŠ˜ SNDKUSDT TP terlalu dekat (0.266% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 16:11:44,420 - INFO - â–  APTUSDT MR ditutup â€” PnL +0.63$ (ROI +11.3%)
+2026-08-10 17:00:21,639 - INFO - â—ˆ SPCXUSDT sinyal MR Sell @ 136.19 | swingVWAP 135.586 (atas, beda sisi âš )
+2026-08-10 17:00:21,650 - INFO - ðŸ›¡ðŸŽ£ SPCXUSDT SL STOP-HUNT (opsi 2) @ 137.698 â€” di luar zona sweep kolam terdekat
+2026-08-10 17:00:21,658 - INFO - ðŸ§¯ SPCXUSDT RISK CAP 15% saldo ($1.45) â€” risiko $2.29 â†’ margin $5.70
+2026-08-10 17:00:22,717 - INFO - â–¼ SHORT SPCXUSDT [MR] @ 136.3 25x TP 135.399 SL 137.698 m $5.7
+2026-08-10 17:01:03,080 - INFO - â—ˆ MUUSDT sinyal MR Sell @ 878.29 | swingVWAP 879.728 (bawah, searah âœ”)
+2026-08-10 17:01:03,088 - INFO - ðŸ›¡ðŸŽ£ MUUSDT SL STOP-HUNT (opsi 2) @ 884.993 â€” di luar zona sweep kolam terdekat
+2026-08-10 17:01:03,088 - INFO - âŠ˜ MUUSDT level tidak valid (px 876.9 sl 884.993 tp 879.626)
+2026-08-10 17:01:04,554 - INFO - â—ˆ TRUMPUSDT sinyal MR Sell @ 1.493 | swingVWAP 1.506 (bawah, searah âœ”)
+2026-08-10 17:01:04,561 - INFO - ðŸ›¡ðŸŽ£ TRUMPUSDT SL STOP-HUNT (opsi 2) @ 1.50934 â€” di luar zona sweep kolam terdekat
+2026-08-10 17:01:04,561 - INFO - âŠ˜ TRUMPUSDT level tidak valid (px 1.493 sl 1.50934 tp 1.49431)
+2026-08-10 18:00:23,087 - INFO - â—ˆ GRVTUSDT sinyal TC Buy @ 0.37382 | swingVWAP 0.36185 (atas, searah âœ”)
+2026-08-10 18:00:23,095 - INFO - GRVTUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 18:00:23,104 - INFO - ðŸ§¯ GRVTUSDT RISK CAP 15% saldo ($1.37) â€” risiko $5.79 â†’ margin $2.12
+2026-08-10 18:00:23,135 - ERROR - âœ˜ GRVTUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 11:00:23).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "GRVTUSDT", "side": "Buy", "orderType": "Market", "qty": "56.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 18:00:24,880 - INFO - â—ˆ ESPUSDT sinyal MR Buy @ 0.07204 | swingVWAP 0.0743075 (bawah, beda sisi âš )
+2026-08-10 18:00:24,889 - INFO - ðŸ›¡ðŸŽ£ ESPUSDT SL STOP-HUNT (opsi 2) @ 0.0689168 â€” di luar zona sweep kolam terdekat
+2026-08-10 18:00:24,897 - INFO - ðŸ§¯ ESPUSDT RISK CAP 15% saldo ($1.37) â€” risiko $5.80 â†’ margin $2.12
+2026-08-10 18:00:24,915 - ERROR - âœ˜ ESPUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 11:00:24).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "ESPUSDT", "side": "Buy", "orderType": "Market", "qty": "440.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 18:00:26,221 - INFO - â—ˆ 1000RATSUSDT sinyal MR Buy @ 0.0434 | swingVWAP 0.0452722 (bawah, beda sisi âš )
+2026-08-10 18:00:26,231 - INFO - ðŸ›¡ðŸŽ£ 1000RATSUSDT SL STOP-HUNT (opsi 2) @ 0.042541 â€” di luar zona sweep kolam terdekat
+2026-08-10 18:00:26,239 - INFO - ðŸ§¯ 1000RATSUSDT RISK CAP 15% saldo ($1.37) â€” risiko $3.64 â†’ margin $3.37
+2026-08-10 18:00:26,257 - ERROR - âœ˜ 1000RATSUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 11:00:26).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "1000RATSUSDT", "side": "Buy", "orderType": "Market", "qty": "1550.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 18:00:27,142 - INFO - â—ˆ WLFIUSDT sinyal TC Sell @ 0.05297 | swingVWAP 0.0530262 (bawah, searah âœ”)
+2026-08-10 18:00:27,150 - INFO - ðŸ›¡ðŸŽ£ WLFIUSDT SL STOP-HUNT (opsi 2) @ 0.0534442 â€” di luar zona sweep kolam terdekat
+2026-08-10 18:00:27,150 - INFO - âŠ˜ WLFIUSDT TP terlalu dekat (0.336% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 18:00:59,676 - INFO - â—ˆ BMTUSDT sinyal MR Buy @ 0.028892 | swingVWAP 0.030501 (bawah, beda sisi âš )
+2026-08-10 18:00:59,684 - INFO - BMTUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 18:00:59,699 - INFO - ðŸ§¯ BMTUSDT RISK CAP 15% saldo ($1.43) â€” risiko $3.82 â†’ margin $3.36
+2026-08-10 18:00:59,729 - ERROR - âœ˜ BMTUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 11:00:59).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "BMTUSDT", "side": "Buy", "orderType": "Market", "qty": "584.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 18:01:02,113 - INFO - â—ˆ 1000PEPEUSDT sinyal MR Buy @ 0.002878 | swingVWAP 0.0028963 (bawah, beda sisi âš )
+2026-08-10 18:01:02,122 - INFO - ðŸ›¡ðŸŽ£ 1000PEPEUSDT SL STOP-HUNT (opsi 2) @ 0.00285388 â€” di luar zona sweep kolam terdekat
+2026-08-10 18:01:02,130 - INFO - ðŸ§¯ 1000PEPEUSDT RISK CAP 15% saldo ($1.43) â€” risiko $1.65 â†’ margin $7.77
+2026-08-10 18:01:02,151 - ERROR - âœ˜ 1000PEPEUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 11:01:02).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "1000PEPEUSDT", "side": "Buy", "orderType": "Market", "qty": "67500.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 18:01:39,384 - INFO - â—ˆ UNIUSDT sinyal MR Buy @ 4.011 | swingVWAP 4.03677 (bawah, beda sisi âš )
+2026-08-10 18:01:39,392 - INFO - ðŸ›¡ðŸŽ£ UNIUSDT SL STOP-HUNT (opsi 2) @ 3.97908 â€” di luar zona sweep kolam terdekat
+2026-08-10 18:01:39,399 - INFO - ðŸ§¯ UNIUSDT RISK CAP 15% saldo ($1.43) â€” risiko $1.79 â†’ margin $7.17
+2026-08-10 18:01:39,417 - ERROR - âœ˜ UNIUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 11:01:39).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "UNIUSDT", "side": "Buy", "orderType": "Market", "qty": "44.6", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 18:31:18,232 - INFO - â–  SPCXUSDT MR ditutup â€” PnL -1.25$ (ROI -21.9%)
+2026-08-10 18:44:32,844 - INFO - ðŸŒ SYMBOLS diperbarui: 89 kontrak (+9 baru, turnover â‰¥ $5jt)
+2026-08-10 19:00:12,925 - INFO - â—ˆ CATIUSDT sinyal MR Buy @ 0.0441 | swingVWAP 0.0450938 (bawah, beda sisi âš )
+2026-08-10 19:00:12,934 - INFO - ðŸ›¡ðŸŽ£ CATIUSDT SL STOP-HUNT (opsi 2) @ 0.0422204 â€” di luar zona sweep kolam terdekat
+2026-08-10 19:00:12,942 - INFO - ðŸ§¯ CATIUSDT RISK CAP 15% saldo ($1.22) â€” risiko $5.67 â†’ margin $1.94
+2026-08-10 19:00:13,992 - INFO - â–² LONG CATIUSDT [MR] @ 0.04409 15x TP 0.0452031 SL 0.0422204 m $1.94
+2026-08-10 19:00:15,538 - ERROR - Too many visits. Exceeded the API Rate Limit. (ErrCode: 10006). Hit the API rate limit on https://api.bybit.com/v5/market/kline?category=linear&interval=60&limit=500&symbol=XPLUSDT. Sleeping then trying again.
+2026-08-10 19:00:15,538 - ERROR - API rate limit will reset at 20:00:17.538. Sleeping for 2000 ms. Retrying...
+2026-08-10 19:00:18,492 - INFO - â—ˆ SQDUSDT sinyal TC Buy @ 0.04259 | swingVWAP 0.0417676 (atas, searah âœ”)
+2026-08-10 19:00:18,492 - INFO - â›” SQDUSDT volatilitas ekstrem (ATR 3.0x > 2.5x) â€” entry dilewati
+2026-08-10 19:00:19,734 - ERROR - Too many visits. Exceeded the API Rate Limit. (ErrCode: 10006). Hit the API rate limit on https://api.bybit.com/v5/market/kline?category=linear&interval=60&limit=500&symbol=BMTUSDT. Sleeping then trying again.
+2026-08-10 19:00:19,734 - ERROR - API rate limit will reset at 20:00:21.734. Sleeping for 2000 ms. Retrying...
+2026-08-10 19:00:58,548 - INFO - â—ˆ BNBUSDT sinyal MR Sell @ 604.9 | swingVWAP 606.168 (bawah, searah âœ”)
+2026-08-10 19:00:58,556 - INFO - ðŸ›¡ðŸŽ£ BNBUSDT SL STOP-HUNT (opsi 2) @ 612.42 â€” di luar zona sweep kolam terdekat
+2026-08-10 19:00:58,557 - INFO - âŠ˜ BNBUSDT TP terlalu dekat (0.210% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 19:01:32,594 - INFO - â—ˆ MMTUSDT sinyal MR Sell @ 0.21096 | swingVWAP 0.215245 (bawah, searah âœ”)
+2026-08-10 19:01:32,602 - INFO - ðŸ›¡ðŸŽ£ MMTUSDT SL STOP-HUNT (opsi 2) @ 0.218286 â€” di luar zona sweep kolam terdekat
+2026-08-10 19:01:32,611 - INFO - ðŸ§¯ MMTUSDT RISK CAP 15% saldo ($1.21) â€” risiko $5.62 â†’ margin $1.94
+2026-08-10 19:01:33,666 - INFO - â–¼ SHORT MMTUSDT [MR] @ 0.21251 23x TP 0.207089 SL 0.218286 m $1.94
+2026-08-10 19:02:09,167 - INFO - â—ˆ HOMEUSDT sinyal TC Buy @ 0.00963 | swingVWAP 0.00935857 (atas, searah âœ”)
+2026-08-10 19:02:09,167 - INFO - âŠ˜ HOMEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:00:21,565 - INFO - â—ˆ SOLUSDT sinyal MR Sell @ 76.61 | swingVWAP 76.6889 (bawah, searah âœ”)
+2026-08-10 20:00:21,565 - INFO - âŠ˜ SOLUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:00:26,127 - INFO - â—ˆ ACEUSDT sinyal TC Sell @ 0.11622 | swingVWAP 0.122147 (bawah, searah âœ”)
+2026-08-10 20:00:26,127 - INFO - âŠ˜ ACEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:00:58,536 - INFO - â—ˆ WIFUSDT sinyal MR Sell @ 0.14412 | swingVWAP 0.143231 (atas, beda sisi âš )
+2026-08-10 20:00:58,536 - INFO - âŠ˜ WIFUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:00:58,777 - INFO - â—ˆ USUSDT sinyal MR Buy @ 0.042113 | swingVWAP 0.0450103 (bawah, beda sisi âš )
+2026-08-10 20:00:58,777 - INFO - âŠ˜ USUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:00:59,041 - INFO - â—ˆ BLESSUSDT sinyal MR Sell @ 0.013285 | swingVWAP 0.0124075 (atas, beda sisi âš )
+2026-08-10 20:00:59,041 - INFO - âŠ˜ BLESSUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:01:01,665 - INFO - â—ˆ GWEIUSDT sinyal TC Buy @ 0.02565 | swingVWAP 0.0238773 (atas, searah âœ”)
+2026-08-10 20:01:01,665 - INFO - âŠ˜ GWEIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:01:02,975 - INFO - â—ˆ CRVUSDT sinyal MR Sell @ 0.243 | swingVWAP 0.240117 (atas, beda sisi âš )
+2026-08-10 20:01:02,975 - INFO - âŠ˜ CRVUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:01:36,441 - INFO - â—ˆ SQDUSDT sinyal TC Buy @ 0.04279 | swingVWAP 0.0417492 (atas, searah âœ”)
+2026-08-10 20:01:36,441 - INFO - âŠ˜ SQDUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:01:38,653 - INFO - â—ˆ DOGEUSDT sinyal TC Buy @ 0.06981 | swingVWAP 0.0697789 (atas, searah âœ”)
+2026-08-10 20:01:38,653 - INFO - âŠ˜ DOGEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:01:39,307 - INFO - â—ˆ WLDUSDT sinyal TC Buy @ 0.3391 | swingVWAP 0.334047 (atas, searah âœ”)
+2026-08-10 20:01:39,307 - INFO - âŠ˜ WLDUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:01:39,581 - INFO - â—ˆ SPCXUSDT sinyal MR Sell @ 134.34 | swingVWAP 135.741 (bawah, searah âœ”)
+2026-08-10 20:01:39,581 - INFO - âŠ˜ SPCXUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:02:13,056 - INFO - â—ˆ SUIUSDT sinyal TC Buy @ 0.6923 | swingVWAP 0.691454 (atas, searah âœ”)
+2026-08-10 20:02:13,056 - INFO - âŠ˜ SUIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-10 20:40:09,418 - INFO - â–  MMTUSDT MR ditutup â€” PnL -0.94$ (ROI -48.3%)
+2026-08-10 21:00:10,547 - INFO - â—ˆ BROCCOLIUSDT sinyal TC Sell @ 0.018412 | swingVWAP 0.0198129 (bawah, searah âœ”)
+2026-08-10 21:00:10,554 - INFO - BROCCOLIUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 21:00:10,561 - INFO - ðŸ§¯ BROCCOLIUSDT RISK CAP 15% saldo ($0.91) â€” risiko $5.89 â†’ margin $1.39
+2026-08-10 21:00:10,593 - ERROR - âœ˜ BROCCOLIUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 14:00:10).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "BROCCOLIUSDT", "side": "Sell", "orderType": "Market", "qty": "453.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 21:00:11,476 - INFO - â—ˆ DRAMUSDT sinyal TC Sell @ 50.25 | swingVWAP 50.2637 (bawah, searah âœ”)
+2026-08-10 21:00:11,483 - INFO - ðŸ›¡ðŸŽ£ DRAMUSDT SL STOP-HUNT (opsi 2) @ 51.0068 â€” di luar zona sweep kolam terdekat
+2026-08-10 21:00:11,490 - INFO - ðŸ§¯ DRAMUSDT RISK CAP 15% saldo ($0.91) â€” risiko $2.71 â†’ margin $3.03
+2026-08-10 21:00:11,521 - ERROR - âœ˜ DRAMUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 14:00:11).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "DRAMUSDT", "side": "Sell", "orderType": "Market", "qty": "1.2", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 21:00:14,255 - INFO - â—ˆ SQDUSDT sinyal TC Buy @ 0.04408 | swingVWAP 0.0419752 (atas, searah âœ”)
+2026-08-10 21:00:14,255 - INFO - â›” SQDUSDT volatilitas ekstrem (ATR 3.1x > 2.5x) â€” entry dilewati
+2026-08-10 21:00:47,156 - INFO - â—ˆ ZECUSDT sinyal MR Buy @ 506.46 | swingVWAP 515.473 (bawah, beda sisi âš )
+2026-08-10 21:00:47,165 - INFO - ðŸ›¡ðŸŽ£ ZECUSDT SL STOP-HUNT (opsi 2) @ 501.854 â€” di luar zona sweep kolam terdekat
+2026-08-10 21:00:47,165 - INFO - âŠ˜ ZECUSDT TP terlalu dekat (0.221% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 21:00:48,237 - INFO - â—ˆ WLDUSDT sinyal TC Buy @ 0.3427 | swingVWAP 0.334322 (atas, searah âœ”)
+2026-08-10 21:00:48,245 - INFO - WLDUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 21:00:48,252 - INFO - ðŸ§¯ WLDUSDT RISK CAP 15% saldo ($0.91) â€” risiko $5.58 â†’ margin $1.47
+2026-08-10 21:00:48,277 - ERROR - âœ˜ WLDUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 14:00:48).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "WLDUSDT", "side": "Buy", "orderType": "Market", "qty": "85.7", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 21:00:50,179 - INFO - â—ˆ ENAUSDT sinyal TC Buy @ 0.08958 | swingVWAP 0.0891215 (atas, searah âœ”)
+2026-08-10 21:00:50,186 - INFO - ðŸ›¡ðŸŽ£ ENAUSDT SL STOP-HUNT (opsi 2) @ 0.0885968 â€” di luar zona sweep kolam terdekat
+2026-08-10 21:00:50,193 - INFO - ðŸ§¯ ENAUSDT RISK CAP 15% saldo ($0.91) â€” risiko $2.72 â†’ margin $3.02
+2026-08-10 21:00:50,209 - ERROR - âœ˜ ENAUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 14:00:50).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "ENAUSDT", "side": "Buy", "orderType": "Market", "qty": "841.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 21:01:26,096 - INFO - â—ˆ MUUSDT sinyal MR Buy @ 881.15 | swingVWAP 875.066 (atas, searah âœ”)
+2026-08-10 21:01:26,103 - INFO - ðŸ›¡ðŸŽ£ MUUSDT SL STOP-HUNT (opsi 2) @ 874.35 â€” di luar zona sweep kolam terdekat
+2026-08-10 21:01:26,103 - INFO - âŠ˜ MUUSDT level tidak valid (px 880.71 sl 874.35 tp 875.066)
+2026-08-10 21:01:27,398 - INFO - â—ˆ ACEUSDT sinyal TC Sell @ 0.11637 | swingVWAP 0.122037 (bawah, searah âœ”)
+2026-08-10 21:01:27,405 - INFO - ðŸ›¡ðŸŽ£ ACEUSDT SL STOP-HUNT (opsi 2) @ 0.122502 â€” di luar zona sweep kolam terdekat
+2026-08-10 21:01:27,412 - INFO - ðŸ§¯ ACEUSDT RISK CAP 15% saldo ($0.92) â€” risiko $5.78 â†’ margin $1.43
+2026-08-10 21:01:27,429 - ERROR - âœ˜ ACEUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 14:01:27).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "ACEUSDT", "side": "Sell", "orderType": "Market", "qty": "135.9", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 22:00:07,670 - INFO - â—ˆ 1000PEPEUSDT sinyal TC Sell @ 0.002869 | swingVWAP 0.00289177 (bawah, searah âœ”)
+2026-08-10 22:00:07,678 - INFO - ðŸ›¡ðŸŽ£ 1000PEPEUSDT SL STOP-HUNT (opsi 2) @ 0.00289921 â€” di luar zona sweep kolam terdekat
+2026-08-10 22:00:07,678 - INFO - âŠ˜ 1000PEPEUSDT TP terlalu dekat (0.072% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 22:00:08,994 - INFO - â—ˆ SKHYUSDT sinyal TC Sell @ 135.5 | swingVWAP 137.8 (bawah, searah âœ”)
+2026-08-10 22:00:09,006 - INFO - ðŸ›¡ðŸŽ£ SKHYUSDT SL STOP-HUNT (opsi 2) @ 139.501 â€” di luar zona sweep kolam terdekat
+2026-08-10 22:00:09,006 - INFO - ðŸ§¯ SKHYUSDT RISK CAP 15% saldo ($0.90) â€” risiko $5.56 â†’ margin $1.45
+2026-08-10 22:00:09,040 - ERROR - âœ˜ SKHYUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 15:00:09).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "SKHYUSDT", "side": "Sell", "orderType": "Market", "qty": "0.23", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 22:00:09,479 - INFO - â—ˆ SNDKUSDT sinyal MR Sell @ 1236.23 | swingVWAP 1230.01 (atas, beda sisi âš )
+2026-08-10 22:00:09,488 - INFO - ðŸ›¡ðŸŽ£ SNDKUSDT SL STOP-HUNT (opsi 2) @ 1253.88 â€” di luar zona sweep kolam terdekat
+2026-08-10 22:00:09,495 - INFO - ðŸ§¯ SNDKUSDT RISK CAP 15% saldo ($0.90) â€” risiko $2.64 â†’ margin $3.05
+2026-08-10 22:00:09,518 - ERROR - âœ˜ SNDKUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 15:00:09).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "SNDKUSDT", "side": "Sell", "orderType": "Market", "qty": "0.06", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 22:00:10,182 - INFO - â—ˆ KORUUSDT sinyal TC Sell @ 16.46 | swingVWAP 16.8582 (bawah, searah âœ”)
+2026-08-10 22:00:10,192 - INFO - ðŸ›¡ðŸŽ£ KORUUSDT SL STOP-HUNT (opsi 2) @ 17.4059 â€” di luar zona sweep kolam terdekat
+2026-08-10 22:00:10,200 - INFO - ðŸ§¯ KORUUSDT RISK CAP 15% saldo ($0.90) â€” risiko $6.00 â†’ margin $1.34
+2026-08-10 22:00:10,221 - ERROR - âœ˜ KORUUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 15:00:10).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "KORUUSDT", "side": "Sell", "orderType": "Market", "qty": "0.97", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 22:00:10,455 - INFO - â—ˆ XAGUSDT sinyal TC Buy @ 64.83 | swingVWAP 64.1495 (atas, searah âœ”)
+2026-08-10 22:00:10,462 - INFO - ðŸ›¡ðŸŽ£ XAGUSDT SL STOP-HUNT (opsi 2) @ 63.5322 â€” di luar zona sweep kolam terdekat
+2026-08-10 22:00:10,462 - INFO - âŠ˜ XAGUSDT level tidak valid (px 64.89 sl 63.5322 tp 64.8386)
+2026-08-10 22:00:46,431 - INFO - â—ˆ SNXXUSDT sinyal MR Sell @ 9.44 | swingVWAP 9.34691 (atas, beda sisi âš )
+2026-08-10 22:00:46,439 - INFO - SNXXUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 22:00:46,439 - INFO - ðŸ§¯ SNXXUSDT RISK CAP 15% saldo ($0.89) â€” risiko $5.65 â†’ margin $1.42
+2026-08-10 22:00:46,458 - ERROR - âœ˜ SNXXUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 15:00:46).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "SNXXUSDT", "side": "Sell", "orderType": "Market", "qty": "2.68", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 22:00:48,178 - INFO - â—ˆ HOMEUSDT sinyal TC Buy @ 0.009972 | swingVWAP 0.00942318 (atas, searah âœ”)
+2026-08-10 22:00:48,187 - INFO - HOMEUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 22:00:48,187 - INFO - âŠ˜ HOMEUSDT level tidak valid (px 0.010113 sl 0.00926328 tp 0.0101077)
+2026-08-10 22:00:48,644 - INFO - â—ˆ ACTUSDT sinyal MR Buy @ 0.010922 | swingVWAP 0.0122541 (bawah, beda sisi âš )
+2026-08-10 22:00:48,652 - INFO - ACTUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 22:00:48,660 - INFO - ðŸ§¯ ACTUSDT RISK CAP 15% saldo ($0.89) â€” risiko $5.62 â†’ margin $1.43
+2026-08-10 22:00:48,682 - ERROR - âœ˜ ACTUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 15:00:48).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "ACTUSDT", "side": "Buy", "orderType": "Market", "qty": "2358.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 22:01:21,434 - INFO - â—ˆ DRAMUSDT sinyal TC Sell @ 49.84 | swingVWAP 50.2555 (bawah, searah âœ”)
+2026-08-10 22:01:21,442 - INFO - ðŸ›¡ðŸŽ£ DRAMUSDT SL STOP-HUNT (opsi 2) @ 51.0479 â€” di luar zona sweep kolam terdekat
+2026-08-10 22:01:21,442 - INFO - ðŸ§¯ DRAMUSDT RISK CAP 15% saldo ($0.89) â€” risiko $4.03 â†’ margin $1.98
+2026-08-10 22:01:21,460 - ERROR - âœ˜ DRAMUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 15:01:21).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "DRAMUSDT", "side": "Sell", "orderType": "Market", "qty": "0.7", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 22:01:24,280 - INFO - â—ˆ SQDUSDT sinyal TC Buy @ 0.0429 | swingVWAP 0.0420331 (atas, searah âœ”)
+2026-08-10 22:01:24,280 - INFO - â›” SQDUSDT volatilitas ekstrem (ATR 3.3x > 2.5x) â€” entry dilewati
+2026-08-10 22:01:25,572 - INFO - â—ˆ BMTUSDT sinyal MR Buy @ 0.026693 | swingVWAP 0.0331413 (bawah, beda sisi âš )
+2026-08-10 22:01:25,587 - INFO - BMTUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 22:01:25,587 - INFO - ðŸ§¯ BMTUSDT RISK CAP 15% saldo ($0.89) â€” risiko $4.71 â†’ margin $1.69
+2026-08-10 22:01:25,615 - ERROR - âœ˜ BMTUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 15:01:25).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "BMTUSDT", "side": "Buy", "orderType": "Market", "qty": "319.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 22:01:26,082 - INFO - â—ˆ ZECUSDT sinyal TC Sell @ 502.92 | swingVWAP 514.913 (bawah, searah âœ”)
+2026-08-10 22:01:26,090 - INFO - ðŸ›¡ðŸŽ£ ZECUSDT SL STOP-HUNT (opsi 2) @ 511.917 â€” di luar zona sweep kolam terdekat
+2026-08-10 22:01:26,090 - INFO - âŠ˜ ZECUSDT TP terlalu dekat (0.049% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-10 22:01:59,261 - INFO - â—ˆ SKHYNIXUSDT sinyal TC Sell @ 993.64 | swingVWAP 1011.76 (bawah, searah âœ”)
+2026-08-10 22:01:59,271 - INFO - ðŸ›¡ðŸŽ£ SKHYNIXUSDT SL STOP-HUNT (opsi 2) @ 1025.69 â€” di luar zona sweep kolam terdekat
+2026-08-10 22:01:59,283 - INFO - ðŸ§¯ SKHYNIXUSDT RISK CAP 15% saldo ($0.90) â€” risiko $5.69 â†’ margin $1.42
+2026-08-10 22:01:59,310 - ERROR - âœ˜ SKHYNIXUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 15:01:59).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "SKHYNIXUSDT", "side": "Sell", "orderType": "Market", "qty": "0.031", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 23:00:13,605 - INFO - â—ˆ HOMEUSDT sinyal TC Buy @ 0.011859 | swingVWAP 0.0101921 (atas, searah âœ”)
+2026-08-10 23:00:13,616 - INFO - HOMEUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 23:00:13,635 - INFO - ðŸ§¯ HOMEUSDT RISK CAP 15% saldo ($0.89) â€” risiko $6.02 â†’ margin $1.34
+2026-08-10 23:00:13,659 - ERROR - âœ˜ HOMEUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 16:00:13).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "HOMEUSDT", "side": "Buy", "orderType": "Market", "qty": "440.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 23:00:17,743 - INFO - â—ˆ IOTXUSDT sinyal TC Sell @ 0.002684 | swingVWAP 0.00282003 (bawah, searah âœ”)
+2026-08-10 23:00:17,752 - INFO - IOTXUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-10 23:00:17,761 - INFO - ðŸ§¯ IOTXUSDT RISK CAP 15% saldo ($0.89) â€” risiko $5.83 â†’ margin $1.38
+2026-08-10 23:00:17,780 - ERROR - âœ˜ IOTXUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 16:00:17).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "IOTXUSDT", "side": "Sell", "orderType": "Market", "qty": "4648.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 23:00:52,485 - INFO - â—ˆ WLDUSDT sinyal TC Buy @ 0.3425 | swingVWAP 0.335567 (atas, searah âœ”)
+2026-08-10 23:00:52,494 - INFO - ðŸ›¡ðŸŽ£ WLDUSDT SL STOP-HUNT (opsi 2) @ 0.330196 â€” di luar zona sweep kolam terdekat
+2026-08-10 23:00:52,494 - INFO - ðŸ§¯ WLDUSDT RISK CAP 15% saldo ($0.89) â€” risiko $5.91 â†’ margin $1.35
+2026-08-10 23:00:52,515 - ERROR - âœ˜ WLDUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 16:00:52).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "WLDUSDT", "side": "Buy", "orderType": "Market", "qty": "70.9", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 23:01:29,532 - INFO - â—ˆ ONDOUSDT sinyal MR Buy @ 0.3467 | swingVWAP 0.349868 (bawah, beda sisi âš )
+2026-08-10 23:01:29,546 - INFO - ðŸ›¡ðŸŽ£ ONDOUSDT SL STOP-HUNT (opsi 2) @ 0.343415 â€” di luar zona sweep kolam terdekat
+2026-08-10 23:01:29,554 - INFO - ðŸ§¯ ONDOUSDT RISK CAP 15% saldo ($0.89) â€” risiko $2.20 â†’ margin $3.66
+2026-08-10 23:01:29,573 - ERROR - âœ˜ ONDOUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 16:01:29).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "ONDOUSDT", "side": "Buy", "orderType": "Market", "qty": "263.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 23:02:02,772 - INFO - â—ˆ BANKUSDT sinyal TC Sell @ 0.03885 | swingVWAP 0.041514 (bawah, searah âœ”)
+2026-08-10 23:02:02,782 - INFO - ðŸ›¡ðŸŽ£ BANKUSDT SL STOP-HUNT (opsi 2) @ 0.0408104 â€” di luar zona sweep kolam terdekat
+2026-08-10 23:02:02,791 - INFO - ðŸ§¯ BANKUSDT RISK CAP 15% saldo ($0.93) â€” risiko $5.94 â†’ margin $1.40
+2026-08-10 23:02:02,816 - ERROR - âœ˜ BANKUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 16:02:02).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "BANKUSDT", "side": "Sell", "orderType": "Market", "qty": "460.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-10 23:54:52,919 - INFO - â–  BLUAIUSDT ADOPT ditutup â€” PnL -1.39$ (ROI -36.4%)
+2026-08-11 00:00:20,031 - INFO - â—ˆ WLDUSDT sinyal TC Buy @ 0.3394 | swingVWAP 0.335759 (atas, searah âœ”)
+2026-08-11 00:00:20,040 - INFO - ðŸ›¡ðŸŽ£ WLDUSDT SL STOP-HUNT (opsi 2) @ 0.330215 â€” di luar zona sweep kolam terdekat
+2026-08-11 00:00:20,040 - INFO - ðŸ§¯ WLDUSDT RISK CAP 15% saldo ($0.86) â€” risiko $5.60 â†’ margin $1.38
+2026-08-11 00:00:21,087 - INFO - â–² LONG WLDUSDT [TC] @ 0.3394 23x TP 0.356668 SL 0.330215 m $1.38
+2026-08-11 00:00:25,426 - INFO - â—ˆ KORUUSDT sinyal TC Sell @ 16.64 | swingVWAP 16.8386 (bawah, searah âœ”)
+2026-08-11 00:00:25,439 - INFO - ðŸ›¡ðŸŽ£ KORUUSDT SL STOP-HUNT (opsi 2) @ 17.4141 â€” di luar zona sweep kolam terdekat
+2026-08-11 00:00:25,440 - INFO - ðŸ§¯ KORUUSDT RISK CAP 15% saldo ($0.86) â€” risiko $5.86 â†’ margin $1.32
+2026-08-11 00:00:26,487 - INFO - â–¼ SHORT KORUUSDT [TC] @ 16.64 14x TP 16.2318 SL 17.4141 m $1.32
+2026-08-11 00:00:59,831 - INFO - â—ˆ XAUTUSDT sinyal MR Sell @ 4333 | swingVWAP 4317.55 (atas, beda sisi âš )
+2026-08-11 00:00:59,831 - INFO - âŠ˜ XAUTUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 00:01:02,661 - INFO - â—ˆ BANKUSDT sinyal TC Sell @ 0.03863 | swingVWAP 0.0414663 (bawah, searah âœ”)
+2026-08-11 00:01:02,661 - INFO - âŠ˜ BANKUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 00:01:40,389 - INFO - â—ˆ STRKUSDT sinyal TC Buy @ 0.02407 | swingVWAP 0.0240485 (atas, searah âœ”)
+2026-08-11 00:01:40,389 - INFO - âŠ˜ STRKUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 00:01:41,036 - INFO - â—ˆ IOTXUSDT sinyal TC Sell @ 0.00272 | swingVWAP 0.00281815 (bawah, searah âœ”)
+2026-08-11 00:01:41,036 - INFO - âŠ˜ IOTXUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 00:01:41,706 - INFO - â—ˆ SQDUSDT sinyal TC Buy @ 0.04375 | swingVWAP 0.0420924 (atas, searah âœ”)
+2026-08-11 00:01:41,706 - INFO - âŠ˜ SQDUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 00:02:14,267 - INFO - â—ˆ XAUUSDT sinyal MR Sell @ 4356.94 | swingVWAP 4341.26 (atas, beda sisi âš )
+2026-08-11 00:02:14,268 - INFO - âŠ˜ XAUUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 00:45:01,966 - INFO - ðŸŒ SYMBOLS diperbarui: 105 kontrak (+21 baru, turnover â‰¥ $5jt)
+2026-08-11 00:46:19,724 - INFO - â—ˆ ICPUSDT sinyal TC Buy @ 2.278 | swingVWAP 2.23414 (atas, searah âœ”)
+2026-08-11 00:46:19,724 - INFO - âŠ˜ ICPUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 01:00:19,616 - INFO - â—ˆ WLDUSDT sinyal TC Buy @ 0.3413 | swingVWAP 0.3359 (atas, searah âœ”)
+2026-08-11 01:00:19,853 - INFO - â—ˆ CATIUSDT sinyal TC Sell @ 0.04392 | swingVWAP 0.0446318 (bawah, searah âœ”)
+2026-08-11 01:00:23,801 - INFO - â—ˆ BTWUSDT sinyal TC Sell @ 0.19152 | swingVWAP 0.193538 (bawah, searah âœ”)
+2026-08-11 01:00:23,801 - INFO - âŠ˜ BTWUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 01:00:58,362 - INFO - â—ˆ OPUSDT sinyal TC Buy @ 0.09161 | swingVWAP 0.0902812 (atas, searah âœ”)
+2026-08-11 01:00:58,362 - INFO - âŠ˜ OPUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 01:01:34,982 - INFO - â—ˆ AAOIUSDT sinyal MR Buy @ 133.38 | swingVWAP 139.349 (bawah, beda sisi âš )
+2026-08-11 01:01:34,982 - INFO - âŠ˜ AAOIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 01:01:36,504 - INFO - â—ˆ APTUSDT sinyal MR Buy @ 0.591 | swingVWAP 0.592673 (bawah, beda sisi âš )
+2026-08-11 01:01:36,504 - INFO - âŠ˜ APTUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 02:02:40,690 - INFO - â–¶ VWAP BOT dimulai â€” saldo $4.92 | Session anchor | TF 60m | 3 simbol | cap $2.0
+2026-08-11 02:02:40,690 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-11 02:02:40,716 - INFO - ðŸŒ SYMBOLS diperbarui: 105 kontrak (+102 baru, turnover â‰¥ $5jt)
+2026-08-11 02:02:43,453 - INFO - â—ˆ SNDKUSDT sinyal MR Sell @ 1253.49 | swingVWAP 1233.13 (atas, beda sisi âš )
+2026-08-11 02:02:43,453 - INFO - âŠ˜ SNDKUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 02:02:44,954 - INFO - â—ˆ ADAUSDT sinyal TC Sell @ 0.1935 | swingVWAP 0.195847 (bawah, searah âœ”)
+2026-08-11 02:02:44,954 - INFO - âŠ˜ ADAUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 02:02:46,062 - INFO - â—ˆ KAITOUSDT sinyal TC Sell @ 0.6568 | swingVWAP 0.66576 (bawah, searah âœ”)
+2026-08-11 02:02:46,062 - INFO - âŠ˜ KAITOUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 02:04:35,328 - INFO - â—ˆ LITUSDT sinyal MR Sell @ 2.382 | swingVWAP 2.34067 (atas, beda sisi âš )
+2026-08-11 02:04:35,328 - INFO - âŠ˜ LITUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 02:04:35,585 - INFO - â—ˆ TRXUSDT sinyal TC Buy @ 0.33077 | swingVWAP 0.330475 (atas, searah âœ”)
+2026-08-11 02:04:35,585 - INFO - âŠ˜ TRXUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 02:20:57,226 - INFO - â–¶ VWAP BOT dimulai â€” saldo $5.13 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-11 02:20:57,226 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-11 02:20:57,253 - INFO - ðŸŒ SYMBOLS diperbarui: 105 kontrak (+102 baru, turnover â‰¥ $5jt)
+2026-08-11 03:00:09,801 - INFO - â—ˆ ADAUSDT sinyal MR Buy @ 0.1937 | swingVWAP 0.195761 (bawah, beda sisi âš )
+2026-08-11 03:00:09,801 - INFO - âŠ˜ ADAUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 03:00:44,935 - INFO - â—ˆ TAOUSDT sinyal MR Buy @ 200.98 | swingVWAP 202.92 (bawah, beda sisi âš )
+2026-08-11 03:00:44,935 - INFO - âŠ˜ TAOUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 03:00:46,716 - INFO - â—ˆ FARTCOINUSDT sinyal TC Buy @ 0.13637 | swingVWAP 0.135524 (atas, searah âœ”)
+2026-08-11 03:00:46,716 - INFO - âŠ˜ FARTCOINUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 03:00:48,007 - INFO - â—ˆ DRAMUSDT sinyal TC Sell @ 49.64 | swingVWAP 50.2161 (bawah, searah âœ”)
+2026-08-11 03:00:48,007 - INFO - âŠ˜ DRAMUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 03:01:23,817 - INFO - â—ˆ ARBUSDT sinyal TC Buy @ 0.08054 | swingVWAP 0.0797278 (atas, searah âœ”)
+2026-08-11 03:01:23,817 - INFO - âŠ˜ ARBUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 03:01:24,498 - INFO - â—ˆ INJUSDT sinyal TC Buy @ 4.479 | swingVWAP 4.41643 (atas, searah âœ”)
+2026-08-11 03:01:24,498 - INFO - âŠ˜ INJUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 03:02:00,494 - INFO - â—ˆ TRXUSDT sinyal TC Buy @ 0.33069 | swingVWAP 0.330479 (atas, searah âœ”)
+2026-08-11 03:02:00,494 - INFO - âŠ˜ TRXUSDT slot penuh (3/1) â€” sinyal dilewati
+2026-08-11 03:23:20,715 - INFO - â–  CATIUSDT MR ditutup â€” PnL +0.69$ (ROI +35.4%)
+2026-08-11 04:00:20,485 - INFO - â—ˆ STRKUSDT sinyal TC Buy @ 0.02408 | swingVWAP 0.0240498 (atas, searah âœ”)
+2026-08-11 04:00:20,485 - INFO - âŠ˜ STRKUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 04:00:24,116 - INFO - â—ˆ TRUMPUSDT sinyal MR Buy @ 1.487 | swingVWAP 1.49107 (bawah, beda sisi âš )
+2026-08-11 04:00:24,116 - INFO - âŠ˜ TRUMPUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 04:00:56,816 - INFO - â—ˆ SPCXUSDT sinyal MR Sell @ 137.22 | swingVWAP 134.704 (atas, beda sisi âš )
+2026-08-11 04:00:56,816 - INFO - âŠ˜ SPCXUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 04:01:33,092 - INFO - â—ˆ MUUSDT sinyal MR Buy @ 867.77 | swingVWAP 875.073 (bawah, beda sisi âš )
+2026-08-11 04:01:33,092 - INFO - âŠ˜ MUUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 05:00:21,006 - INFO - â—ˆ OPUSDT sinyal TC Buy @ 0.09075 | swingVWAP 0.0905349 (atas, searah âœ”)
+2026-08-11 05:00:21,006 - INFO - âŠ˜ OPUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 05:00:22,124 - INFO - â—ˆ AKEUSDT sinyal TC Sell @ 0.0039579 | swingVWAP 0.00400375 (bawah, searah âœ”)
+2026-08-11 05:00:22,124 - INFO - âŠ˜ AKEUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 05:00:59,723 - INFO - â—ˆ TRUMPUSDT sinyal TC Sell @ 1.481 | swingVWAP 1.49089 (bawah, searah âœ”)
+2026-08-11 05:00:59,723 - INFO - âŠ˜ TRUMPUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 06:00:22,763 - INFO - â—ˆ MUUSDT sinyal MR Buy @ 866.76 | swingVWAP 874.944 (bawah, beda sisi âš )
+2026-08-11 06:00:22,763 - INFO - âŠ˜ MUUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 06:01:01,134 - INFO - â—ˆ OPUSDT sinyal TC Buy @ 0.09108 | swingVWAP 0.0905514 (atas, searah âœ”)
+2026-08-11 06:01:01,134 - INFO - âŠ˜ OPUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 06:01:39,434 - INFO - â—ˆ APTUSDT sinyal MR Buy @ 0.5872 | swingVWAP 0.591709 (bawah, beda sisi âš )
+2026-08-11 06:01:39,434 - INFO - âŠ˜ APTUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 06:02:15,769 - INFO - â—ˆ KAITOUSDT sinyal TC Sell @ 0.6605 | swingVWAP 0.665531 (bawah, searah âœ”)
+2026-08-11 06:02:15,769 - INFO - âŠ˜ KAITOUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 06:02:16,386 - INFO - â—ˆ GRVTUSDT sinyal MR Buy @ 0.32385 | swingVWAP 0.361507 (bawah, beda sisi âš )
+2026-08-11 06:02:16,386 - INFO - âŠ˜ GRVTUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 06:02:17,048 - INFO - â—ˆ 1000PEPEUSDT sinyal TC Sell @ 0.002872 | swingVWAP 0.00288261 (bawah, searah âœ”)
+2026-08-11 06:02:17,048 - INFO - âŠ˜ 1000PEPEUSDT slot penuh (2/1) â€” sinyal dilewati
+2026-08-11 06:45:16,216 - INFO - â–  KORUUSDT TC ditutup â€” PnL +0.18$ (ROI +13.5%)
+2026-08-11 06:50:05,887 - INFO - â–  WLDUSDT TC ditutup â€” PnL -0.22$ (ROI -16.3%)
+2026-08-11 07:00:15,752 - INFO - â—ˆ ATOMUSDT sinyal TC Buy @ 1.3989 | swingVWAP 1.39673 (atas, searah âœ”)
+2026-08-11 07:00:15,761 - INFO - ðŸ›¡ðŸŽ£ ATOMUSDT SL STOP-HUNT (opsi 2) @ 1.37056 â€” di luar zona sweep kolam terdekat
+2026-08-11 07:00:15,770 - INFO - ðŸ§¯ ATOMUSDT RISK CAP $0.30 â€” risiko $2.53 â†’ margin $0.59
+2026-08-11 07:00:16,839 - INFO - â–² LONG ATOMUSDT [TC] @ 1.399 25x TP 1.4296 SL 1.37056 m $0.59
+2026-08-11 07:00:54,433 - INFO - â—ˆ KAITOUSDT sinyal TC Sell @ 0.6568 | swingVWAP 0.665385 (bawah, searah âœ”)
+2026-08-11 07:00:54,433 - INFO - âŠ˜ KAITOUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 07:00:58,032 - INFO - â—ˆ NILUSDT sinyal MR Buy @ 0.04009 | swingVWAP 0.0434697 (bawah, beda sisi âš )
+2026-08-11 07:00:58,033 - INFO - âŠ˜ NILUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 07:02:06,307 - INFO - â—ˆ ARBUSDT sinyal TC Buy @ 0.07996 | swingVWAP 0.0801461 (bawah, beda sisi âš )
+2026-08-11 07:02:06,307 - INFO - âŠ˜ ARBUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 07:02:08,251 - INFO - â—ˆ XPLUSDT sinyal MR Buy @ 0.07869 | swingVWAP 0.0790298 (bawah, beda sisi âš )
+2026-08-11 07:02:08,251 - INFO - âŠ˜ XPLUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 07:31:42,071 - INFO - â–¶ VWAP BOT dimulai â€” saldo $6.06 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-11 07:31:42,071 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-11 07:31:42,094 - INFO - ðŸŒ SYMBOLS diperbarui: 103 kontrak (+100 baru, turnover â‰¥ $5jt)
+2026-08-11 07:32:25,207 - INFO - â–¶ VWAP BOT dimulai â€” saldo $6.06 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-11 07:32:25,207 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-11 07:32:25,233 - INFO - ðŸŒ SYMBOLS diperbarui: 103 kontrak (+100 baru, turnover â‰¥ $5jt)
+2026-08-11 08:09:03,522 - INFO - â–¶ VWAP BOT dimulai â€” saldo $6.05 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-11 08:09:03,522 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-11 08:09:03,544 - INFO - ðŸŒ SYMBOLS diperbarui: 104 kontrak (+101 baru, turnover â‰¥ $5jt)
+2026-08-11 08:15:20,314 - INFO - â–¶ VWAP BOT dimulai â€” saldo $6.08 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-11 08:15:20,314 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-11 08:15:20,338 - INFO - ðŸŒ SYMBOLS diperbarui: 104 kontrak (+101 baru, turnover â‰¥ $5jt)
+2026-08-11 08:17:08,379 - INFO - â–  ATOMUSDT TC ditutup â€” PnL +0.06$ (ROI +10.1%)
+2026-08-11 08:35:45,052 - INFO - â–¶ VWAP BOT dimulai â€” saldo $6.08 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-11 08:35:45,052 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-11 08:35:45,077 - INFO - ðŸŒ SYMBOLS diperbarui: 105 kontrak (+102 baru, turnover â‰¥ $5jt)
+2026-08-11 09:00:09,523 - INFO - â—ˆ SNDKUSDT sinyal MR Sell @ 1251.01 | swingVWAP 1247.07 (atas, beda sisi âš )
+2026-08-11 09:00:09,532 - INFO - ðŸ›¡ðŸŽ£ SNDKUSDT SL STOP-HUNT (opsi 2) @ 1274.99 â€” di luar zona sweep kolam terdekat
+2026-08-11 09:00:09,542 - INFO - ðŸ§¯ SNDKUSDT RISK CAP $0.30 â€” risiko $46.95 â†’ margin $0.64
+2026-08-11 09:00:10,632 - INFO - â–¼ SHORT SNDKUSDT [MR] @ 1251.38 25x TP 1244.22 SL 1274.99 m $0.64
+2026-08-11 09:00:12,452 - INFO - â—ˆ PUMPFUNUSDT sinyal MR Buy @ 0.0028273 | swingVWAP 0.00276658 (atas, searah âœ”)
+2026-08-11 09:00:12,452 - INFO - âŠ˜ PUMPFUNUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:00:12,893 - INFO - â—ˆ WLDUSDT sinyal MR Buy @ 0.3402 | swingVWAP 0.341426 (bawah, beda sisi âš )
+2026-08-11 09:00:12,893 - INFO - âŠ˜ WLDUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:00:14,399 - INFO - â—ˆ DOGEUSDT sinyal MR Sell @ 0.06998 | swingVWAP 0.0696816 (atas, beda sisi âš )
+2026-08-11 09:00:14,399 - INFO - âŠ˜ DOGEUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:00:15,248 - INFO - â—ˆ ENAUSDT sinyal MR Sell @ 0.09065 | swingVWAP 0.0890045 (atas, beda sisi âš )
+2026-08-11 09:00:15,248 - INFO - âŠ˜ ENAUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:00:15,483 - INFO - â—ˆ KORUUSDT sinyal MR Sell @ 17.06 | swingVWAP 16.6408 (atas, beda sisi âš )
+2026-08-11 09:00:15,484 - INFO - âŠ˜ KORUUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:00:15,717 - INFO - â—ˆ SKHYUSDT sinyal MR Buy @ 136.75 | swingVWAP 136.101 (atas, searah âœ”)
+2026-08-11 09:00:15,717 - INFO - âŠ˜ SKHYUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:00:16,575 - INFO - â—ˆ MUUSDT sinyal MR Sell @ 871.06 | swingVWAP 873.409 (bawah, searah âœ”)
+2026-08-11 09:00:16,575 - INFO - âŠ˜ MUUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:00:49,613 - INFO - â—ˆ EPICUSDT sinyal MR Sell @ 0.4311 | swingVWAP 0.479179 (bawah, searah âœ”)
+2026-08-11 09:00:49,613 - INFO - âŠ˜ EPICUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:00:50,495 - INFO - â—ˆ AVAXUSDT sinyal MR Sell @ 6.523 | swingVWAP 6.48735 (atas, beda sisi âš )
+2026-08-11 09:00:50,495 - INFO - âŠ˜ AVAXUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:00:50,942 - INFO - â—ˆ DRAMUSDT sinyal MR Sell @ 50.59 | swingVWAP 50.0219 (atas, beda sisi âš )
+2026-08-11 09:00:50,942 - INFO - âŠ˜ DRAMUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:01:23,987 - INFO - â—ˆ JTOUSDT sinyal MR Sell @ 0.5491 | swingVWAP 0.556572 (bawah, searah âœ”)
+2026-08-11 09:01:23,987 - INFO - âŠ˜ JTOUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:01:24,223 - INFO - â—ˆ XMRUSDT sinyal MR Sell @ 399.71 | swingVWAP 395.617 (atas, beda sisi âš )
+2026-08-11 09:01:24,223 - INFO - âŠ˜ XMRUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:01:24,682 - INFO - â—ˆ SKYAI1USDT sinyal MR Sell @ 0.10263 | swingVWAP 0.105917 (bawah, searah âœ”)
+2026-08-11 09:01:24,682 - INFO - âŠ˜ SKYAI1USDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:01:26,403 - INFO - â—ˆ ACTUSDT sinyal MR Sell @ 0.011064 | swingVWAP 0.0110658 (bawah, searah âœ”)
+2026-08-11 09:01:26,403 - INFO - âŠ˜ ACTUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:01:26,846 - INFO - â—ˆ DOTUSDT sinyal MR Buy @ 0.8102 | swingVWAP 0.806869 (atas, searah âœ”)
+2026-08-11 09:01:26,846 - INFO - âŠ˜ DOTUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:01:28,152 - INFO - â—ˆ XPLUSDT sinyal MR Sell @ 0.08012 | swingVWAP 0.0790806 (atas, beda sisi âš )
+2026-08-11 09:01:28,152 - INFO - âŠ˜ XPLUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:01:28,593 - INFO - â—ˆ NBISUSDT sinyal MR Sell @ 186.55 | swingVWAP 189.147 (bawah, searah âœ”)
+2026-08-11 09:01:28,593 - INFO - âŠ˜ NBISUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:01:28,828 - INFO - â—ˆ CRCLUSDT sinyal MR Sell @ 67.11 | swingVWAP 66.4264 (atas, beda sisi âš )
+2026-08-11 09:01:28,828 - INFO - âŠ˜ CRCLUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:01:29,069 - INFO - â—ˆ EWYUSDT sinyal MR Sell @ 165.44 | swingVWAP 163.838 (atas, beda sisi âš )
+2026-08-11 09:01:29,069 - INFO - âŠ˜ EWYUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:02:01,073 - INFO - â—ˆ TSLAUSDT sinyal MR Sell @ 331.91 | swingVWAP 329.976 (atas, beda sisi âš )
+2026-08-11 09:02:01,073 - INFO - âŠ˜ TSLAUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:02:01,311 - INFO - â—ˆ ALGOUSDT sinyal MR Sell @ 0.08164 | swingVWAP 0.0823808 (bawah, searah âœ”)
+2026-08-11 09:02:01,311 - INFO - âŠ˜ ALGOUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:02:01,545 - INFO - â—ˆ ATOMUSDT sinyal MR Sell @ 1.4005 | swingVWAP 1.39687 (atas, beda sisi âš )
+2026-08-11 09:02:01,545 - INFO - âŠ˜ ATOMUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:02:02,202 - INFO - â—ˆ AAOIUSDT sinyal MR Sell @ 132.56 | swingVWAP 134.699 (bawah, searah âœ”)
+2026-08-11 09:02:02,202 - INFO - âŠ˜ AAOIUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:02:02,868 - INFO - â—ˆ VELODROMEUSDT sinyal MR Buy @ 0.017712 | swingVWAP 0.0171986 (atas, searah âœ”)
+2026-08-11 09:02:02,869 - INFO - âŠ˜ VELODROMEUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:02:04,570 - INFO - â—ˆ TRUMPUSDT sinyal MR Sell @ 1.499 | swingVWAP 1.49079 (atas, beda sisi âš )
+2026-08-11 09:02:04,571 - INFO - âŠ˜ TRUMPUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:02:05,432 - INFO - â—ˆ SPCXUSDT sinyal MR Buy @ 136.64 | swingVWAP 134.492 (atas, searah âœ”)
+2026-08-11 09:02:05,432 - INFO - âŠ˜ SPCXUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:02:36,601 - INFO - â—ˆ HYPEUSDT sinyal MR Buy @ 55.37 | swingVWAP 54.8027 (atas, searah âœ”)
+2026-08-11 09:02:36,601 - INFO - âŠ˜ HYPEUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:03:12,727 - INFO - â—ˆ MUBARAKUSDT sinyal MR Buy @ 0.019765 | swingVWAP 0.0214289 (bawah, beda sisi âš )
+2026-08-11 09:03:12,727 - INFO - âŠ˜ MUBARAKUSDT slot penuh (1/1) â€” sinyal dilewati
+2026-08-11 09:15:53,896 - INFO - â–¶ VWAP BOT dimulai â€” saldo $6.08 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-11 09:15:53,896 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-11 09:15:53,928 - INFO - ðŸŒ SYMBOLS diperbarui: 105 kontrak (+102 baru, turnover â‰¥ $5jt)
+2026-08-11 09:54:23,031 - INFO - â–¶ VWAP BOT dimulai â€” saldo $6.05 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-11 09:54:23,031 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-11 10:00:24,335 - INFO - â—ˆ BICOUSDT sinyal MR Buy @ 0.041354 | swingVWAP 0.043054 (bawah, beda sisi âš )
+2026-08-11 10:00:24,342 - INFO - ðŸ›¡ðŸŽ£ BICOUSDT SL STOP-HUNT (opsi 2) @ 0.0389315 â€” di luar zona sweep kolam terdekat
+2026-08-11 10:00:24,350 - INFO - ðŸ§¯ BICOUSDT RISK CAP $0.30 â€” risiko $28.46 â†’ margin $1.05
+2026-08-11 10:00:25,426 - INFO - â–² LONG BICOUSDT [MR] @ 0.041293 5x TP 0.0428231 SL 0.0389315 m $1.05
+2026-08-11 10:00:26,840 - INFO - â—ˆ FARTCOINUSDT sinyal MR Sell @ 0.13647 | swingVWAP 0.135511 (atas, beda sisi âš )
+2026-08-11 10:00:26,849 - INFO - ðŸ›¡ðŸŽ£ FARTCOINUSDT SL STOP-HUNT (opsi 2) @ 0.138428 â€” di luar zona sweep kolam terdekat
+2026-08-11 10:00:26,849 - INFO - âŠ˜ FARTCOINUSDT TP terlalu dekat (0.048% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-11 10:00:28,573 - INFO - â—ˆ MMTUSDT sinyal MR Buy @ 0.20681 | swingVWAP 0.213801 (bawah, beda sisi âš )
+2026-08-11 10:00:28,582 - INFO - ðŸ›¡ðŸŽ£ MMTUSDT SL STOP-HUNT (opsi 2) @ 0.197382 â€” di luar zona sweep kolam terdekat
+2026-08-11 10:00:28,590 - INFO - ðŸ§¯ MMTUSDT RISK CAP $0.30 â€” risiko $64.08 â†’ margin $0.47
+2026-08-11 10:00:29,659 - INFO - â–² LONG MMTUSDT [MR] @ 0.206932 14x TP 0.207881 SL 0.197382 m $0.47
+2026-08-11 10:00:31,458 - INFO - â—ˆ BTWUSDT sinyal MR Sell @ 0.17264 | swingVWAP 0.188043 (bawah, searah âœ”)
+2026-08-11 10:00:31,459 - INFO - âŠ˜ BTWUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 10:01:06,437 - INFO - â—ˆ ACEUSDT sinyal MR Buy @ 0.11743 | swingVWAP 0.118557 (bawah, beda sisi âš )
+2026-08-11 10:01:06,437 - INFO - âŠ˜ ACEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 10:01:08,671 - INFO - â—ˆ REUSDT sinyal MR Buy @ 0.4095 | swingVWAP 0.424316 (bawah, beda sisi âš )
+2026-08-11 10:01:08,671 - INFO - âŠ˜ REUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 10:01:42,765 - INFO - â—ˆ GUNUSDT sinyal MR Sell @ 0.003354 | swingVWAP 0.00358056 (bawah, searah âœ”)
+2026-08-11 10:01:42,765 - INFO - âŠ˜ GUNUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 10:02:19,817 - INFO - â—ˆ GRVTUSDT sinyal MR Sell @ 0.33291 | swingVWAP 0.359463 (bawah, searah âœ”)
+2026-08-11 10:02:19,817 - INFO - âŠ˜ GRVTUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 10:02:21,114 - INFO - â—ˆ HOMEUSDT sinyal MR Buy @ 0.008987 | swingVWAP 0.0105682 (bawah, beda sisi âš )
+2026-08-11 10:02:21,114 - INFO - âŠ˜ HOMEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 10:33:30,540 - INFO - â–  BICOUSDT MR ditutup â€” PnL +0.12$ (ROI +11.8%)
+2026-08-11 10:33:31,284 - INFO - â—ˆ BICOUSDT sinyal MR Buy @ 0.041354 | swingVWAP 0.043054 (bawah, beda sisi âš )
+2026-08-11 10:41:29,336 - INFO - ðŸ‘ BICOUSDT posisi diadopsi (restart) â€” risk0 0.00399537
+2026-08-11 10:49:22,562 - INFO - â–  BICOUSDT ADOPT ditutup â€” PnL +0.90$ (ROI +17.3%)
+2026-08-11 10:49:23,313 - INFO - â—ˆ BICOUSDT sinyal MR Buy @ 0.041354 | swingVWAP 0.043054 (bawah, beda sisi âš )
+2026-08-11 11:00:59,072 - INFO - â—ˆ NILUSDT sinyal MR Buy @ 0.03924 | swingVWAP 0.0432148 (bawah, beda sisi âš )
+2026-08-11 11:00:59,081 - INFO - ðŸ›¡ðŸŽ£ NILUSDT SL STOP-HUNT (opsi 2) @ 0.0378842 â€” di luar zona sweep kolam terdekat
+2026-08-11 11:00:59,081 - INFO - âŠ˜ NILUSDT level tidak valid (px 0.03931 sl 0.0378842 tp 0.039175)
+2026-08-11 11:01:34,812 - INFO - â—ˆ SKYAI1USDT sinyal MR Sell @ 0.10385 | swingVWAP 0.10578 (bawah, searah âœ”)
+2026-08-11 11:01:34,823 - INFO - SKYAI1USDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-11 11:01:34,831 - INFO - ðŸ§¯ SKYAI1USDT RISK CAP $0.30 â€” risiko $35.86 â†’ margin $0.84
+2026-08-11 11:01:34,868 - ERROR - âœ˜ SKYAI1USDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 04:01:34).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "SKYAI1USDT", "side": "Sell", "orderType": "Market", "qty": "80.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 11:01:35,770 - INFO - â—ˆ INJUSDT sinyal MR Sell @ 4.44 | swingVWAP 4.41483 (atas, beda sisi âš )
+2026-08-11 11:01:35,779 - INFO - ðŸ›¡ðŸŽ£ INJUSDT SL STOP-HUNT (opsi 2) @ 4.47305 â€” di luar zona sweep kolam terdekat
+2026-08-11 11:01:35,787 - INFO - ðŸ§¯ INJUSDT RISK CAP $0.30 â€” risiko $18.61 â†’ margin $1.61
+2026-08-11 11:01:35,824 - ERROR - âœ˜ INJUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 04:01:35).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "INJUSDT", "side": "Sell", "orderType": "Market", "qty": "9.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 11:01:38,403 - INFO - â—ˆ BOMEUSDT sinyal MR Buy @ 0.0007552 | swingVWAP 0.000797829 (bawah, beda sisi âš )
+2026-08-11 11:01:38,411 - INFO - ðŸ›¡ðŸŽ£ BOMEUSDT SL STOP-HUNT (opsi 2) @ 0.000732382 â€” di luar zona sweep kolam terdekat
+2026-08-11 11:01:38,419 - INFO - ðŸ§¯ BOMEUSDT RISK CAP $0.30 â€” risiko $62.10 â†’ margin $0.48
+2026-08-11 11:01:38,454 - ERROR - âœ˜ BOMEUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 04:01:38).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "BOMEUSDT", "side": "Buy", "orderType": "Market", "qty": "13300.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 11:02:12,279 - INFO - â—ˆ MONUSDT sinyal MR Buy @ 0.021951 | swingVWAP 0.0221252 (bawah, beda sisi âš )
+2026-08-11 11:02:12,288 - INFO - ðŸ›¡ðŸŽ£ MONUSDT SL STOP-HUNT (opsi 2) @ 0.0213511 â€” di luar zona sweep kolam terdekat
+2026-08-11 11:02:12,288 - INFO - âŠ˜ MONUSDT level tidak valid (px 0.021994 sl 0.0213511 tp 0.0219163)
+2026-08-11 11:02:13,376 - INFO - â—ˆ VELODROMEUSDT sinyal MR Buy @ 0.017327 | swingVWAP 0.0172139 (atas, searah âœ”)
+2026-08-11 11:02:13,385 - INFO - ðŸ›¡ðŸŽ£ VELODROMEUSDT SL STOP-HUNT (opsi 2) @ 0.0169447 â€” di luar zona sweep kolam terdekat
+2026-08-11 11:02:13,394 - INFO - ðŸ§¯ VELODROMEUSDT RISK CAP $0.30 â€” risiko $46.50 â†’ margin $0.65
+2026-08-11 11:02:13,439 - ERROR - âœ˜ VELODROMEUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 04:02:13).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "VELODROMEUSDT", "side": "Buy", "orderType": "Market", "qty": "749.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 11:02:13,884 - INFO - â—ˆ BANKUSDT sinyal MR Buy @ 0.03865 | swingVWAP 0.0388323 (bawah, beda sisi âš )
+2026-08-11 11:02:13,891 - INFO - ðŸ›¡ðŸŽ£ BANKUSDT SL STOP-HUNT (opsi 2) @ 0.0379269 â€” di luar zona sweep kolam terdekat
+2026-08-11 11:02:13,900 - INFO - ðŸ§¯ BANKUSDT RISK CAP $0.30 â€” risiko $33.35 â†’ margin $0.90
+2026-08-11 11:02:13,944 - ERROR - âœ˜ BANKUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 04:02:13).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "BANKUSDT", "side": "Buy", "orderType": "Market", "qty": "460.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 11:28:56,310 - INFO - ðŸ‘ VELODROMEUSDT posisi diadopsi (restart) â€” risk0 0.000234
+2026-08-11 12:00:04,347 - INFO - â—ˆ MMTUSDT sinyal MR Buy @ 0.20546 | swingVWAP 0.213082 (bawah, beda sisi âš )
+2026-08-11 12:00:42,354 - INFO - â—ˆ ATOMUSDT sinyal MR Buy @ 1.3902 | swingVWAP 1.40659 (bawah, beda sisi âš )
+2026-08-11 12:00:42,354 - INFO - âŠ˜ ATOMUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 12:00:43,458 - INFO - â—ˆ GUNUSDT sinyal MR Sell @ 0.003433 | swingVWAP 0.00357625 (bawah, searah âœ”)
+2026-08-11 12:00:43,458 - INFO - âŠ˜ GUNUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 12:00:47,139 - INFO - â—ˆ SKHYNIXUSDT sinyal MR Sell @ 1021.91 | swingVWAP 998.556 (atas, beda sisi âš )
+2026-08-11 12:00:47,139 - INFO - âŠ˜ SKHYNIXUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 12:01:24,248 - INFO - â—ˆ GWEIUSDT sinyal MR Buy @ 0.02414 | swingVWAP 0.0267501 (bawah, beda sisi âš )
+2026-08-11 12:01:24,248 - INFO - âŠ˜ GWEIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 12:01:56,215 - INFO - â—ˆ SQDUSDT sinyal MR Buy @ 0.04293 | swingVWAP 0.044014 (bawah, beda sisi âš )
+2026-08-11 12:01:56,215 - INFO - âŠ˜ SQDUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 12:01:58,418 - INFO - â—ˆ BLESSUSDT sinyal MR Buy @ 0.012474 | swingVWAP 0.0130269 (bawah, beda sisi âš )
+2026-08-11 12:01:58,418 - INFO - âŠ˜ BLESSUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 12:02:00,810 - INFO - â—ˆ OPUSDT sinyal MR Buy @ 0.09075 | swingVWAP 0.091558 (bawah, beda sisi âš )
+2026-08-11 12:02:00,810 - INFO - âŠ˜ OPUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 12:09:15,760 - INFO - â–  MMTUSDT MR ditutup â€” PnL -0.00$ (ROI -0.3%)
+2026-08-11 12:09:16,529 - INFO - â—ˆ MMTUSDT sinyal MR Buy @ 0.20546 | swingVWAP 0.213082 (bawah, beda sisi âš )
+2026-08-11 12:20:11,718 - INFO - â–  VELODROMEUSDT ADOPT ditutup â€” PnL +0.44$ (ROI +8.1%)
+2026-08-11 12:23:14,607 - INFO - ðŸ‘ BLUAIUSDT posisi diadopsi (restart) â€” risk0 0.00429466
+2026-08-11 12:23:14,625 - INFO - ðŸš¨ BLUAIUSDT POSISI TANPA SL! Dipasang ulang @ 0.0325037 (1.5xATR)
+2026-08-11 12:31:05,683 - INFO - â–  BLUAIUSDT ADOPT ditutup â€” PnL +0.42$ (ROI +6.8%)
+2026-08-11 12:32:56,951 - INFO - ðŸ‘ BLUAIUSDT posisi diadopsi (restart) â€” risk0 0.00207
+2026-08-11 12:40:11,641 - INFO - â–  BLUAIUSDT ADOPT ditutup â€” PnL -0.64$ (ROI -10.1%)
+2026-08-11 12:42:38,748 - INFO - ðŸ‘ BLUAIUSDT posisi diadopsi (restart) â€” risk0 0.00434362
+2026-08-11 12:53:31,215 - INFO - â–  BLUAIUSDT ADOPT ditutup â€” PnL +0.73$ (ROI +14.1%)
+2026-08-11 12:54:46,543 - INFO - ðŸ‘ BLUAIUSDT posisi diadopsi (restart) â€” risk0 0.00437619
+2026-08-11 13:00:13,025 - INFO - â—ˆ FARTCOINUSDT sinyal MR Buy @ 0.13505 | swingVWAP 0.135496 (bawah, beda sisi âš )
+2026-08-11 13:00:13,033 - INFO - ðŸ›¡ðŸŽ£ FARTCOINUSDT SL STOP-HUNT (opsi 2) @ 0.132064 â€” di luar zona sweep kolam terdekat
+2026-08-11 13:00:13,041 - INFO - ðŸ§¯ FARTCOINUSDT RISK CAP $0.30 â€” risiko $54.01 â†’ margin $0.56
+2026-08-11 13:00:14,125 - INFO - â–² LONG FARTCOINUSDT [MR] @ 0.13499 25x TP 0.135855 SL 0.132064 m $0.56
+2026-08-11 13:00:18,123 - INFO - â—ˆ XMRUSDT sinyal MR Buy @ 396.39 | swingVWAP 395.961 (atas, searah âœ”)
+2026-08-11 13:00:18,123 - INFO - âŠ˜ XMRUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 13:00:50,275 - INFO - â–  BLUAIUSDT ADOPT ditutup â€” PnL +0.58$ (ROI +10.8%)
+2026-08-11 13:00:53,129 - INFO - â—ˆ ARBUSDT sinyal MR Buy @ 0.07998 | swingVWAP 0.0803128 (bawah, beda sisi âš )
+2026-08-11 13:00:53,138 - INFO - ðŸ›¡ðŸŽ£ ARBUSDT SL STOP-HUNT (opsi 2) @ 0.0789698 â€” di luar zona sweep kolam terdekat
+2026-08-11 13:00:53,150 - INFO - ðŸ§¯ ARBUSDT RISK CAP $0.30 â€” risiko $30.34 â†’ margin $0.99
+2026-08-11 13:00:54,205 - INFO - â–² LONG ARBUSDT [MR] @ 0.07994 25x TP 0.0805936 SL 0.0789698 m $0.99
+2026-08-11 13:00:56,653 - INFO - â—ˆ CRCLUSDT sinyal MR Sell @ 67.11 | swingVWAP 66.4652 (atas, beda sisi âš )
+2026-08-11 13:00:56,653 - INFO - âŠ˜ CRCLUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 13:00:58,391 - INFO - â—ˆ MONUSDT sinyal MR Sell @ 0.02202 | swingVWAP 0.0221232 (bawah, searah âœ”)
+2026-08-11 13:00:58,392 - INFO - âŠ˜ MONUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 13:01:32,217 - INFO - â—ˆ APTUSDT sinyal MR Buy @ 0.5851 | swingVWAP 0.590804 (bawah, beda sisi âš )
+2026-08-11 13:01:32,217 - INFO - âŠ˜ APTUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 13:01:33,955 - INFO - â—ˆ HYPEUSDT sinyal MR Sell @ 55.321 | swingVWAP 55.1602 (atas, beda sisi âš )
+2026-08-11 13:01:33,955 - INFO - âŠ˜ HYPEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 13:01:35,690 - INFO - â—ˆ XAGUSDT sinyal MR Buy @ 64.91 | swingVWAP 65.0801 (bawah, beda sisi âš )
+2026-08-11 13:01:35,690 - INFO - âŠ˜ XAGUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 13:02:10,404 - INFO - â—ˆ 1000PEPEUSDT sinyal MR Buy @ 0.002861 | swingVWAP 0.00286788 (bawah, beda sisi âš )
+2026-08-11 13:02:10,404 - INFO - âŠ˜ 1000PEPEUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 13:02:11,066 - INFO - â—ˆ MUBARAKUSDT sinyal MR Buy @ 0.018114 | swingVWAP 0.0211439 (bawah, beda sisi âš )
+2026-08-11 13:02:11,066 - INFO - âŠ˜ MUBARAKUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 13:02:11,540 - INFO - â—ˆ CAPUSDT sinyal MR Sell @ 0.04724 | swingVWAP 0.0453321 (atas, beda sisi âš )
+2026-08-11 13:02:11,540 - INFO - âŠ˜ CAPUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 13:07:02,408 - INFO - ðŸ‘ BLUAIUSDT posisi diadopsi (restart) â€” risk0 0.00421178
+2026-08-11 13:11:56,837 - INFO - â–  BLUAIUSDT ADOPT ditutup â€” PnL +1.91$ (ROI +42.0%)
+2026-08-11 13:13:10,848 - INFO - â–  FARTCOINUSDT MR ditutup â€” PnL +0.07$ (ROI +13.1%)
+2026-08-11 13:13:11,612 - INFO - â—ˆ FARTCOINUSDT sinyal MR Buy @ 0.13505 | swingVWAP 0.135496 (bawah, beda sisi âš )
+2026-08-11 13:16:55,469 - INFO - ðŸ‘ FARTCOINUSDT posisi diadopsi (restart) â€” risk0 0.00146345
+2026-08-11 13:48:03,712 - ERROR - Too many visits. Exceeded the API Rate Limit. (ErrCode: 10006). Hit the API rate limit on https://api.bybit.com/v5/market/kline?category=linear&interval=60&limit=500&symbol=ARBUSDT. Sleeping then trying again.
+2026-08-11 13:48:03,712 - ERROR - API rate limit will reset at 14:48:05.712. Sleeping for 2000 ms. Retrying...
+2026-08-11 13:48:05,927 - ERROR - Too many visits. Exceeded the API Rate Limit. (ErrCode: 10006). Hit the API rate limit on https://api.bybit.com/v5/market/kline?category=linear&interval=60&limit=500&symbol=BTCUSDT. Sleeping then trying again.
+2026-08-11 13:48:05,927 - ERROR - API rate limit will reset at 14:48:07.927. Sleeping for 2000 ms. Retrying...
+2026-08-11 13:50:34,270 - INFO - ðŸš€ SNDKUSDT RIDE MAX! TP dilepas â€” lantai 60% profit @ 1247.7 + trailing rapat
+2026-08-11 13:52:24,413 - INFO - ðŸš€ SNDKUSDT RIDE ratchet â€” lantai naik ke 1246.83 (60% dr puncak)
+2026-08-11 13:59:45,370 - INFO - â–  SNDKUSDT MR ditutup â€” PnL +0.06$ (ROI +8.9%)
+2026-08-11 14:02:17,793 - INFO - â—ˆ TUTUSDT sinyal MR Buy @ 0.104165 | swingVWAP 0.146939 (bawah, beda sisi âš )
+2026-08-11 14:02:17,801 - INFO - TUTUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-11 14:02:17,810 - INFO - ðŸ§¯ TUTUSDT RISK CAP $0.30 â€” risiko $52.76 â†’ margin $0.57
+2026-08-11 14:02:17,844 - ERROR - âœ˜ TUTUSDT gagal entry: Order does not meet minimum order value 5USDT (ErrCode: 110094) (ErrTime: 07:02:17).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "TUTUSDT", "side": "Buy", "orderType": "Market", "qty": "27.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 15:00:34,708 - INFO - â—ˆ XAUUSDT sinyal MR Buy @ 4362.39 | swingVWAP 4370.61 (bawah, beda sisi âš )
+2026-08-11 15:00:34,717 - INFO - ðŸ›¡ðŸŽ£ XAUUSDT SL STOP-HUNT (opsi 2) @ 4342.88 â€” di luar zona sweep kolam terdekat
+2026-08-11 15:00:34,727 - INFO - ðŸ§¯ XAUUSDT RISK CAP $0.30 â€” risiko $12.09 â†’ margin $2.48
+2026-08-11 15:00:34,770 - ERROR - âœ˜ XAUUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 08:00:34).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "XAUUSDT", "side": "Buy", "orderType": "Market", "qty": "0.014", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 15:00:36,310 - INFO - â—ˆ CYSUSDT sinyal MR Sell @ 1.3125 | swingVWAP 1.20926 (atas, beda sisi âš )
+2026-08-11 15:00:36,318 - INFO - ðŸ›¡ðŸŽ£ CYSUSDT SL STOP-HUNT (opsi 2) @ 1.3862 â€” di luar zona sweep kolam terdekat
+2026-08-11 15:00:36,318 - INFO - âŠ˜ CYSUSDT TP terlalu dekat (0.070% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-11 15:01:10,348 - INFO - â—ˆ KAITOUSDT sinyal MR Sell @ 0.652 | swingVWAP 0.655693 (bawah, searah âœ”)
+2026-08-11 15:01:10,356 - INFO - ðŸ›¡ðŸŽ£ KAITOUSDT SL STOP-HUNT (opsi 2) @ 0.681664 â€” di luar zona sweep kolam terdekat
+2026-08-11 15:01:10,356 - INFO - âŠ˜ KAITOUSDT level tidak valid (px 0.6492 sl 0.681664 tp 0.652145)
+2026-08-11 15:01:47,252 - INFO - â—ˆ MMTUSDT sinyal MR Sell @ 0.22098 | swingVWAP 0.214194 (atas, beda sisi âš )
+2026-08-11 15:01:47,260 - INFO - ðŸ›¡ðŸŽ£ MMTUSDT SL STOP-HUNT (opsi 2) @ 0.226852 â€” di luar zona sweep kolam terdekat
+2026-08-11 15:01:47,260 - INFO - ðŸ§¯ MMTUSDT RISK CAP $0.30 â€” risiko $60.29 â†’ margin $0.50
+2026-08-11 15:01:47,305 - ERROR - âœ˜ MMTUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 08:01:47).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "MMTUSDT", "side": "Sell", "orderType": "Market", "qty": "56.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 15:02:24,339 - INFO - â—ˆ NBISUSDT sinyal MR Buy @ 185.12 | swingVWAP 188.754 (bawah, beda sisi âš )
+2026-08-11 15:02:24,347 - INFO - ðŸ›¡ðŸŽ£ NBISUSDT SL STOP-HUNT (opsi 2) @ 182.491 â€” di luar zona sweep kolam terdekat
+2026-08-11 15:02:24,347 - INFO - âŠ˜ NBISUSDT level tidak valid (px 186.15 sl 182.491 tp 186.022)
+2026-08-11 15:02:25,468 - INFO - â—ˆ REUSDT sinyal MR Sell @ 0.4224 | swingVWAP 0.413714 (atas, beda sisi âš )
+2026-08-11 15:02:25,476 - INFO - ðŸ›¡ðŸŽ£ REUSDT SL STOP-HUNT (opsi 2) @ 0.437121 â€” di luar zona sweep kolam terdekat
+2026-08-11 15:02:25,486 - INFO - ðŸ§¯ REUSDT RISK CAP $0.30 â€” risiko $62.04 â†’ margin $0.48
+2026-08-11 15:02:25,519 - ERROR - âœ˜ REUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 08:02:25).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "REUSDT", "side": "Sell", "orderType": "Market", "qty": "21.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 15:02:25,754 - INFO - â—ˆ TSLAUSDT sinyal MR Buy @ 331.37 | swingVWAP 330.152 (atas, searah âœ”)
+2026-08-11 15:02:25,763 - INFO - ðŸ›¡ðŸŽ£ TSLAUSDT SL STOP-HUNT (opsi 2) @ 330.057 â€” di luar zona sweep kolam terdekat
+2026-08-11 15:02:25,763 - INFO - âŠ˜ TSLAUSDT TP terlalu dekat (0.054% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-11 15:16:18,804 - INFO - ðŸŒ SYMBOLS diperbarui: 104 kontrak (+3 baru, turnover â‰¥ $5jt)
+2026-08-11 15:17:34,356 - INFO - â—ˆ ROBOUSDT sinyal MR Sell @ 0.013408 | swingVWAP 0.0148897 (bawah, searah âœ”)
+2026-08-11 15:17:34,375 - INFO - ðŸ›¡ðŸŽ£ ROBOUSDT SL STOP-HUNT (opsi 2) @ 0.0142017 â€” di luar zona sweep kolam terdekat
+2026-08-11 15:17:34,375 - INFO - âŠ˜ ROBOUSDT level tidak valid (px 0.013465 sl 0.0142017 tp 0.013549)
+2026-08-11 15:52:07,610 - INFO - â–  FARTCOINUSDT ADOPT ditutup â€” PnL +0.85$ (ROI +12.9%)
+2026-08-11 15:54:36,161 - INFO - ðŸ‘ FARTCOINUSDT posisi diadopsi (restart) â€” risk0 0.00061
+2026-08-11 16:00:37,049 - INFO - â—ˆ FARTCOINUSDT sinyal MR Buy @ 0.13689 | swingVWAP 0.135324 (atas, searah âœ”)
+2026-08-11 16:00:38,354 - INFO - â—ˆ PAXGUSDT sinyal MR Buy @ 4367.5 | swingVWAP 4380.93 (bawah, beda sisi âš )
+2026-08-11 16:00:38,372 - INFO - ðŸ›¡ðŸŽ£ PAXGUSDT SL STOP-HUNT (opsi 2) @ 4328.54 â€” di luar zona sweep kolam terdekat
+2026-08-11 16:00:38,381 - INFO - ðŸ§¯ PAXGUSDT RISK CAP $0.30 â€” risiko $21.28 â†’ margin $1.41
+2026-08-11 16:00:38,425 - ERROR - âœ˜ PAXGUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 09:00:38).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "PAXGUSDT", "side": "Buy", "orderType": "Market", "qty": "0.008", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 16:00:43,156 - INFO - â—ˆ SPCXUSDT sinyal MR Sell @ 136.97 | swingVWAP 135.901 (atas, beda sisi âš )
+2026-08-11 16:00:43,178 - INFO - ðŸ›¡ðŸŽ£ SPCXUSDT SL STOP-HUNT (opsi 2) @ 138.083 â€” di luar zona sweep kolam terdekat
+2026-08-11 16:00:43,178 - INFO - âŠ˜ SPCXUSDT TP terlalu dekat (0.029% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-11 16:01:19,948 - INFO - â—ˆ 1000PEPEUSDT sinyal MR Buy @ 0.002855 | swingVWAP 0.0028671 (bawah, beda sisi âš )
+2026-08-11 16:01:19,957 - INFO - ðŸ›¡ðŸŽ£ 1000PEPEUSDT SL STOP-HUNT (opsi 2) @ 0.00282809 â€” di luar zona sweep kolam terdekat
+2026-08-11 16:01:19,965 - INFO - ðŸ§¯ 1000PEPEUSDT RISK CAP $0.30 â€” risiko $21.82 â†’ margin $1.37
+2026-08-11 16:01:21,027 - INFO - â–² LONG 1000PEPEUSDT [MR] @ 0.002854 25x TP 0.00287074 SL 0.00282809 m $1.37
+2026-08-11 16:01:52,436 - INFO - â–  FARTCOINUSDT ADOPT ditutup â€” PnL +0.69$ (ROI +9.5%)
+2026-08-11 16:01:53,184 - INFO - â—ˆ FARTCOINUSDT sinyal MR Buy @ 0.13689 | swingVWAP 0.135324 (atas, searah âœ”)
+2026-08-11 16:01:56,178 - INFO - â—ˆ BNBUSDT sinyal MR Sell @ 605.4 | swingVWAP 600.832 (atas, beda sisi âš )
+2026-08-11 16:01:56,186 - INFO - ðŸ›¡ðŸŽ£ BNBUSDT SL STOP-HUNT (opsi 2) @ 612.343 â€” di luar zona sweep kolam terdekat
+2026-08-11 16:01:56,194 - INFO - ðŸ§¯ BNBUSDT RISK CAP $0.30 â€” risiko $28.25 â†’ margin $1.06
+2026-08-11 16:01:57,262 - INFO - â–¼ SHORT BNBUSDT [MR] @ 605.4 25x TP 601.384 SL 612.343 m $1.06
+2026-08-11 16:06:51,254 - INFO - ðŸ‘ FARTCOINUSDT posisi diadopsi (restart) â€” risk0 0.00104364
+2026-08-11 16:20:25,919 - INFO - ðŸš¨ FARTCOINUSDT POSISI TANPA SL! Dipasang ulang @ 0.134347 (1.5xATR)
+2026-08-11 16:30:56,892 - INFO - â–  FARTCOINUSDT ADOPT ditutup â€” PnL -0.56$ (ROI -10.1%)
+2026-08-11 16:30:57,641 - INFO - â—ˆ FARTCOINUSDT sinyal MR Buy @ 0.13689 | swingVWAP 0.135324 (atas, searah âœ”)
+2026-08-11 17:01:40,757 - INFO - â—ˆ SUIUSDT sinyal MR Sell @ 0.6913 | swingVWAP 0.687228 (atas, beda sisi âš )
+2026-08-11 17:01:40,757 - INFO - âŠ˜ SUIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 17:01:42,287 - INFO - ðŸ‘ FARTCOINUSDT posisi diadopsi (restart) â€” risk0 0.00176824
+2026-08-11 17:02:14,798 - INFO - â—ˆ INTCUSDT sinyal MR Buy @ 96.72 | swingVWAP 97.9091 (bawah, beda sisi âš )
+2026-08-11 17:02:14,798 - INFO - âŠ˜ INTCUSDT slot penuh (4/3) â€” sinyal dilewati
+2026-08-11 17:02:16,355 - INFO - â—ˆ MMTUSDT sinyal MR Sell @ 0.2266 | swingVWAP 0.220168 (atas, beda sisi âš )
+2026-08-11 17:02:16,355 - INFO - âŠ˜ MMTUSDT slot penuh (4/3) â€” sinyal dilewati
+2026-08-11 17:06:32,520 - INFO - â–  1000PEPEUSDT MR ditutup â€” PnL +0.15$ (ROI +10.9%)
+2026-08-11 17:06:33,510 - INFO - â–  FARTCOINUSDT ADOPT ditutup â€” PnL +0.26$ (ROI +5.1%)
+2026-08-11 17:38:17,188 - INFO - ðŸ‘ BTRUSDT posisi diadopsi (restart) â€” risk0 0.00093
+2026-08-11 17:43:42,506 - INFO - â–  BTRUSDT ADOPT ditutup â€” PnL +1.18$ (ROI +16.5%)
+2026-08-11 17:45:37,085 - INFO - ðŸ‘ BTRUSDT posisi diadopsi (restart) â€” risk0 0.00291372
+2026-08-11 17:45:37,104 - INFO - ðŸš¨ BTRUSDT POSISI TANPA SL! Dipasang ulang @ 0.0269663 (1.5xATR)
+2026-08-11 17:55:20,931 - INFO - â–  BTRUSDT ADOPT ditutup â€” PnL -0.95$ (ROI -13.1%)
+2026-08-11 17:56:03,205 - INFO - ðŸ‘ VELODROMEUSDT posisi diadopsi (restart) â€” risk0 0.000653998
+2026-08-11 18:00:15,642 - INFO - â—ˆ BTCUSDT sinyal MR Sell @ 64193.2 | swingVWAP 64000.1 (atas, beda sisi âš )
+2026-08-11 18:00:15,642 - INFO - âŠ˜ BTCUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:00:15,903 - INFO - â—ˆ ETHUSDT sinyal MR Sell @ 1885.39 | swingVWAP 1876.74 (atas, beda sisi âš )
+2026-08-11 18:00:15,903 - INFO - âŠ˜ ETHUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:00:19,400 - INFO - â—ˆ JTOUSDT sinyal TC Buy @ 0.549 | swingVWAP 0.555541 (bawah, beda sisi âš )
+2026-08-11 18:00:19,400 - INFO - âŠ˜ JTOUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:00:19,848 - INFO - â—ˆ SKYAI1USDT sinyal MR Sell @ 0.10433 | swingVWAP 0.105056 (bawah, searah âœ”)
+2026-08-11 18:00:19,848 - INFO - âŠ˜ SKYAI1USDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:00:20,527 - INFO - â—ˆ LTCUSDT sinyal MR Sell @ 45.42 | swingVWAP 45.2519 (atas, beda sisi âš )
+2026-08-11 18:00:20,527 - INFO - âŠ˜ LTCUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:00:53,562 - INFO - â—ˆ WLFIUSDT sinyal TC Sell @ 0.05504 | swingVWAP 0.0544295 (atas, beda sisi âš )
+2026-08-11 18:00:53,562 - INFO - âŠ˜ WLFIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:00:55,772 - INFO - â—ˆ EWYUSDT sinyal TC Buy @ 165.68 | swingVWAP 164.894 (atas, searah âœ”)
+2026-08-11 18:00:55,772 - INFO - âŠ˜ EWYUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:00:56,008 - INFO - â—ˆ MONUSDT sinyal MR Sell @ 0.02206 | swingVWAP 0.0219456 (atas, beda sisi âš )
+2026-08-11 18:00:56,008 - INFO - âŠ˜ MONUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:01:32,741 - INFO - â—ˆ BLUAIUSDT sinyal TC Sell @ 0.028151 | swingVWAP 0.028033 (atas, beda sisi âš )
+2026-08-11 18:01:32,741 - INFO - âŠ˜ BLUAIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:01:35,108 - INFO - â—ˆ ENAUSDT sinyal TC Buy @ 0.09049 | swingVWAP 0.0896709 (atas, searah âœ”)
+2026-08-11 18:01:35,108 - INFO - âŠ˜ ENAUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:02:10,298 - INFO - â—ˆ NILUSDT sinyal TC Sell @ 0.03819 | swingVWAP 0.0387614 (bawah, searah âœ”)
+2026-08-11 18:02:10,298 - INFO - âŠ˜ NILUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:02:11,197 - INFO - â—ˆ DRAMUSDT sinyal TC Buy @ 50.63 | swingVWAP 50.4206 (atas, searah âœ”)
+2026-08-11 18:02:11,197 - INFO - âŠ˜ DRAMUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 18:14:58,164 - INFO - â–  VELODROMEUSDT ADOPT ditutup â€” PnL +1.44$ (ROI +23.4%)
+2026-08-11 18:15:36,994 - INFO - ðŸ‘ VELODROMEUSDT posisi diadopsi (restart) â€” risk0 0.000639611
+2026-08-11 18:15:37,014 - INFO - ðŸš¨ VELODROMEUSDT POSISI TANPA SL! Dipasang ulang @ 0.0182476 (1.5xATR)
+2026-08-11 18:29:40,793 - INFO - â–  VELODROMEUSDT ADOPT ditutup â€” PnL -0.99$ (ROI -13.6%)
+2026-08-11 19:00:03,999 - INFO - â—ˆ CAPUSDT sinyal MR Sell @ 0.04884 | swingVWAP 0.0468981 (atas, beda sisi âš )
+2026-08-11 19:00:03,008 - INFO - CAPUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-11 19:00:03,017 - INFO - ðŸ§¯ CAPUSDT RISK CAP $0.30 â€” risiko $70.43 â†’ margin $0.43
+2026-08-11 19:00:03,064 - ERROR - âœ˜ CAPUSDT gagal entry: Order does not meet minimum order value 5USDT (ErrCode: 110094) (ErrTime: 12:00:03).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "CAPUSDT", "side": "Sell", "orderType": "Market", "qty": "60.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 19:00:03,945 - INFO - â—ˆ NILUSDT sinyal TC Sell @ 0.03671 | swingVWAP 0.0385793 (bawah, searah âœ”)
+2026-08-11 19:00:03,954 - INFO - ðŸ›¡ðŸŽ£ NILUSDT SL STOP-HUNT (opsi 2) @ 0.0383693 â€” di luar zona sweep kolam terdekat
+2026-08-11 19:00:03,954 - INFO - âŠ˜ NILUSDT level tidak valid (px 0.03664 sl 0.0383693 tp 0.0367892)
+2026-08-11 19:00:42,078 - INFO - â—ˆ NBISUSDT sinyal MR Sell @ 187.52 | swingVWAP 188.238 (bawah, searah âœ”)
+2026-08-11 19:00:42,086 - INFO - ðŸ›¡ðŸŽ£ NBISUSDT SL STOP-HUNT (opsi 2) @ 189.252 â€” di luar zona sweep kolam terdekat
+2026-08-11 19:00:42,093 - INFO - ðŸ§¯ NBISUSDT RISK CAP $0.30 â€” risiko $18.47 â†’ margin $1.62
+2026-08-11 19:00:42,135 - ERROR - âœ˜ NBISUSDT gagal entry: ab not enough for new order (ErrCode: 110007) (ErrTime: 12:00:42).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "NBISUSDT", "side": "Sell", "orderType": "Market", "qty": "0.17", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 19:00:42,583 - INFO - â—ˆ WLFIUSDT sinyal TC Sell @ 0.05542 | swingVWAP 0.055384 (atas, beda sisi âš )
+2026-08-11 19:00:42,591 - INFO - ðŸ›¡ðŸŽ£ WLFIUSDT SL STOP-HUNT (opsi 2) @ 0.0568337 â€” di luar zona sweep kolam terdekat
+2026-08-11 19:00:42,599 - INFO - ðŸ§¯ WLFIUSDT RISK CAP $0.30 â€” risiko $62.39 â†’ margin $0.48
+2026-08-11 19:00:43,667 - INFO - â–¼ SHORT WLFIUSDT [TC] @ 0.05545 25x TP 0.0546586 SL 0.0568337 m $0.48
+2026-08-11 19:00:46,398 - INFO - â—ˆ APTUSDT sinyal MR Buy @ 0.5837 | swingVWAP 0.588809 (bawah, beda sisi âš )
+2026-08-11 19:00:46,398 - INFO - âŠ˜ APTUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 19:01:19,200 - INFO - â—ˆ TIAUSDT sinyal TC Sell @ 0.3164 | swingVWAP 0.322887 (bawah, searah âœ”)
+2026-08-11 19:01:19,200 - INFO - âŠ˜ TIAUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 19:01:58,786 - INFO - â—ˆ TAOUSDT sinyal MR Sell @ 201.29 | swingVWAP 199.536 (atas, beda sisi âš )
+2026-08-11 19:01:58,786 - INFO - âŠ˜ TAOUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 19:09:15,487 - INFO - â–  BNBUSDT MR ditutup â€” PnL -0.20$ (ROI -18.7%)
+2026-08-11 20:00:18,491 - INFO - â—ˆ WLFIUSDT sinyal TC Sell @ 0.05519 | swingVWAP 0.0553781 (bawah, searah âœ”)
+2026-08-11 20:00:20,032 - INFO - â—ˆ ICPUSDT sinyal MR Buy @ 2.296 | swingVWAP 2.29349 (atas, searah âœ”)
+2026-08-11 20:00:20,041 - INFO - ðŸ›¡ðŸŽ£ ICPUSDT SL STOP-HUNT (opsi 2) @ 2.17861 â€” di luar zona sweep kolam terdekat
+2026-08-11 20:00:20,050 - INFO - ðŸ§¯ ICPUSDT RISK CAP $0.30 â€” risiko $65.93 â†’ margin $0.46
+2026-08-11 20:00:21,120 - INFO - â–² LONG ICPUSDT [MR] @ 2.295 13x TP 2.33736 SL 2.17861 m $0.46
+2026-08-11 20:00:24,400 - ERROR - Too many visits. Exceeded the API Rate Limit. (ErrCode: 10006). Hit the API rate limit on https://api.bybit.com/v5/market/kline?category=linear&interval=60&limit=500&symbol=BTRUSDT. Sleeping then trying again.
+2026-08-11 20:00:24,400 - ERROR - API rate limit will reset at 21:00:26.400. Sleeping for 2000 ms. Retrying...
+2026-08-11 20:01:03,437 - INFO - â—ˆ ATOMUSDT sinyal MR Sell @ 1.42 | swingVWAP 1.40548 (atas, beda sisi âš )
+2026-08-11 20:01:03,437 - INFO - âŠ˜ ATOMUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 20:01:04,775 - INFO - â—ˆ GUNUSDT sinyal TC Buy @ 0.003559 | swingVWAP 0.00345796 (atas, searah âœ”)
+2026-08-11 20:01:04,775 - INFO - âŠ˜ GUNUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 20:01:41,262 - INFO - â—ˆ BLUAIUSDT sinyal TC Sell @ 0.028224 | swingVWAP 0.0288393 (bawah, searah âœ”)
+2026-08-11 20:01:41,262 - INFO - âŠ˜ BLUAIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 20:02:17,760 - INFO - â—ˆ GWEIUSDT sinyal TC Sell @ 0.02426 | swingVWAP 0.0265444 (bawah, searah âœ”)
+2026-08-11 20:02:17,760 - INFO - âŠ˜ GWEIUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 20:02:17,997 - INFO - â—ˆ CAPUSDT sinyal TC Buy @ 0.05104 | swingVWAP 0.0471701 (atas, searah âœ”)
+2026-08-11 20:02:17,998 - INFO - âŠ˜ CAPUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 20:02:18,440 - INFO - â—ˆ MUBARAKUSDT sinyal TC Sell @ 0.017985 | swingVWAP 0.0198075 (bawah, searah âœ”)
+2026-08-11 20:02:18,441 - INFO - âŠ˜ MUBARAKUSDT slot penuh (3/3) â€” sinyal dilewati
+2026-08-11 20:06:40,951 - INFO - â–¶ VWAP BOT dimulai â€” saldo $4.04 | Session anchor | TF 60m | 3 simbol | cap $1.2
+2026-08-11 20:06:40,951 - INFO - âš  CATATAN JUJUR: backtest pembuat indikator = NOL sebagai sistem tunggal. Bot ini uji coba sadar-risiko dgn risk cap ketat.
+2026-08-11 20:06:40,979 - INFO - ðŸŒ SYMBOLS diperbarui: 106 kontrak (+103 baru, turnover â‰¥ $5jt)
+2026-08-11 20:08:36,491 - INFO - â—ˆ HBARUSDT sinyal TC Sell @ 0.06659 | swingVWAP 0.067791 (bawah, searah âœ”)
+2026-08-11 20:08:36,499 - INFO - ðŸ›¡ðŸŽ£ HBARUSDT SL STOP-HUNT (opsi 2) @ 0.0681607 â€” di luar zona sweep kolam terdekat
+2026-08-11 20:08:36,508 - INFO - ðŸ§¯ HBARUSDT RISK CAP $0.30 â€” risiko $2.68 â†’ margin $0.56
+2026-08-11 20:08:37,608 - INFO - â–¼ SHORT HBARUSDT [TC] @ 0.06672 25x TP 0.0665001 SL 0.0681607 m $0.56
+2026-08-11 21:00:00,306 - INFO - â—ˆ WLFIUSDT sinyal TC Sell @ 0.05531 | swingVWAP 0.0553715 (bawah, searah âœ”)
+2026-08-11 21:00:02,568 - INFO - â—ˆ XPLUSDT sinyal MR Buy @ 0.07838 | swingVWAP 0.079313 (bawah, beda sisi âš )
+2026-08-11 21:00:02,579 - INFO - ðŸ›¡ðŸŽ£ XPLUSDT SL STOP-HUNT (opsi 2) @ 0.0774081 â€” di luar zona sweep kolam terdekat
+2026-08-11 21:00:02,587 - INFO - ðŸ§¯ XPLUSDT RISK CAP $0.30 â€” risiko $1.46 â†’ margin $1.03
+2026-08-11 21:00:02,587 - INFO - ðŸ§¯ XPLUSDT margin $1.03 > plafon 25% saldo ($0.98) â€” dipangkas
+2026-08-11 21:00:03,650 - INFO - â–² LONG XPLUSDT [MR] @ 0.07832 25x TP 0.0794706 SL 0.0774081 m $0.98
+2026-08-11 21:00:07,241 - INFO - â—ˆ XLKUSDT sinyal MR Sell @ 187.54 | swingVWAP 186.46 (atas, beda sisi âš )
+2026-08-11 21:00:07,241 - INFO - âŠ˜ XLKUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 21:00:07,942 - INFO - â—ˆ RENDERUSDT sinyal TC Buy @ 1.256 | swingVWAP 1.27319 (bawah, beda sisi âš )
+2026-08-11 21:00:07,942 - INFO - âŠ˜ RENDERUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 21:00:42,289 - INFO - â—ˆ SPCXUSDT sinyal MR Sell @ 135.88 | swingVWAP 136.186 (bawah, searah âœ”)
+2026-08-11 21:00:42,289 - INFO - âŠ˜ SPCXUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 21:00:42,567 - INFO - â—ˆ BEATUSDT sinyal TC Sell @ 0.88 | swingVWAP 1.43729 (bawah, searah âœ”)
+2026-08-11 21:00:42,567 - INFO - âŠ˜ BEATUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 21:01:19,117 - INFO - â—ˆ SKHYUSDT sinyal TC Buy @ 139.2 | swingVWAP 137.524 (atas, searah âœ”)
+2026-08-11 21:01:19,117 - INFO - âŠ˜ SKHYUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 21:01:20,465 - INFO - â—ˆ TAOUSDT sinyal MR Sell @ 202.62 | swingVWAP 200.003 (atas, beda sisi âš )
+2026-08-11 21:01:20,465 - INFO - âŠ˜ TAOUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 21:26:19,061 - INFO - â–  ICPUSDT MR ditutup â€” PnL +0.10$ (ROI +22.0%)
+2026-08-11 21:50:28,558 - INFO - â–  ARBUSDT MR ditutup â€” PnL -0.23$ (ROI -23.1%)
+2026-08-11 21:51:06,152 - INFO - â–  XPLUSDT MR ditutup â€” PnL -0.19$ (ROI -19.1%)
+2026-08-11 21:51:06,893 - INFO - â—ˆ XPLUSDT sinyal MR Buy @ 0.07838 | swingVWAP 0.079313 (bawah, beda sisi âš )
+2026-08-11 21:51:07,116 - INFO - â–  HBARUSDT TC ditutup â€” PnL +0.02$ (ROI +3.7%)
+2026-08-11 22:00:09,951 - INFO - â—ˆ WLFIUSDT sinyal TC Sell @ 0.05526 | swingVWAP 0.0553716 (bawah, searah âœ”)
+2026-08-11 22:00:10,833 - INFO - â—ˆ LINKUSDT sinyal TC Buy @ 8.546 | swingVWAP 8.46678 (atas, searah âœ”)
+2026-08-11 22:00:10,842 - INFO - ðŸ›¡ðŸŽ£ LINKUSDT SL STOP-HUNT (opsi 2) @ 8.21884 â€” di luar zona sweep kolam terdekat
+2026-08-11 22:00:10,850 - INFO - ðŸ§¯ LINKUSDT RISK CAP $0.30 â€” risiko $3.29 â†’ margin $0.46
+2026-08-11 22:00:11,931 - INFO - â–² LONG LINKUSDT [TC] @ 8.551 17x TP 8.76716 SL 8.21884 m $0.46
+2026-08-11 22:00:13,312 - INFO - â—ˆ NEARUSDT sinyal TC Sell @ 1.542 | swingVWAP 1.58806 (bawah, searah âœ”)
+2026-08-11 22:00:13,321 - INFO - ðŸ›¡ðŸŽ£ NEARUSDT SL STOP-HUNT (opsi 2) @ 1.62502 â€” di luar zona sweep kolam terdekat
+2026-08-11 22:00:13,321 - INFO - âŠ˜ NEARUSDT level tidak valid (px 1.542 sl 1.62502 tp 1.54441)
+2026-08-11 22:00:14,668 - INFO - â—ˆ 1000PEPEUSDT sinyal TC Sell @ 0.002785 | swingVWAP 0.00283705 (bawah, searah âœ”)
+2026-08-11 22:00:14,677 - INFO - ðŸ›¡ðŸŽ£ 1000PEPEUSDT SL STOP-HUNT (opsi 2) @ 0.00289188 â€” di luar zona sweep kolam terdekat
+2026-08-11 22:00:14,678 - INFO - âŠ˜ 1000PEPEUSDT TP terlalu dekat (0.141% < 0.34% = 2x fee+slippage) â€” sinyal dilewati, tak layak biaya
+2026-08-11 22:00:17,719 - INFO - â—ˆ DRAMUSDT sinyal TC Buy @ 51.2 | swingVWAP 50.7082 (atas, searah âœ”)
+2026-08-11 22:00:17,729 - INFO - ðŸ›¡ðŸŽ£ DRAMUSDT SL STOP-HUNT (opsi 2) @ 50.7849 â€” di luar zona sweep kolam terdekat
+2026-08-11 22:00:17,737 - INFO - ðŸ§¯ DRAMUSDT RISK CAP $0.30 â€” risiko $0.83 â†’ margin $1.81
+2026-08-11 22:00:17,737 - INFO - ðŸ§¯ DRAMUSDT margin $1.81 > plafon 25% saldo ($0.88) â€” dipangkas
+2026-08-11 22:00:18,806 - INFO - â–² LONG DRAMUSDT [TC] @ 51.23 20x TP 51.4664 SL 50.7849 m $0.88
+2026-08-11 22:00:51,565 - INFO - â—ˆ BMTUSDT sinyal TC Sell @ 0.020692 | swingVWAP 0.0289929 (bawah, searah âœ”)
+2026-08-11 22:00:51,574 - INFO - BMTUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-11 22:00:51,582 - INFO - ðŸ§¯ BMTUSDT RISK CAP $0.30 â€” risiko $2.46 â†’ margin $0.61
+2026-08-11 22:00:51,618 - ERROR - âœ˜ BMTUSDT gagal entry: Order does not meet minimum order value 5USDT (ErrCode: 110094) (ErrTime: 15:00:51).
+Request â†’ POST https://api.bybit.com/v5/order/create: {"category": "linear", "symbol": "BMTUSDT", "side": "Sell", "orderType": "Market", "qty": "148.0", "timeInForce": "GTC", "positionIdx": 0}.
+2026-08-11 22:00:54,925 - INFO - â—ˆ SHIB1000USDT sinyal TC Sell @ 0.004442 | swingVWAP 0.00450731 (bawah, searah âœ”)
+2026-08-11 22:00:54,939 - INFO - ðŸ›¡ðŸŽ£ SHIB1000USDT SL STOP-HUNT (opsi 2) @ 0.00455942 â€” di luar zona sweep kolam terdekat
+2026-08-11 22:00:54,939 - INFO - âŠ˜ SHIB1000USDT level tidak valid (px 0.004442 sl 0.00455942 tp 0.00445381)
+2026-08-11 22:00:55,833 - INFO - â—ˆ XLMUSDT sinyal TC Sell @ 0.1589 | swingVWAP 0.161969 (bawah, searah âœ”)
+2026-08-11 22:00:55,842 - INFO - ðŸ›¡ðŸŽ£ XLMUSDT SL STOP-HUNT (opsi 2) @ 0.163482 â€” di luar zona sweep kolam terdekat
+2026-08-11 22:00:55,842 - INFO - âŠ˜ XLMUSDT level tidak valid (px 0.159 sl 0.163482 tp 0.159353)
+2026-08-11 22:00:56,080 - INFO - â—ˆ TRUMPUSDT sinyal TC Sell @ 1.503 | swingVWAP 1.50149 (atas, beda sisi âš )
+2026-08-11 22:00:56,090 - INFO - ðŸ›¡ðŸŽ£ TRUMPUSDT SL STOP-HUNT (opsi 2) @ 1.51235 â€” di luar zona sweep kolam terdekat
+2026-08-11 22:00:56,099 - INFO - ðŸ§¯ TRUMPUSDT RISK CAP $0.30 â€” risiko $1.11 â†’ margin $1.35
+2026-08-11 22:00:56,099 - INFO - ðŸ§¯ TRUMPUSDT margin $1.35 > plafon 25% saldo ($0.87) â€” dipangkas
+2026-08-11 22:00:57,155 - INFO - â–¼ SHORT TRUMPUSDT [TC] @ 1.499 25x TP 1.48823 SL 1.51235 m $0.87
+2026-08-11 22:00:58,602 - INFO - â—ˆ ARBUSDT sinyal TC Sell @ 0.07802 | swingVWAP 0.0797173 (bawah, searah âœ”)
+2026-08-11 22:01:30,644 - INFO - â—ˆ 1000BONKUSDT sinyal TC Sell @ 0.00229 | swingVWAP 0.00241017 (bawah, searah âœ”)
+2026-08-11 22:01:30,653 - INFO - 1000BONKUSDT tak ada kolam layak â€” SL indikator dipakai
+2026-08-11 22:01:30,662 - INFO - ðŸ§¯ 1000BONKUSDT RISK CAP $0.30 â€” risiko $3.25 â†’ margin $0.46
+2026-08-11 22:01:31,734 - INFO - â–¼ SHORT 1000BONKUSDT [TC] @ 0.002297 17x TP 0.00228206 SL 0.00238574 m $0.46
+2026-08-11 22:01:37,187 - INFO - â—ˆ TIAUSDT sinyal TC Sell @ 0.3084 | swingVWAP 0.320643 (bawah, searah âœ”)
+2026-08-11 22:01:37,187 - INFO - âŠ˜ TIAUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 22:02:11,119 - INFO - â—ˆ XRPUSDT sinyal TC Sell @ 0.9939 | swingVWAP 1.01561 (bawah, searah âœ”)
+2026-08-11 22:02:11,119 - INFO - âŠ˜ XRPUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 22:02:12,243 - INFO - â—ˆ BEATUSDT sinyal TC Sell @ 0.97 | swingVWAP 1.38971 (bawah, searah âœ”)
+2026-08-11 22:02:12,243 - INFO - âŠ˜ BEATUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 22:02:13,369 - INFO - â—ˆ BLUAIUSDT sinyal TC Sell @ 0.014266 | swingVWAP 0.0247328 (bawah, searah âœ”)
+2026-08-11 22:02:13,369 - INFO - âŠ˜ BLUAIUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 22:03:30,221 - INFO - â—ˆ OPUSDT sinyal TC Sell @ 0.08904 | swingVWAP 0.0909633 (bawah, searah âœ”)
+2026-08-11 22:03:30,221 - INFO - âŠ˜ OPUSDT slot penuh (5/5) â€” sinyal dilewati
+2026-08-11 22:39:06,044 - INFO - â–  1000BONKUSDT TC ditutup â€” PnL +0.01$ (ROI +1.5%)
+2026-08-11 22:39:06,811 - INFO - â—ˆ 1000BONKUSDT sinyal TC Sell @ 0.00229 | swingVWAP 0.00241017 (bawah, searah âœ”)
+2026-08-11 22:39:07,234 - INFO - â–  TRUMPUSDT TC ditutup â€” PnL +0.10$ (ROI +11.7%)
+2026-08-11 22:39:08,019 - INFO - â—ˆ TRUMPUSDT sinyal TC Sell @ 1.503 | swingVWAP 1.50149 (atas, beda sisi âš )
