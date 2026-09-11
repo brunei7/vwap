@@ -1,0 +1,164 @@
+[
+ {
+  "t": "2026-09-11 09:26",
+  "sym": "EIGENUSDT",
+  "kind": "VARH",
+  "side": "Buy",
+  "pnl": 1.1746,
+  "mfe_r": 0.62,
+  "mfe_tp_pct": 100.0
+ },
+ {
+  "t": "2026-09-11 10:52",
+  "sym": "APTUSDT",
+  "kind": "VARH",
+  "side": "Buy",
+  "pnl": 0.6997,
+  "mfe_r": 1.03,
+  "mfe_tp_pct": 43.5
+ },
+ {
+  "t": "2026-09-11 12:00",
+  "sym": "DOTUSDT",
+  "kind": "VARH",
+  "side": "Buy",
+  "pnl": 5.183,
+  "mfe_r": 2.88,
+  "mfe_tp_pct": 100.0
+ },
+ {
+  "t": "2026-09-11 14:11",
+  "sym": "NEARUSDT",
+  "kind": "VARH",
+  "side": "Buy",
+  "pnl": 9.0386,
+  "mfe_r": 4.17,
+  "mfe_tp_pct": 100.0
+ },
+ {
+  "t": "2026-09-11 15:08",
+  "sym": "XPLUSDT",
+  "kind": "VARH",
+  "side": "Sell",
+  "pnl": 0.6984,
+  "mfe_r": 1.06,
+  "mfe_tp_pct": 41.8
+ },
+ {
+  "t": "2026-09-11 15:25",
+  "sym": "XLMUSDT",
+  "kind": "VARH",
+  "side": "Sell",
+  "pnl": 1.2174,
+  "mfe_r": 1.08,
+  "mfe_tp_pct": 76.9
+ },
+ {
+  "t": "2026-09-11 16:41",
+  "sym": "TAOUSDT",
+  "kind": "VARH",
+  "side": "Sell",
+  "pnl": 4.9992,
+  "mfe_r": 2.05,
+  "mfe_tp_pct": 100.0
+ },
+ {
+  "t": "2026-09-11 17:31",
+  "sym": "EIGENUSDT",
+  "kind": "VARH",
+  "side": "Buy",
+  "pnl": -3.5028,
+  "mfe_r": 0.77,
+  "mfe_tp_pct": 44.4
+ },
+ {
+  "t": "2026-09-11 17:59",
+  "sym": "ENAUSDT",
+  "kind": "VARH",
+  "side": "Sell",
+  "pnl": 4.5683,
+  "mfe_r": 1.92,
+  "mfe_tp_pct": 100.0
+ },
+ {
+  "t": "2026-09-11 20:15",
+  "sym": "NEARUSDT",
+  "kind": "VARH",
+  "side": "Buy",
+  "pnl": 7.929,
+  "mfe_r": 3.24,
+  "mfe_tp_pct": 94.4
+ },
+ {
+  "t": "2026-09-11 20:15",
+  "sym": "ENAUSDT",
+  "kind": "VARH",
+  "side": "Sell",
+  "pnl": 0.0,
+  "mfe_r": 0.0,
+  "mfe_tp_pct": 0.0
+ },
+ {
+  "t": "2026-09-11 20:15",
+  "sym": "XPLUSDT",
+  "kind": "VARH",
+  "side": "Sell",
+  "pnl": 0.0,
+  "mfe_r": 0.0,
+  "mfe_tp_pct": 0.0
+ },
+ {
+  "t": "2026-09-11 20:49",
+  "sym": "LINKUSDT",
+  "kind": "VARH",
+  "side": "Sell",
+  "pnl": -2.016,
+  "mfe_r": 0.0,
+  "mfe_tp_pct": 0.0
+ },
+ {
+  "t": "2026-09-11 22:28",
+  "sym": "TIAUSDT",
+  "kind": "VARH",
+  "side": "Sell",
+  "pnl": 0.9974,
+  "mfe_r": 1.28,
+  "mfe_tp_pct": 41.2
+ },
+ {
+  "t": "2026-09-11 23:18",
+  "sym": "SOPHUSDT",
+  "kind": "VARH",
+  "side": "Sell",
+  "pnl": 0.6615,
+  "mfe_r": 0.57,
+  "mfe_tp_pct": 28.4
+ },
+ {
+  "t": "2026-09-11 23:44",
+  "sym": "NESAUSDT",
+  "kind": "VARH",
+  "side": "Buy",
+  "pnl": 3.654,
+  "mfe_r": 1.35,
+  "mfe_tp_pct": 95.8
+ },
+ {
+  "t": "2026-09-11 23:49",
+  "sym": "ALGOUSDT",
+  "kind": "VARH",
+  "side": "Sell",
+  "pnl": 5.8538,
+  "mfe_r": 5.25,
+  "mfe_tp_pct": 64.3
+ },
+ {
+  "t": "2026-09-12 00:41",
+  "sym": "ALGOUSDT",
+  "kind": "VARH",
+  "side": "Buy",
+  "pnl": -20.9125,
+  "mfe_r": 1.96,
+  "mfe_tp_pct": 38.9
+ }
+]
